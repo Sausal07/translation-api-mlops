@@ -1,0 +1,9 @@
+to run application:
+
+$ uvicorn app:app --reload --host 0.0.0.0 --port 8090
+
+
+to install fastapi and other packages:
+
+$ pip install fastapi uvicorn
+$ pip install ctranslate2

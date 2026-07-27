@@ -1,0 +1,8463 @@
+{
+  "Accountant": {
+    "<2hi>": "लेखापाल/लेखाकार"
+  },
+  "Accountant General": {
+    "<2hi>": "महालेखाकार"
+  },
+  "Additional Accountant General": {
+    "<2hi>": "अपर महालेखाकार"
+  },
+  "Additional Secretary": {
+    "<2hi>": "अपर सचिव"
+  },
+  "Additional Professor": {
+    "<2hi>": "अतिरिक्त प्रोफेसर"
+  },
+  "Adjunct Engineer": {
+    "<2hi>": "सहायक अभियंता"
+  },
+  "Adjunct Scientist": {
+    "<2hi>": "सहायक वैज्ञानिक"
+  },
+  "Admin Executive": {
+    "<2hi>": "व्यवस्थापन कार्यकारी/कार्यपालक"
+  },
+  "Admin Officer": {
+    "<2hi>": "व्यवस्थापन अधिकारी"
+  },
+  "Administration (Admin)": {
+    "<2hi>": "व्यवस्थापन"
+  },
+  "Assistant Accounts Officer": {
+    "<2hi>": "सहायक लेखा अधिकारी"
+  },
+  "Assistant Audit Officer": {
+    "<2hi>": "सहायक लेखापरीक्षा अधिकारी"
+  },
+  "Assistant Supervisor": {
+    "<2hi>": "सहायक पर्यवेक्षक"
+  },
+  "Associate": {
+    "<2hi>": "सहायक"
+  },
+  "Associate Director": {
+    "<2hi>": "सह निदेशक"
+  },
+  "Attendant": {
+    "<2hi>": "परिचर/परिचारक"
+  },
+  "Auditor": {
+    "<2hi>": "लेखापरीक्षक"
+  },
+  "Business Analysts": {
+    "<2hi>": "व्यवसाय विश्लेषक"
+  },
+  "Centre Coordination": {
+    "<2hi>": "केंद्र समन्वय"
+  },
+  "Chief Finance Officer": {
+    "<2hi>": "मुख्य वित्त अधिकारी"
+  },
+  "Chief Information Officer": {
+    "<2hi>": "मुख्य सूचना अधिकारी"
+  },
+  "Chief Librarian": {
+    "<2hi>": "मुख्य पुस्तकालयाध्यक्ष"
+  },
+  "Clerk": {
+    "<2hi>": "लिपिक"
+  },
+  "Commissioner": {
+    "<2hi>": "उपायुक्त"
+  },
+  "Competent Authority": {
+    "<2hi>": "सक्षम प्राधिकारी"
+  },
+  "Comptroller and Auditor General of India": {
+    "<2hi>": "भारत के नियंत्रक एवं महालेखापरीक्षक"
+  },
+  "Consultant": {
+    "<2hi>": "परामर्शदाता"
+  },
+  "Controller General of Patents": {
+    "<2hi>": "महानियंत्रक एकस्व"
+  },
+  "Cook": {
+    "<2hi>": "रसोइया"
+  },
+  "Data Entry Operator/D.E.O": {
+    "<2hi>": "आंकड़ा प्रविष्टि प्रचालक/डी.ई.ओ."
+  },
+  "Deputy Accountant": {
+    "<2hi>": "उप महालेखाकार"
+  },
+  "Deputy Chief Information Officer": {
+    "<2hi>": "उप मुख्य सूचना अधिकारी"
+  },
+  "Director": {
+    "<2hi>": "निदेशक"
+  },
+  "Director Finance": {
+    "<2hi>": "निदेशक वित्त"
+  },
+  "Director General (DG)": {
+    "<2hi>": "महानिदेशक (म.नि.)"
+  },
+  "Driver": {
+    "<2hi>": "चालक"
+  },
+  "Executive Director (ED)": {
+    "<2hi>": "कार्यकारी निदेशक (का.नि.)"
+  },
+  "Gardener": {
+    "<2hi>": "माली/बागवान"
+  },
+  "Head": {
+    "<2hi>": "प्रमुख"
+  },
+  "Head Corporate Legal": {
+    "<2hi>": "प्रमुख निगमित विधि"
+  },
+  "Hindi Officer": {
+    "<2hi>": "हिंदी अधिकारी"
+  },
+  "Joint Director (JD)": {
+    "<2hi>": "संयुक्त निदेशक (सं.नि.)"
+  },
+  "Junior Assistant": {
+    "<2hi>": "कनिष्‍ठ सहायक"
+  },
+  "Junior Translator": {
+    "<2hi>": "कनिष्ठ अनुवादक"
+  },
+  "Knowledge Associate": {
+    "<2hi>": "ज्ञान सहयोगी"
+  },
+  "Manager (Admin)": {
+    "<2hi>": "प्रबंधक (व्यवस्थापन)"
+  },
+  "Manager": {
+    "<2hi>": "प्रबंधक"
+  },
+  "MSS-III": {
+    "<2hi>": "एम.एस.एस.-III"
+  },
+  "Multi Tasking Staff/M.T.S.": {
+    "<2hi>": "बहुउ‌द्देशीय कार्य कर्मचारी/एम.टी.एस."
+  },
+  "Nodal Information Office": {
+    "<2hi>": "नोडल सूचना अधिकारी"
+  },
+  "Officer on Special Duty (OSD)": {
+    "<2hi>": "विशेष कार्याधिकारी (ओ.एस.डी.)"
+  },
+  "Personal Assistant": {
+    "<2hi>": "निजी सहायक"
+  },
+  "Personal Private Secretary": {
+    "<2hi>": "निजी सचिव"
+  },
+  "Principal Technical Officer": {
+    "<2hi>": "प्रमुख तकनीकी अधिकारी"
+  },
+  "Project Associate": {
+    "<2hi>": "परियोजना सहयोगी"
+  },
+  "Project Engineer": {
+    "<2hi>": "परियोजना अभियंता"
+  },
+  "Project Officer": {
+    "<2hi>": "परियोजना अधिकारी"
+  },
+  "Purchase Officer": {
+    "<2hi>": "क्रय अधिकारी"
+  },
+  "Scientist": {
+    "<2hi>": "वैज्ञानिक"
+  },
+  "Senior Accountant": {
+    "<2hi>": "वरिष्ठ लेखाकार"
+  },
+  "Senior Accounts Officer": {
+    "<2hi>": "वरिष्ठ लेखा अधिकारी"
+  },
+  "Senior Admin Officer": {
+    "<2hi>": "वरिष्ठ व्यवस्थापन अधिकारी"
+  },
+  "Senior Assistant": {
+    "<2hi>": "वरिष्‍ठ सहायक"
+  },
+  "Senior Associate": {
+    "<2hi>": "वरिष्ठ सहयोगी"
+  },
+  "Senior Audit Officer": {
+    "<2hi>": "वरिष्ठ लेखापरीक्षा अधिकारी"
+  },
+  "Senior Auditor": {
+    "<2hi>": "वरिष्ठ लेखापरीक्षक"
+  },
+  "Senior Deputy Accountant General": {
+    "<2hi>": "वरिष्ठ उप महालेखाकार"
+  },
+  "Senior Director (SD)": {
+    "<2hi>": "वरिष्ठ निदेशक (व.नि.)"
+  },
+  "Senior Project Engineer": {
+    "<2hi>": "वरिष्ठ परियोजना अभियंता"
+  },
+  "Senior Librarian": {
+    "<2hi>": "वरिष्ठ पुस्तकालयाध्यक्ष"
+  },
+  "Senior Technical Officer": {
+    "<2hi>": "वरिष्ठ तकनीकी अधिकारी"
+  },
+  "Senior Translator": {
+    "<2hi>": "वरिष्ठ अनुवादक"
+  },
+  "Stipendiary Magistrate": {
+    "<2hi>": "वैतनिक मैजिस्ट्रैट"
+  },
+  "Supervisor": {
+    "<2hi>": "पर्यवेक्षक"
+  },
+  "Senior System Administrator": {
+    "<2hi>": "वरिष्ठ प्रणाली व्यवस्थापक"
+  },
+  "Technical Assistant": {
+    "<2hi>": "तकनीकी सहायक"
+  },
+  "Technical Officer": {
+    "<2hi>": "तकनीकी अधिकारी"
+  },
+  "Admin Services": {
+    "<2hi>": "व्यवस्थापन एवं सेवाएँ"
+  },
+  "Advanced Computing Training School (ACTS)": {
+    "<2hi>": "प्रगत संगणन प्रशिक्षण स्कूल (एसीटीएस)"
+  },
+  "Applied Artificial Intelligence": {
+    "<2hi>": "अनुप्रयुक्त कृत्रिम बुद्धिमत्ता"
+  },
+  "Artificial Intelligence and Quantum Technology (AIQT)": {
+    "<2hi>": "कृत्रिम बुद्धिमत्ता एवं क्वांटम प्रौद्योगिकी समूह"
+  },
+  "Authorized Training Centers (ATCs)": {
+    "<2hi>": "अधिकृत प्रशिक्षण केंद्र (एटीसी)"
+  },
+  "Branding & Communications (B&C)": {
+    "<2hi>": "ब्रांडिंग और संचार (बी एण्ड सी)"
+  },
+  "e-Governance Solutions Group": {
+    "<2hi>": "ई-शासन समाधान समूह"
+  },
+  "Executive Director Pune Office": {
+    "<2hi>": "कार्यकारी निदेशक पुणे कार्यालय"
+  },
+  "Finance & Accounts Group (F & A)": {
+    "<2hi>": "वित्त और लेखा समूह (एफ एण्ड ए)"
+  },
+  "HPC AI-IT Infrastructure & Operations": {
+    "<2hi>": "एचपीसी एआई-आईटी अवसंरचना और संचालन"
+  },
+  "HPC-Earth Science, Engineering & Geospatial Application": {
+    "<2hi>": "एचपीसी - पृथ्वी विज्ञान, अभियांत्रिकी और भूस्थानिक अनुप्रयोग"
+  },
+  "HPC-Infrastructure & Ecosystem": {
+    "<2hi>": "एचपीसी-अवसंरचना एवं पारिस्थितिकी तंत्र"
+  },
+  "HPC-Medical & Bioinformatics Applications": {
+    "<2hi>": "एचपीसी- चिकित्सा और जैव सूचना विज्ञान अनुप्रयोग"
+  },
+  "HPC-Technologies": {
+    "<2hi>": "एचपीसी-प्रौद्योगिकी"
+  },
+  "Human Centered Design and Computing": {
+    "<2hi>": "मानव केंद्रित डिजाइन और कंप्यूटिंग"
+  },
+  "Human Resource Development (HRD)": {
+    "<2hi>": "मानव संसाधन विकास (मा.सं.वि.)"
+  },
+  "Intelligence & Surveillance Projects Group (ISPG)": {
+    "<2hi>": "खुफिया एवं निगरानी परियोजना समूह (आईएसपीजी)"
+  },
+  "Land and Building Management": {
+    "<2hi>": "भूमि एवं भवन प्रबंधन"
+  },
+  "Material Management Group (MMG)": {
+    "<2hi>": "सामग्री प्रबंधन समूह (एमएमजी)"
+  },
+  "Multilingual Technologies Group": {
+    "<2hi>": "बहुभाषी प्रौद्योगिकी समूह"
+  },
+  "Strategic Project Group": {
+    "<2hi>": "सामरिक परियोजना समूह"
+  },
+  "Strategic Electronics Group": {
+    "<2hi>": "सामरिक इलेक्ट्रॉनिकी समूह"
+  },
+  "Above Mentioned": {
+    "<2hi>": "उपरोक्त"
+  },
+  "Abridged": {
+    "<2hi>": "संक्षिप्त रिपोर्ट"
+  },
+  "Absorption (for job)": {
+    "<2hi>": "आमेलन"
+  },
+  "Acceleration": {
+    "<2hi>": "त्वरण"
+  },
+  "Accepted": {
+    "<2hi>": "स्वीकृत"
+  },
+  "Access": {
+    "<2hi>": "अभिगम"
+  },
+  "Accessibility": {
+    "<2hi>": "अभिगम्यता"
+  },
+  "Accord": {
+    "<2hi>": "सहमति"
+  },
+  "Accordingly": {
+    "<2hi>": "तदनुसार"
+  },
+  "Account": {
+    "<2hi>": "लेखा/खाता"
+  },
+  "Account circle": {
+    "<2hi>": "लेखा-परिमंडल"
+  },
+  "Accountability": {
+    "<2hi>": "जवाबदेही"
+  },
+  "Accounting": {
+    "<2hi>": "लेखांकन"
+  },
+  "Accreditation": {
+    "<2hi>": "प्रत्यायन"
+  },
+  "Acquisition": {
+    "<2hi>": "अर्जन, अधिग्रहण"
+  },
+  "Act of misconduct": {
+    "<2hi>": "कदाचार"
+  },
+  "Actuary": {
+    "<2hi>": "बीमाकंक"
+  },
+  "Ad-hoc": {
+    "<2hi>": "तदर्थ"
+  },
+  "Address": {
+    "<2hi>": "पता, अभिभाषण, संबोधन, संबोधित करना"
+  },
+  "Addressing (only computer)": {
+    "<2hi>": "पताभिगमन"
+  },
+  "Adjournment": {
+    "<2hi>": "स्थगन"
+  },
+  "Adjustment": {
+    "<2hi>": "समायोजन"
+  },
+  "Administrative approval": {
+    "<2hi>": "प्रशासनिक अनुमोदन"
+  },
+  "Administrative authority": {
+    "<2hi>": "प्रशासनिक प्राधिकारी"
+  },
+  "Administrative decision": {
+    "<2hi>": "प्रशासनिक निर्णय"
+  },
+  "Administrative sanction": {
+    "<2hi>": "प्रशासनिक मंजूरी"
+  },
+  "Administrative Section": {
+    "<2hi>": "प्रशासनिक अनुभाग"
+  },
+  "Admissible": {
+    "<2hi>": "स्वीकार्य"
+  },
+  "Admission": {
+    "<2hi>": "दाखिला/प्रवेश"
+  },
+  "advance increment": {
+    "<2hi>": "अग्रिम वेतन-वृद्धि"
+  },
+  "Advanced Sanctioned": {
+    "<2hi>": "अग्रिम स्वीकृत"
+  },
+  "Advice": {
+    "<2hi>": "सलाह"
+  },
+  "Advisory": {
+    "<2hi>": "परामर्शिका, सलाहकार"
+  },
+  "Advisiory Council": {
+    "<2hi>": "सलाहकार परिषद"
+  },
+  "Afforestation": {
+    "<2hi>": "वन-रोपण"
+  },
+  "Agenda": {
+    "<2hi>": "कार्यसूची"
+  },
+  "Agreement": {
+    "<2hi>": "अनुबंध"
+  },
+  "Aided": {
+    "<2hi>": "साधित"
+  },
+  "air conditioning": {
+    "<2hi>": "वातानुकूलन"
+  },
+  "alignment": {
+    "<2hi>": "संरेखण"
+  },
+  "Allotment": {
+    "<2hi>": "आवंटन"
+  },
+  "Allowance": {
+    "<2hi>": "भत्ता"
+  },
+  "Ambulance": {
+    "<2hi>": "रोगी वाहन"
+  },
+  "Analogy Lead": {
+    "<2hi>": "साम्य कथामुख"
+  },
+  "Analogy of Attribution": {
+    "<2hi>": "गुणारोप-सादृश्य"
+  },
+  "Analysis": {
+    "<2hi>": "विश्लेषण"
+  },
+  "Analytical Engine": {
+    "<2hi>": "वैश्लेषिक इंजन"
+  },
+  "Antibody": {
+    "<2hi>": "प्रतिरक्षी"
+  },
+  "Appendix": {
+    "<2hi>": "परिशिष्ट"
+  },
+  "Approval": {
+    "<2hi>": "अनुमोदन"
+  },
+  "Approved": {
+    "<2hi>": "अनुमोदित"
+  },
+  "Approved as Proposed": {
+    "<2hi>": "यथाप्रस्ताव अनुमोदित"
+  },
+  "Approved by": {
+    "<2hi>": "अनुमोदनकर्ता"
+  },
+  "Aptitude": {
+    "<2hi>": "अभिक्षमता, रुझान"
+  },
+  "Arbitration": {
+    "<2hi>": "मध्यस्थता"
+  },
+  "Article": {
+    "<2hi>": "अनुच्छेद"
+  },
+  "As Notified": {
+    "<2hi>": "यथा अधिसूचित"
+  },
+  "Assets": {
+    "<2hi>": "परिसंपत्ति"
+  },
+  "Assigned": {
+    "<2hi>": "निरुपित"
+  },
+  "Assignment": {
+    "<2hi>": "सुपुर्द काम, समनुदेशन"
+  },
+  "Association": {
+    "<2hi>": "संघ / साहचर्य"
+  },
+  "At-par": {
+    "<2hi>": "सममूल्य पर"
+  },
+  "Attached": {
+    "<2hi>": "संलग्न"
+  },
+  "Attestation": {
+    "<2hi>": "सत्यापन/साक्ष्यांकन"
+  },
+  "Audience": {
+    "<2hi>": "दर्शक, श्रोता"
+  },
+  "Audience research": {
+    "<2hi>": "श्रोता अनुसंधान, दर्शक अनुसंधान"
+  },
+  "Audio": {
+    "<2hi>": "श्रव्य"
+  },
+  "Audio-visual display": {
+    "<2hi>": "दृश्य-श्रव्य प्रदर्शन"
+  },
+  "Audit": {
+    "<2hi>": "लेखापरीक्षा"
+  },
+  "Audition test": {
+    "<2hi>": "स्वर/ध्वनि परीक्षण"
+  },
+  "Authorised by": {
+    "<2hi>": "प्राधिकृतकर्ता"
+  },
+  "Auditing exposure": {
+    "<2hi>": "लेखापरीक्षा जोखिम"
+  },
+  "Augmented": {
+    "<2hi>": "संवर्धित"
+  },
+  "Authority": {
+    "<2hi>": "प्राधिकरण, प्राधिकार, प्राधिकारी"
+  },
+  "Authorized Representative": {
+    "<2hi>": "अधिकृत प्रतिनिधि"
+  },
+  "Autonomous": {
+    "<2hi>": "स्वायत्त"
+  },
+  "Back dated": {
+    "<2hi>": "पूर्वदिनांकित"
+  },
+  "Balance": {
+    "<2hi>": "शेष"
+  },
+  "Balance at Credit": {
+    "<2hi>": "बकाया रोकड़ / जमाखाते शेष"
+  },
+  "Balance Book": {
+    "<2hi>": "शेष बही / तुलन बही"
+  },
+  "Beneficial": {
+    "<2hi>": "हितकर"
+  },
+  "Bid": {
+    "<2hi>": "बिड"
+  },
+  "Bidder": {
+    "<2hi>": "बोलीदाता"
+  },
+  "Bio Synthesis": {
+    "<2hi>": "जैव संश्लेषण"
+  },
+  "Blind spot": {
+    "<2hi>": "अंध-स्थल"
+  },
+  "Blood group": {
+    "<2hi>": "रक्त समूह"
+  },
+  "Blood Pressure": {
+    "<2hi>": "रक्तचाप"
+  },
+  "Blood sugar": {
+    "<2hi>": "रक्तशर्करा"
+  },
+  "Blood test": {
+    "<2hi>": "रक्त परीक्षण"
+  },
+  "Bonafide": {
+    "<2hi>": "प्रामाणिक, सद्भावी, वास्तविक"
+  },
+  "Bureaucracy": {
+    "<2hi>": "नौकरशाही"
+  },
+  "Bye-law": {
+    "<2hi>": "उपविधि"
+  },
+  "Cadre": {
+    "<2hi>": "संवर्ग"
+  },
+  "Call for Paper": {
+    "<2hi>": "शोधपत्र आमंत्रित"
+  },
+  "Cardiology specialist": {
+    "<2hi>": "हृदयरोग विशेषज्ञ"
+  },
+  "Casualty": {
+    "<2hi>": "दुर्घटना"
+  },
+  "Caution Deposit": {
+    "<2hi>": "जमानती राशि"
+  },
+  "Ceftified by": {
+    "<2hi>": "प्रमाणनकर्ता"
+  },
+  "Cell Cycle": {
+    "<2hi>": "कोशिका चक्र"
+  },
+  "Central": {
+    "<2hi>": "केंद्रीय"
+  },
+  "Chancellor": {
+    "<2hi>": "कुलाधिपति"
+  },
+  "Charge": {
+    "<2hi>": "कार्य-प्रभार/ प्रभार/ आरोप/ शुल्क"
+  },
+  "Checked by": {
+    "<2hi>": "जाँचकर्ता"
+  },
+  "Circular": {
+    "<2hi>": "परिपत्र"
+  },
+  "Claim": {
+    "<2hi>": "दावा"
+  },
+  "Claimed by": {
+    "<2hi>": "दावाकर्ता"
+  },
+  "Clerical erroг": {
+    "<2hi>": "लेखन-अशु‌द्धि/भूल/त्रुटि/लिपिकीय त्रुटि"
+  },
+  "Clinical": {
+    "<2hi>": "नैदानिक"
+  },
+  "Clinical Notes": {
+    "<2hi>": "नैदानिक टिप्पणी"
+  },
+  "Closed loop": {
+    "<2hi>": "संवृत पाश"
+  },
+  "Co-operation": {
+    "<2hi>": "सहायता"
+  },
+  "Cold": {
+    "<2hi>": "सर्दी"
+  },
+  "Compatibility": {
+    "<2hi>": "संगतता"
+  },
+  "Compensation": {
+    "<2hi>": "क्षतिपूर्ति"
+  },
+  "Compliance": {
+    "<2hi>": "पालन, अनुपालन"
+  },
+  "Comprehensive": {
+    "<2hi>": "व्यापक"
+  },
+  "Computational Linguistic": {
+    "<2hi>": "संगणकीय भाषाविज्ञान"
+  },
+  "Computational Fluid Dynamics": {
+    "<2hi>": "संगणकीय द्रव गतिकी"
+  },
+  "Conferred": {
+    "<2hi>": "प्रदत्त"
+  },
+  "Confidentiality": {
+    "<2hi>": "गोपनीयता"
+  },
+  "Configuration": {
+    "<2hi>": "विन्यास"
+  },
+  "Configured": {
+    "<2hi>": "विन्यासित"
+  },
+  "Confirmation": {
+    "<2hi>": "पुष्टि, स्थायीकरण"
+  },
+  "Connectivity": {
+    "<2hi>": "संयोजकता"
+  },
+  "Consent": {
+    "<2hi>": "सहमति"
+  },
+  "Consideration": {
+    "<2hi>": "विचार"
+  },
+  "Construction": {
+    "<2hi>": "निर्माण"
+  },
+  "Consultation": {
+    "<2hi>": "परामर्श"
+  },
+  "Consumable Item": {
+    "<2hi>": "उपभोज्य सामग्री"
+  },
+  "Contained": {
+    "<2hi>": "निहित"
+  },
+  "Contemplate": {
+    "<2hi>": "विचार करना"
+  },
+  "Contract": {
+    "<2hi>": "अनुबंध, संविदा, ठेका"
+  },
+  "Contractor": {
+    "<2hi>": "ठेकेदार"
+  },
+  "Convection": {
+    "<2hi>": "संवहन"
+  },
+  "Conveyance": {
+    "<2hi>": "यात्रा, परिवहन"
+  },
+  "Core-Committee": {
+    "<2hi>": "मुख्य-समिति"
+  },
+  "Cover": {
+    "<2hi>": "शामिल करना, कवर करना"
+  },
+  "Cross-Sector": {
+    "<2hi>": "अंतर-क्षेत्रीय"
+  },
+  "cyst": {
+    "<2hi>": "पुटी"
+  },
+  "Date and Time of Receipt": {
+    "<2hi>": "प्राप्ति की तिथि और समय"
+  },
+  "Dearness Allowance": {
+    "<2hi>": "महंगाई भत्ता"
+  },
+  "Dearness": {
+    "<2hi>": "महंगाई"
+  },
+  "Declaration": {
+    "<2hi>": "घोषणा"
+  },
+  "Deemed University": {
+    "<2hi>": "मानित विश्वविद्यालय"
+  },
+  "Defect Rectification": {
+    "<2hi>": "दोष सुधारना"
+  },
+  "Degradation": {
+    "<2hi>": "निम्नीकरण"
+  },
+  "Dehydration": {
+    "<2hi>": "निर्जलीकरण"
+  },
+  "Demand": {
+    "<2hi>": "मांग"
+  },
+  "Dentistry specialist": {
+    "<2hi>": "दंत चिकित्सा विशेषज्ञ"
+  },
+  "Departmental Promotion Committee": {
+    "<2hi>": "विभागीय पदोन्नति समिति"
+  },
+  "Deployed": {
+    "<2hi>": "परिनियोजित"
+  },
+  "Deployment": {
+    "<2hi>": "परिनियोजन"
+  },
+  "Deputation": {
+    "<2hi>": "प्रतिनियुक्ति"
+  },
+  "Diabetes": {
+    "<2hi>": "मधुमेह"
+  },
+  "Diet": {
+    "<2hi>": "आहार"
+  },
+  "Disability Fund": {
+    "<2hi>": "अपंगता निधि / दिव्यांगता निधि"
+  },
+  "Disability Leave": {
+    "<2hi>": "अशक्तता अवकाश"
+  },
+  "Discharge": {
+    "<2hi>": "मुक्ति"
+  },
+  "Discomfort": {
+    "<2hi>": "असहजता"
+  },
+  "Discretion": {
+    "<2hi>": "विवेक"
+  },
+  "Discrimination": {
+    "<2hi>": "भेदभाव, विभेद"
+  },
+  "Dispatch": {
+    "<2hi>": "प्रेषण"
+  },
+  "Dispatcher": {
+    "<2hi>": "डाक-प्रेषक, प्रेषक"
+  },
+  "Disposal": {
+    "<2hi>": "निपटान"
+  },
+  "Dissemination": {
+    "<2hi>": "प्रसार"
+  },
+  "Division (for land)": {
+    "<2hi>": "संभाग"
+  },
+  "Doctor": {
+    "<2hi>": "चिकित्सक"
+  },
+  "Domain": {
+    "<2hi>": "डोमेन/ कार्यक्षेत्र"
+  },
+  "Duly": {
+    "<2hi>": "यथावत"
+  },
+  "Dynamic": {
+    "<2hi>": "गतिकी"
+  },
+  "Ear Nose Throat Specialist": {
+    "<2hi>": "कान नाक गले विशेषज्ञ"
+  },
+  "Earnest Money": {
+    "<2hi>": "अग्रिम धन"
+  },
+  "Efficiency": {
+    "<2hi>": "कुशलता"
+  },
+  "Electrocardiogram (ECG)": {
+    "<2hi>": "विदयुतयंत्र द्वारा हृदय की धड़कनों की जाँच"
+  },
+  "Emergency": {
+    "<2hi>": "आपातकालीन"
+  },
+  "Empanelled": {
+    "<2hi>": "नामिकागत"
+  },
+  "Enabled": {
+    "<2hi>": "समर्थकृत"
+  },
+  "Enclosure": {
+    "<2hi>": "अनुलग्नक"
+  },
+  "Encryption": {
+    "<2hi>": "कूट करना"
+  },
+  "Endeavour": {
+    "<2hi>": "प्रयास"
+  },
+  "Endorsed by": {
+    "<2hi>": "पुष्टिकर्ता"
+  },
+  "Endorsement": {
+    "<2hi>": "पृष्ठांकन"
+  },
+  "Enforcement": {
+    "<2hi>": "प्रवर्तन"
+  },
+  "Engineering": {
+    "<2hi>": "अभियांत्रिकी"
+  },
+  "Epidemiological": {
+    "<2hi>": "महामारी विज्ञानीय"
+  },
+  "Errata": {
+    "<2hi>": "शुद्धि-पत्र"
+  },
+  "Exchanger": {
+    "<2hi>": "विनिमयकारी"
+  },
+  "Ex-officio": {
+    "<2hi>": "पदेन"
+  },
+  "Exclusion": {
+    "<2hi>": "बहिष्करण"
+  },
+  "Executive": {
+    "<2hi>": "कार्यपालक"
+  },
+  "Expenditure Sanctions": {
+    "<2hi>": "व्यय प्रतिबंध"
+  },
+  "Extension No. (for call)": {
+    "<2hi>": "विस्तार संख्या"
+  },
+  "False Negative": {
+    "<2hi>": "मिथ्या नकारात्मक"
+  },
+  "Family history": {
+    "<2hi>": "परिवार का इतिहास"
+  },
+  "Fatal": {
+    "<2hi>": "घातक"
+  },
+  "Fault": {
+    "<2hi>": "त्रुटि"
+  },
+  "Fever": {
+    "<2hi>": "बुखार"
+  },
+  "File": {
+    "<2hi>": "मिसिल, संचयिका"
+  },
+  "Finance and Accounts Officer": {
+    "<2hi>": "वित्त और लेखा अधिकारी"
+  },
+  "Fluid": {
+    "<2hi>": "द्रव"
+  },
+  "Foreign Service": {
+    "<2hi>": "विदेश सेवा"
+  },
+  "Forge": {
+    "<2hi>": "भट्ठी"
+  },
+  "Forgery": {
+    "<2hi>": "जालसाजी"
+  },
+  "Forgo": {
+    "<2hi>": "त्यागना"
+  },
+  "Form": {
+    "<2hi>": "प्रपत्र"
+  },
+  "Formula": {
+    "<2hi>": "सूत्र"
+  },
+  "Formulation": {
+    "<2hi>": "सूत्रीकरण"
+  },
+  "Forwarding letter": {
+    "<2hi>": "अग्रेषण पत्र"
+  },
+  "Fracture": {
+    "<2hi>": "अस्थि-भंग"
+  },
+  "Fresher (for job role)": {
+    "<2hi>": "नवागंतुक"
+  },
+  "Friction": {
+    "<2hi>": "घर्षण"
+  },
+  "Fully Machine Translation": {
+    "<2hi>": "पूर्णतः मशीनी अनुवाद"
+  },
+  "Funds available": {
+    "<2hi>": "निधि उपलब्ध नहीं है"
+  },
+  "Germ": {
+    "<2hi>": "रोगाणु"
+  },
+  "Global Positioning System": {
+    "<2hi>": "वैश्विक स्थानिक प्रणाली"
+  },
+  "Grand Total": {
+    "<2hi>": "कुल जोड़"
+  },
+  "Grant": {
+    "<2hi>": "अनुदान"
+  },
+  "Group": {
+    "<2hi>": "समूह"
+  },
+  "Hands-on": {
+    "<2hi>": "व्यावहारिक / अभ्यास"
+  },
+  "Habitat Centre": {
+    "<2hi>": "पर्यावास केंद्र"
+  },
+  "Header": {
+    "<2hi>": "शीर्षणी"
+  },
+  "Health Centre": {
+    "<2hi>": "स्वास्थ्य केंद्र"
+  },
+  "Heart attack": {
+    "<2hi>": "दिल का दौरा"
+  },
+  "Heat": {
+    "<2hi>": "ऊष्मा"
+  },
+  "High Performance": {
+    "<2hi>": "उन्नत सक्षम"
+  },
+  "Hierarchical": {
+    "<2hi>": "सोपानक्रम"
+  },
+  "Holder for Value": {
+    "<2hi>": "मूल्यार्थ धारक"
+  },
+  "Holder in Due Course": {
+    "<2hi>": "साधिकार धारक / सम्यक अनुक्रम में धारक"
+  },
+  "Honorarium": {
+    "<2hi>": "मानदेय"
+  },
+  "Horticulture": {
+    "<2hi>": "बागबानी"
+  },
+  "Hospital": {
+    "<2hi>": "अस्पताल"
+  },
+  "Human Aided Machine Translation": {
+    "<2hi>": "मानव साधित मशीनी अनुवाद"
+  },
+  "Hypertension": {
+    "<2hi>": "उच्च रक्तचाप"
+  },
+  "In toto": {
+    "<2hi>": "पूर्ण रूप से"
+  },
+  "Inadvertent": {
+    "<2hi>": "असावधानीवश"
+  },
+  "Incentive": {
+    "<2hi>": "प्रोत्साहन"
+  },
+  "Incision": {
+    "<2hi>": "चीरा"
+  },
+  "Incubation": {
+    "<2hi>": "ऊष्मायन"
+  },
+  "Indent": {
+    "<2hi>": "मांगपत्र"
+  },
+  "Indenter": {
+    "<2hi>": "मांगकर्ता"
+  },
+  "Indispensable": {
+    "<2hi>": "अनिवार्य, अपरिहार्य"
+  },
+  "Infant": {
+    "<2hi>": "शिशु"
+  },
+  "Infection": {
+    "<2hi>": "संक्रमण"
+  },
+  "Information": {
+    "<2hi>": "सूचना"
+  },
+  "Infrastructure": {
+    "<2hi>": "अवसरंचना"
+  },
+  "Initials": {
+    "<2hi>": "आद्यक्षर"
+  },
+  "Injury": {
+    "<2hi>": "चोट"
+  },
+  "Innovative": {
+    "<2hi>": "नवप्रवर्तनकारी"
+  },
+  "Investigation register": {
+    "<2hi>": "जाँच पंजी"
+  },
+  "Inward": {
+    "<2hi>": "आवक पंजी"
+  },
+  "IPD": {
+    "<2hi>": "अंतः रोगी विभाग"
+  },
+  "Irregularities": {
+    "<2hi>": "अनियमितताएँ"
+  },
+  "Itchy": {
+    "<2hi>": "खुजलीदार"
+  },
+  "Item": {
+    "<2hi>": "मद"
+  },
+  "Job Scheduling": {
+    "<2hi>": "कार्य निर्धारण"
+  },
+  "Job Submission": {
+    "<2hi>": "कार्य प्रस्तुतीकरण"
+  },
+  "Joining report": {
+    "<2hi>": "कार्यग्रहण रिपोर्ट"
+  },
+  "Joint Measurement": {
+    "<2hi>": "संयुक्त माप"
+  },
+  "Junior": {
+    "<2hi>": "कनिष्ठ"
+  },
+  "Junior Hindi Translator": {
+    "<2hi>": "कनिष्ठ हिंदी अनुवादक"
+  },
+  "Justification": {
+    "<2hi>": "औचित्य"
+  },
+  "Keyboard": {
+    "<2hi>": "कुंजीपटल"
+  },
+  "Launch": {
+    "<2hi>": "शुभारंभ , लोकार्पण"
+  },
+  "Leave": {
+    "<2hi>": "छुट्टी"
+  },
+  "Ledger": {
+    "<2hi>": "खाता"
+  },
+  "Legitimate": {
+    "<2hi>": "वैध"
+  },
+  "Liaison Officer": {
+    "<2hi>": "संपर्क अधिकारी"
+  },
+  "Library Attendant": {
+    "<2hi>": "पुस्तकालय परिचर"
+  },
+  "licence": {
+    "<2hi>": "अनुज्ञप्ति"
+  },
+  "Licensing": {
+    "<2hi>": "अनुज्ञापन"
+  },
+  "Life support": {
+    "<2hi>": "जीवनरक्षक"
+  },
+  "Liquidated damage": {
+    "<2hi>": "परिनिर्धारित नुकसान"
+  },
+  "Lowest price": {
+    "<2hi>": "निम्नतम मूल्य"
+  },
+  "manpower": {
+    "<2hi>": "जनशक्ति"
+  },
+  "Manufacturers": {
+    "<2hi>": "निर्माताओं"
+  },
+  "Mass Storage Device": {
+    "<2hi>": "विपुल भंडारण युक्ति"
+  },
+  "Mechanical Engineering": {
+    "<2hi>": "यांत्रिक अभियांत्रिकी"
+  },
+  "Medical Equipment": {
+    "<2hi>": "चिकित्सा उपकरण"
+  },
+  "Medicine Specialist": {
+    "<2hi>": "चिकित्सा विशेषज्ञ"
+  },
+  "Medicines": {
+    "<2hi>": "दवाइयाँ"
+  },
+  "Memorandum": {
+    "<2hi>": "ज्ञापन"
+  },
+  "Memorandum of Association": {
+    "<2hi>": "संगम ज्ञापन"
+  },
+  "Memorandum of Objection": {
+    "<2hi>": "आपत्ति ज्ञापन"
+  },
+  "Memorandum of Understanding": {
+    "<2hi>": "समझौता ज्ञापन"
+  },
+  "Message": {
+    "<2hi>": "संदेश"
+  },
+  "Messenger": {
+    "<2hi>": "संदेशवाहक"
+  },
+  "Metabolism": {
+    "<2hi>": "उपापचय"
+  },
+  "Methodological operation": {
+    "<2hi>": "प्रणालीगत संक्रिया"
+  },
+  "Micro and Small Enterprises": {
+    "<2hi>": "सूक्ष्म और लघु उद्यम"
+  },
+  "Mode": {
+    "<2hi>": "साधन"
+  },
+  "Modelling/Cloning": {
+    "<2hi>": "प्रतिरूपण"
+  },
+  "Moderation": {
+    "<2hi>": "अनुशोधन"
+  },
+  "Modification": {
+    "<2hi>": "आशोधन"
+  },
+  "Modus operandi": {
+    "<2hi>": "कार्य प्रणाली"
+  },
+  "Motion": {
+    "<2hi>": "गति"
+  },
+  "Moveable": {
+    "<2hi>": "चल"
+  },
+  "Multi-function": {
+    "<2hi>": "बहु-कार्यात्मक"
+  },
+  "Navigation": {
+    "<2hi>": "नौपरिवहन, नौचालन"
+  },
+  "Neurology specialist": {
+    "<2hi>": "तंत्रिका-विज्ञान विशेषज्ञ"
+  },
+  "Next": {
+    "<2hi>": "बाद में, आगामी"
+  },
+  "Note": {
+    "<2hi>": "टिप्पण"
+  },
+  "Notice": {
+    "<2hi>": "सूचना"
+  },
+  "Numb": {
+    "<2hi>": "सुन्न"
+  },
+  "Nursing care": {
+    "<2hi>": "देखभाल करना"
+  },
+  "nutrient deficiency": {
+    "<2hi>": "पोषक तत्वों की कमी"
+  },
+  "Obstetrics &amp; Gynecology specialist": {
+    "<2hi>": "प्रसूति एवं स्त्री रोग विशेषज्ञ"
+  },
+  "Officialdom": {
+    "<2hi>": "नौकरशाही"
+  },
+  "Officialese": {
+    "<2hi>": "कार्यालयीन भाषा-शैली"
+  },
+  "Officiating": {
+    "<2hi>": "स्थानापन्न"
+  },
+  "On Deputation": {
+    "<2hi>": "प्रतिनियुक्ति पर"
+  },
+  "OPD": {
+    "<2hi>": "बाह्य रोगी विभाग"
+  },
+  "Ophthalmologist": {
+    "<2hi>": "नेत्र-विशेषज्ञ"
+  },
+  "Original Equipment Manufacturers": {
+    "<2hi>": "मूल उपकरण निर्माता"
+  },
+  "Orthopedic specialist": {
+    "<2hi>": "हड्डी रोग विशेषज्ञ"
+  },
+  "Outward": {
+    "<2hi>": "जावक पंजी"
+  },
+  "Overtime": {
+    "<2hi>": "समयोपरि"
+  },
+  "Pandemic": {
+    "<2hi>": "सर्वव्यापी महामारी"
+  },
+  "Panel": {
+    "<2hi>": "नामिका, पैनल"
+  },
+  "Paralyzed": {
+    "<2hi>": "लकवा मारा हुआ"
+  },
+  "Passed by": {
+    "<2hi>": "पारितकर्ता"
+  },
+  "Pathology": {
+    "<2hi>": "विकृति विज्ञान"
+  },
+  "Patient": {
+    "<2hi>": "मरीज /रोगी"
+  },
+  "Patient appointment register": {
+    "<2hi>": "रोगी समयादेश पंजिका"
+  },
+  "Patent Commission": {
+    "<2hi>": "एकस्व आयोग / पेटेंट आयोग"
+  },
+  "Patient registration desk": {
+    "<2hi>": "रोगी पंजीकरण डेस्क"
+  },
+  "Patent Right": {
+    "<2hi>": "एकस्वाधिकार / पेटेंट अधिकार"
+  },
+  "Pediatric specialist": {
+    "<2hi>": "बाल रोग विशेषज्ञ"
+  },
+  "Pending": {
+    "<2hi>": "विलंब"
+  },
+  "Personal protective equipment": {
+    "<2hi>": "व्यक्तिगत सुरक्षा उपकरण"
+  },
+  "Perusal": {
+    "<2hi>": "अवलोकन"
+  },
+  "Pharmacy": {
+    "<2hi>": "औषधालय"
+  },
+  "Physiotherapy specialist": {
+    "<2hi>": "भौतिक चिकित्सा विशेषज्ञ"
+  },
+  "Placement": {
+    "<2hi>": "स्थानन"
+  },
+  "Polymer": {
+    "<2hi>": "बहुलक"
+  },
+  "Portability": {
+    "<2hi>": "सुवाह्यता"
+  },
+  "Post-processing": {
+    "<2hi>": "पश्च-संसाधन"
+  },
+  "Post - production": {
+    "<2hi>": "पश्च-उत्पादन"
+  },
+  "Postponement": {
+    "<2hi>": "स्थगन"
+  },
+  "Pre-processing": {
+    "<2hi>": "पूर्व-संसाधन"
+  },
+  "Preliminary": {
+    "<2hi>": "प्रारंभिक"
+  },
+  "Preliminary estimates": {
+    "<2hi>": "प्रारंभिक अनुमान"
+  },
+  "Prepared/Drafted by": {
+    "<2hi>": "प्रारूपणकर्ता"
+  },
+  "Prescribed": {
+    "<2hi>": "निर्धारित"
+  },
+  "Prescription": {
+    "<2hi>": "दवा का पर्चा"
+  },
+  "Press Conference": {
+    "<2hi>": "संवाददाता सम्मेलन"
+  },
+  "Preferably": {
+    "<2hi>": "अधिमानत"
+  },
+  "Procedure": {
+    "<2hi>": "प्रक्रिया/ कार्यप्रणाली"
+  },
+  "Proceedings": {
+    "<2hi>": "कार्यवाही"
+  },
+  "Professional Tax": {
+    "<2hi>": "वृति कर"
+  },
+  "Progress Report": {
+    "<2hi>": "प्रगति विवरण"
+  },
+  "Propulsion": {
+    "<2hi>": "प्रणोदन"
+  },
+  "Proposed Relieving Date": {
+    "<2hi>": "प्रस्तावित कार्यमुक्ति तिथि"
+  },
+  "Provisioned by": {
+    "<2hi>": "प्रावधानकर्ता"
+  },
+  "Psychiatry Specialist": {
+    "<2hi>": "मनश्चिकित्सा विशेषज्ञ"
+  },
+  "Public Relation Officer": {
+    "<2hi>": "जनसंपर्क अधिकारी"
+  },
+  "Pulmonologist": {
+    "<2hi>": "श्वास-रोग विशेषज्ञ"
+  },
+  "Pus": {
+    "<2hi>": "मवाद/पीप"
+  },
+  "Quantum": {
+    "<2hi>": "मात्रा"
+  },
+  "Quasi Permanent": {
+    "<2hi>": "स्थायिवत्"
+  },
+  "Quotation": {
+    "<2hi>": "उद्धरण"
+  },
+  "Radiology": {
+    "<2hi>": "रेडियोलोजी"
+  },
+  "Received by": {
+    "<2hi>": "प्राप्तकर्ता"
+  },
+  "Recession": {
+    "<2hi>": "सुस्ती, मंदी"
+  },
+  "Recommendation": {
+    "<2hi>": "संस्तुति/ अनुशंसा"
+  },
+  "Recommended by": {
+    "<2hi>": "संस्तुतिकर्ता"
+  },
+  "Reconsideration": {
+    "<2hi>": "पुनर्विचार"
+  },
+  "Reconstitution": {
+    "<2hi>": "पुनर्गठन"
+  },
+  "Record": {
+    "<2hi>": "अभिलेख"
+  },
+  "Recruitment": {
+    "<2hi>": "भर्ती"
+  },
+  "Recycling": {
+    "<2hi>": "पुनरावर्तन"
+  },
+  "Referral register": {
+    "<2hi>": "रेफरल पंजिका"
+  },
+  "Referral slip": {
+    "<2hi>": "रेफरल पर्ची"
+  },
+  "Refundable": {
+    "<2hi>": "प्रतिदेय"
+  },
+  "Registrar": {
+    "<2hi>": "कुलसचिव"
+  },
+  "Regulations": {
+    "<2hi>": "अधिनियम"
+  },
+  "Reimbursement": {
+    "<2hi>": "प्रतिपूर्ति"
+  },
+  "Reinforced": {
+    "<2hi>": "प्रवलित"
+  },
+  "Representations": {
+    "<2hi>": "अभ्यावेदन, प्रतिनिधित्व"
+  },
+  "Representative": {
+    "<2hi>": "प्रतिनिधि"
+  },
+  "Requisite": {
+    "<2hi>": "अपेक्षित"
+  },
+  "Rescind": {
+    "<2hi>": "रद्द कर देना"
+  },
+  "Research Assistant": {
+    "<2hi>": "शोध सहायक"
+  },
+  "Research Associate": {
+    "<2hi>": "शोध सहयोगी"
+  },
+  "Research Fellow": {
+    "<2hi>": "शोधकर्ता"
+  },
+  "Reservation": {
+    "<2hi>": "आरक्षण"
+  },
+  "Reserves": {
+    "<2hi>": "आरक्षित करना"
+  },
+  "Resignation Date": {
+    "<2hi>": "त्यागपत्र तिथि"
+  },
+  "Resigned": {
+    "<2hi>": "इस्तीफा दे दिया"
+  },
+  "Reskilling": {
+    "<2hi>": "पुनः कौशलीकरण"
+  },
+  "Resource": {
+    "<2hi>": "संसाधन"
+  },
+  "Rest room": {
+    "<2hi>": "पाखाना / शौचालय / प्रसाधन"
+  },
+  "Resolution": {
+    "<2hi>": "संकल्प / विभेदन / वियोजन"
+  },
+  "Retirement": {
+    "<2hi>": "सेवानिवृत्ति"
+  },
+  "Returning Officer": {
+    "<2hi>": "निर्वाचन अधिकारी"
+  },
+  "Reviewed by": {
+    "<2hi>": "समीक्षाकर्ता"
+  },
+  "Revision": {
+    "<2hi>": "संशोधन"
+  },
+  "Right to Information Act": {
+    "<2hi>": "सूचना का अधिकार अधिनियम"
+  },
+  "Risk &amp; Cost of": {
+    "<2hi>": "का जोखिम और लागत"
+  },
+  "Rounded Greand Total": {
+    "<2hi>": "पूर्णांकित कुल जोड़"
+  },
+  "Routine check-up": {
+    "<2hi>": "नियमित जाँच"
+  },
+  "Sanctioned": {
+    "<2hi>": "मंजूर"
+  },
+  "Sanitizer": {
+    "<2hi>": "प्रक्षालक"
+  },
+  "Scheduler": {
+    "<2hi>": "अनुसूचक"
+  },
+  "Schematic": {
+    "<2hi>": "योजना संबंधी"
+  },
+  "Second opinion": {
+    "<2hi>": "दूसरी राय"
+  },
+  "Seismic": {
+    "<2hi>": "भूकंपीय"
+  },
+  "Self-attested": {
+    "<2hi>": "स्व-सत्यापित"
+  },
+  "Senior medical officer": {
+    "<2hi>": "वरिष्ठ चिकित्सा अधिकारी"
+  },
+  "Seniority List": {
+    "<2hi>": "वरिष्ठता सूची"
+  },
+  "Service Details": {
+    "<2hi>": "सेवा विवरण"
+  },
+  "Side effects": {
+    "<2hi>": "दुष्प्रभाव"
+  },
+  "Single blind peer review": {
+    "<2hi>": "सिंगल-ब्लाइन्ड पियर समीक्षा"
+  },
+  "Skill Set": {
+    "<2hi>": "कौशल"
+  },
+  "Soft Skill": {
+    "<2hi>": "सामान्य/साधारण कौशल"
+  },
+  "software engineering practices": {
+    "<2hi>": "सॉफ्टवेयर तकनीकी पद्धति/प्रक्रिया"
+  },
+  "Soil": {
+    "<2hi>": "मृदा"
+  },
+  "Spasm": {
+    "<2hi>": "ऐंठन"
+  },
+  "Sprain": {
+    "<2hi>": "मोच"
+  },
+  "Stabilization": {
+    "<2hi>": "स्थिरीकरण"
+  },
+  "Stagnation": {
+    "<2hi>": "गतिरोध"
+  },
+  "State of the art": {
+    "<2hi>": "अत्याधुनिक"
+  },
+  "Statutory approvals": {
+    "<2hi>": "सांविधिक अनुमोदन"
+  },
+  "Statutory return": {
+    "<2hi>": "वैधानिक रिटर्न"
+  },
+  "Stipulated": {
+    "<2hi>": "नियत"
+  },
+  "Storage": {
+    "<2hi>": "भंडारण विश्लेषण"
+  },
+  "Store and Purchase Assistant": {
+    "<2hi>": "भंडार और खरीद सहायक"
+  },
+  "Stress": {
+    "<2hi>": "तनाव"
+  },
+  "Studious": {
+    "<2hi>": "अध्ययनशील / परिश्रमी"
+  },
+  "Studiousness": {
+    "<2hi>": "अध्ययनशीलता / अध्यवसाय / परिश्रम"
+  },
+  "Suite": {
+    "<2hi>": "सुइट"
+  },
+  "Supply": {
+    "<2hi>": "आपूर्ति, प्रदाय"
+  },
+  "Superannuation": {
+    "<2hi>": "अधिवर्षिता"
+  },
+  "Symptom": {
+    "<2hi>": "लक्षण"
+  },
+  "Tablet": {
+    "<2hi>": "गोली"
+  },
+  "TDS return": {
+    "<2hi>": "टीडीएस रिटर्न"
+  },
+  "Techno-Commercial": {
+    "<2hi>": "तकनीकी-वाणिज्यिक"
+  },
+  "Temperature": {
+    "<2hi>": "तापमान"
+  },
+  "Tenderer": {
+    "<2hi>": "निविदाकार"
+  },
+  "Termination": {
+    "<2hi>": "निष्कासन"
+  },
+  "Terms and conditions": {
+    "<2hi>": "नियम और शर्तें"
+  },
+  "Terms of Reference (ToR)": {
+    "<2hi>": "दिशानिर्देश / संदर्भ की शर्तें"
+  },
+  "Test results": {
+    "<2hi>": "परीक्षण के परिणाम"
+  },
+  "Throughput": {
+    "<2hi>": "थ्रूपुट"
+  },
+  "Thermal": {
+    "<2hi>": "तापीय"
+  },
+  "Till Further Orders": {
+    "<2hi>": "अगला आदेश होने तक"
+  },
+  "To": {
+    "<2hi>": "प्रति"
+  },
+  "Top": {
+    "<2hi>": "सर्वोत्तम"
+  },
+  "Total Expenses Sanctioned": {
+    "<2hi>": "कुल स्वीकृत व्यय"
+  },
+  "Total/Sub Total": {
+    "<2hi>": "जोड़"
+  },
+  "Transmission": {
+    "<2hi>": "संप्रेषण, संचलन"
+  },
+  "Transplant": {
+    "<2hi>": "प्रत्यारोपण"
+  },
+  "Tropical": {
+    "<2hi>": "उष्णदेशीय"
+  },
+  "Turbulence": {
+    "<2hi>": "विक्षोभ"
+  },
+  "Turbulent": {
+    "<2hi>": "विक्षुब्ध"
+  },
+  "Unconscious": {
+    "<2hi>": "बेहोश"
+  },
+  "Under Secretary": {
+    "<2hi>": "अवर सचिव"
+  },
+  "Update": {
+    "<2hi>": "अद्यतन"
+  },
+  "Upskilling": {
+    "<2hi>": "कौशल उन्नयन"
+  },
+  "Vaccination": {
+    "<2hi>": "टीकाकरण"
+  },
+  "Vaccine": {
+    "<2hi>": "टीका"
+  },
+  "Verification": {
+    "<2hi>": "सत्यापन"
+  },
+  "Verified by": {
+    "<2hi>": "सत्यापनकर्ता"
+  },
+  "Verifying Authority": {
+    "<2hi>": "सत्यापन प्राधिकारी/ सत्यापनकर्ता"
+  },
+  "Vision": {
+    "<2hi>": "ध्येय"
+  },
+  "Visiting hours": {
+    "<2hi>": "मिलने का समय"
+  },
+  "Visiting Specialist": {
+    "<2hi>": "अभ्यागत विशेषज्ञ"
+  },
+  "Vice Chancellor": {
+    "<2hi>": "कुलपति"
+  },
+  "Vomit": {
+    "<2hi>": "उलटी करना"
+  },
+  "Vote of Thanks": {
+    "<2hi>": "धन्यवाद प्रस्ताव"
+  },
+  "Walk in Interview": {
+    "<2hi>": "प्रवेश साक्षात्कार"
+  },
+  "Wheelchair": {
+    "<2hi>": "पहिएदार कुर्सी"
+  },
+  "Wireless": {
+    "<2hi>": "तारविहीन"
+  },
+  "Letter": {
+    "<2hi>": "पत्र"
+  },
+  "Official letter": {
+    "<2hi>": "सरकारी पत्र"
+  },
+  "D.O. letter": {
+    "<2hi>": "अर्ध-सरकारी/ अर्ध-शासकीय पत्र"
+  },
+  "Office memorandum": {
+    "<2hi>": "कार्यालय ज्ञापन"
+  },
+  "Order": {
+    "<2hi>": "आदेश"
+  },
+  "Office Order": {
+    "<2hi>": "कार्यालय आदेश"
+  },
+  "Notification": {
+    "<2hi>": "अधिसूचना"
+  },
+  "Corrigendum": {
+    "<2hi>": "शुद्धि–पत्र"
+  },
+  "Offer of appointment": {
+    "<2hi>": "नियुक्ति- प्रस्ताव"
+  },
+  "Letter of appointment": {
+    "<2hi>": "नियुक्ति पत्र"
+  },
+  "Reminder": {
+    "<2hi>": "अनुस्मारक/स्मरण पत्र"
+  },
+  "Press Note": {
+    "<2hi>": "प्रेस नोट"
+  },
+  "Press communique": {
+    "<2hi>": "प्रेस विज्ञप्ति"
+  },
+  "Telegram": {
+    "<2hi>": "तार"
+  },
+  "Savingram": {
+    "<2hi>": "बचत तार"
+  },
+  "Express letter": {
+    "<2hi>": "शीघ्र पत्र"
+  },
+  "Personal letter": {
+    "<2hi>": "निजी पत्र"
+  },
+  "C-DAC": {
+    "<2hi>": "सी-डैक"
+  },
+  "Pune": {
+    "<2hi>": "पुणे"
+  },
+  "SERVICE BOOK": {
+    "<2hi>": "सेवा पुस्तिका"
+  },
+  "OF": {
+    "<2hi>": "का"
+  },
+  "MR RAJENDRA SHRIKRISHNA JOGLEKAR (Employee No. 100438)": {
+    "<2hi>": "श्री राजेंद्र श्रीकृष्ण जोगलेकर (कर्मचारी संख्या 100438)"
+  },
+  "Joint Director": {
+    "<2hi>": "संयुक्त निदेशक"
+  },
+  "The corrections made in ink manually on the service book shall not be valid. Any corrections must be made before printing and signing by appropriate authority.]": {
+    "<2hi>": "सर्विस बुक (सेवा पुस्तिका) पर हाथ से स्याही से किया गया सुधार मान्य नहीं होगा। उचित प्राधिकारी द्वारा मुद्रण और हस्ताक्षर करने से पहले कोई भी सुधार हो जाना चाहिए।]"
+  },
+  "All pages of the service book must be signed by the concerned employee.]": {
+    "<2hi>": "सर्विस बुक (सेवा पुस्तिका) के सभी पृष्ठों पर संबंधित कर्मचारी के हस्ताक्षर होने चाहिए।]"
+  },
+  "Page 1 of 27": {
+    "<2hi>": "27 का पेज 1"
+  },
+  "Printed On: 21-Dec-2021 11:38": {
+    "<2hi>": "मुद्रण तिथि : 21-दिसं-2021 11:38"
+  },
+  "Service Book of Employee No.100438: SRNO/6": {
+    "<2hi>": "सेवा पुस्तिका - कर्मचारी संख्या 100438 :  पृष्ठ क्र/6"
+  },
+  "PART - I": {
+    "<2hi>": "भाग - I"
+  },
+  "BIO-DATA": {
+    "<2hi>": "बायो डाटा"
+  },
+  "Name in full": {
+    "<2hi>": "पूरा नाम"
+  },
+  "MR RAJENDRA SHRIKRISHNA JOGLEKAR": {
+    "<2hi>": "श्री राजेंद्र श्रीकृष्णा जोगलेकर"
+  },
+  "Gender: Male": {
+    "<2hi>": "लिंग : पुरुष"
+  },
+  "Name of the Father & or Mother": {
+    "<2hi>": "पिता और या माता का नाम"
+  },
+  "Father : LATE SHRIKRIISHNA MORESHWAR JOGLEKAR": {
+    "<2hi>": "पिता : स्वर्गीय श्रीकृष्ण मोरेश्वर जोगलेकर"
+  },
+  "Mother : SMT MANGALA SHRIKRIISHNA JOGLEKAR": {
+    "<2hi>": "माता : श्रीमती मंगला श्रीकृष्ण जोगलेकर"
+  },
+  "Name of the spouse, if married": {
+    "<2hi>": "विवाहित होने पर पति / पत्नी का नाम"
+  },
+  "MRS RUCHA RAJENDRA JOGLEKAR": {
+    "<2hi>": "श्रीमती रुचा राजेंद्र जोगलेकर"
+  },
+  "Nationality": {
+    "<2hi>": "राष्ट्रीयता"
+  },
+  "Indian (By birth)": {
+    "<2hi>": "भारतीय (जन्म से)"
+  },
+  "(If not a citizen of India, number and date of eligibility certificate)": {
+    "<2hi>": "(यदि भारत का नागरिक नहीं है, तो पात्रता प्रमाण पत्र की संख्या और तिथि)"
+  },
+  "Whether a member of Scheduled Caste": {
+    "<2hi>": "क्या अनुसूचित जाति का सदस्य है"
+  },
+  "No": {
+    "<2hi>": "नहीं"
+  },
+  "Scheduled Tribe / OBC (Specify)": {
+    "<2hi>": "अनुसूचित जनजाति / अन्य पिछड़ा वर्ग (निर्दिष्ट करें)"
+  },
+  "Date of birth": {
+    "<2hi>": "जन्म तिथि"
+  },
+  "08th February 1958": {
+    "<2hi>": "08 फरवरी 1958"
+  },
+  "Educational Qualifications": {
+    "<2hi>": "शैक्षिक योग्यता"
+  },
+  "(a) At the time of first appointment": {
+    "<2hi>": "(क) पहली नियुक्ति के समय"
+  },
+  "Qualification": {
+    "<2hi>": "योग्यता"
+  },
+  "Specialization": {
+    "<2hi>": "विशेषज्ञता"
+  },
+  "Passed On": {
+    "<2hi>": "आगे बधाया"
+  },
+  "University/ Board": {
+    "<2hi>": "विश्वविद्यालय / बोर्ड"
+  },
+  "10th Standard": {
+    "<2hi>": "10वीं कक्षा"
+  },
+  "General": {
+    "<2hi>": "सामान्य"
+  },
+  "01/Apr/76": {
+    "<2hi>": "01-अप्रैल-76"
+  },
+  "Board of Secondary Education": {
+    "<2hi>": "माध्यमिक शिक्षा मंडल"
+  },
+  "Diploma": {
+    "<2hi>": "डिप्लोमा"
+  },
+  "Applied Arts": {
+    "<2hi>": "एप्लाइड आर्ट्स"
+  },
+  "31/May/81": {
+    "<2hi>": "31-May-81"
+  },
+  "MAHARASHTRA BOARD": {
+    "<2hi>": "महाराष्ट्र बोर्ड"
+  },
+  "Master of Designs": {
+    "<2hi>": "मास्टर ऑफ डिजाइन"
+  },
+  "Master of Design": {
+    "<2hi>": "मास्टर ऑफ डिजाइन"
+  },
+  "30/Apr/91": {
+    "<2hi>": "30-Apr-91"
+  },
+  "IIT Mumbai": {
+    "<2hi>": "आईआईटी मुंबई"
+  },
+  "(b) Subsequently acquired": {
+    "<2hi>": "(ख) बाद में अधिग्रहण किया"
+  },
+  "--Data not entered--": {
+    "<2hi>": "--डेटा दर्ज नहीं किया गया--"
+  },
+  "Professional and Technical Qualifications not specifically covered under S.No. 7": {
+    "<2hi>": "व्यावसायिक और तकनीकी योग्यताएं जो विशेष रूप से क्रमांक 7 के अंतर्गत शामिल नहीं हैं।"
+  },
+  "Exact height measurement (in Metres)": {
+    "<2hi>": "सटीक ऊंचाई माप (मीटर में)"
+  },
+  "without shoes": {
+    "<2hi>": "जूतों के बिना"
+  },
+  "Personal marks of identification": {
+    "<2hi>": "पहचान के व्यक्तिगत निशान"
+  },
+  "Scar On The Forehead Above Both Eyebrow": {
+    "<2hi>": "दोनों भौंहों के ऊपर माथे पर निशान"
+  },
+  "Whether Physically Handicapped": {
+    "<2hi>": "क्या शारीरिक रूप से विकलांग"
+  },
+  "Yes": {
+    "<2hi>": "हां"
+  },
+  "Permanent Home Address": {
+    "<2hi>": "घर का स्थायी पता"
+  },
+  "53, Saraswati, Sangam Society,, Pune Satara Road": {
+    "<2hi>": "53, सरस्वती, संगम सोसाइटी, पुणे सतारा रोड"
+  },
+  "Bibwewadi, Pune 411 037 City :-Pune District :-Pune State": {
+    "<2hi>": "बिबवेवाड़ी, पुणे 411 037 शहर :-पुणे जिला :-पुणे राज्य"
+  },
+  "Maharashtra, PIN:- 411037": {
+    "<2hi>": "महाराष्ट्र, पिन:- 411037"
+  },
+  "Aadhar": {
+    "<2hi>": "आधार"
+  },
+  "234349000000": {
+    "<2hi>": "234349000000"
+  },
+  "hereby acknowledge and accept the information printed above as correct": {
+    "<2hi>": "एतद्द्वारा उपरोक्त मुद्रित जानकारी को सही मानते हैं और स्वीकार करते हैं"
+  },
+  "Signature of Employee": {
+    "<2hi>": "कर्मचारी का हस्ताक्षर"
+  },
+  "Signature and Designation of Certifying Officer": {
+    "<2hi>": "प्रमाणकर्ता अधिकारी के हस्ताक्षर और पदनाम"
+  },
+  "Date": {
+    "<2hi>": "दिनांक"
+  },
+  "Page 2 of 27": {
+    "<2hi>": "27 का पेज 2"
+  },
+  "Signature or left hand thumb impression of the Govt. servant": {
+    "<2hi>": "सरकारी कर्मचारी के हस्ताक्षर या अंगूठे का निशान"
+  },
+  "with date": {
+    "<2hi>": "तारीख के साथ"
+  },
+  "Signature and designation of attesting officer": {
+    "<2hi>": "अनुप्रमाणन अधिकारी का पदनाम और हस्ताक्षर"
+  },
+  "with date and official seal affixed": {
+    "<2hi>": "तारीख और आधिकारिक मुहर के साथ"
+  },
+  "Page 3 of 27": {
+    "<2hi>": "27 का पेज 3"
+  },
+  "PART - II": {
+    "<2hi>": "भाग - II"
+  },
+  "CERTIFICATE AND ATTESTATION": {
+    "<2hi>": "प्रमाण पत्र और सत्यापन"
+  },
+  "(A) IMMUTABLE": {
+    "<2hi>": "(क) अपरिवर्तनीय"
+  },
+  "Dated Signature": {
+    "<2hi>": "दिनांक सहित हस्ताक्षर"
+  },
+  "Sl.No": {
+    "<2hi>": "क्रम सं."
+  },
+  "Subject": {
+    "<2hi>": "विषय"
+  },
+  "Certificate": {
+    "<2hi>": "प्रमाणपत्र"
+  },
+  "Designation of the certifying": {
+    "<2hi>": "प्रमाणन का पदनाम"
+  },
+  "officer   (with seal affixed)": {
+    "<2hi>": "अधिकारी (मुहर लगाकर)"
+  },
+  "Medical": {
+    "<2hi>": "चिकित्सा"
+  },
+  "The employee was medically examined at the time of": {
+    "<2hi>": "उस समय कर्मचारी का चिकित्सकीय परीक्षण किया गया था"
+  },
+  "Examination": {
+    "<2hi>": "परीक्षा"
+  },
+  "appointment and found fit. The original medical certificate": {
+    "<2hi>": "नियुक्ति और फिट पाया गया। मूल चिकित्सा प्रमाण पत्र"
+  },
+  "has been kept in safe custody at HR department": {
+    "<2hi>": "मानव संसाधन विभाग में सुरक्षित निगरानी में रखा गया है"
+  },
+  "Character": {
+    "<2hi>": "चरित्र"
+  },
+  "His character and antecedents have been verified and the": {
+    "<2hi>": "उनके चरित्र और पिछले जीवन को सत्यापित किया गया है और"
+  },
+  "Antecedents": {
+    "<2hi>": "पिछला जीवन"
+  },
+  "verification report kept in safe custody at HR department": {
+    "<2hi>": "सत्यापन रिपोर्ट मानव संसाधन विभाग में सुरक्षित निगरानी में रखा गया है"
+  },
+  "Allegiance to the": {
+    "<2hi>": "के प्रति निष्ठा"
+  },
+  "He has taken the oath of allegiance / affirmation to the": {
+    "<2hi>": "उन्होंने के प्रति निष्ठा/पुष्टि की शपथ ली है"
+  },
+  "Constitution": {
+    "<2hi>": "संविधान"
+  },
+  "Oath of secrecy": {
+    "<2hi>": "गोपनीयता की शपथ"
+  },
+  "He has read the Official Secrets Act & Central Civil Services": {
+    "<2hi>": "उन्होंने ऑफिशियल सीक्रेट्स एक्ट और सेंट्रल सिविल सर्विसेज को पढ़ा है"
+  },
+  "(Conduct) Rules and has also taken the oath of secrecy": {
+    "<2hi>": "(आचरण) नियम और गोपनीयता की शपथ भी ली है"
+  },
+  "Marital status": {
+    "<2hi>": "वैवाहिक स्थिति"
+  },
+  "He has furnished declaration regarding His not having": {
+    "<2hi>": "उन्होंने द्विविवाहित विवाह नहीं करने के संबंध में एक"
+  },
+  "contracted bigamous marriage. The relevant declaration has": {
+    "<2hi>": "घोषणा पत्र प्रस्तुत किया है। प्रासंगिक घोषणा"
+  },
+  "been filed": {
+    "<2hi>": "दायर की गई है"
+  },
+  "Declaration of": {
+    "<2hi>": "की घोषणा"
+  },
+  "He has furnished declaration of home town which has been": {
+    "<2hi>": "उन्होंने गृह नगर की घोषणा प्रस्तुत की है जो कि"
+  },
+  "Home Town": {
+    "<2hi>": "गृह नगर"
+  },
+  "accepted and filed": {
+    "<2hi>": "स्वीकार किया और दायर किया"
+  },
+  "Verification of": {
+    "<2hi>": "का सत्यापन"
+  },
+  "The correctness of entries against S.Nos. 5-8 of Part I \"Bio": {
+    "<2hi>": "भाग I \"बायो का क्रमांक 5-8 के विरुद्ध प्रविष्टियों की शुद्धता"
+  },
+  "entries in Part I": {
+    "<2hi>": "भाग I  में प्रविष्टियाँ"
+  },
+  "data\" has been verified from original certificates considered": {
+    "<2hi>": "माने गए मूल प्रमाणपत्रों से डेटा सत्यापित किया गया है"
+  },
+  "as valid documentary evidence for the respective purposes": {
+    "<2hi>": "संबंधित उद्देश्यों के लिए वैध दस्तावेजी साक्ष्य के रूप में"
+  },
+  "Attested copies of these certificates have been filed": {
+    "<2hi>": "इन प्रमाणपत्रों की सत्यापित प्रतियां दाखिल कर दी गई हैं"
+  },
+  "Confirmation in": {
+    "<2hi>": "में पुष्टि"
+  },
+  "The employee has been confirmed in the post of Member": {
+    "<2hi>": "सदस्य के पद पर कर्मचारी की पुष्टि की गई है"
+  },
+  "Post": {
+    "<2hi>": "पद"
+  },
+  "Technical Staff w.e.f. 04-APR-1994. A copy of the": {
+    "<2hi>": "तकनीकी कर्मचारी प्रभावी कार्य दिवस 04-अप्रैल-1994। की एक प्रति"
+  },
+  "confirmation order is filed": {
+    "<2hi>": "पुष्टि आदेश दायर किया गया है"
+  },
+  "Page 4 of 27": {
+    "<2hi>": "27 का पेज 4"
+  },
+  "PART - II (B) MUTABLE": {
+    "<2hi>": "भाग - II (ख) परिवर्तनीय"
+  },
+  "Family Particulars": {
+    "<2hi>": "परिवार का विवरण"
+  },
+  "S.No": {
+    "<2hi>": "क्रमांक"
+  },
+  "Name": {
+    "<2hi>": "नाम"
+  },
+  "Relation": {
+    "<2hi>": "संबंध"
+  },
+  "LATE SHRIKRIISHNA MORESHWAR": {
+    "<2hi>": "स्वर्गीय श्रीकृष्ण मोरेश्वर"
+  },
+  "Father": {
+    "<2hi>": "पिता"
+  },
+  "14/Oct/34": {
+    "<2hi>": "14-Oct-34"
+  },
+  "Married": {
+    "<2hi>": "विवाहित"
+  },
+  "JOGLEKAR": {
+    "<2hi>": "जोगलेकर"
+  },
+  "Wife": {
+    "<2hi>": "पत्नी"
+  },
+  "22/May/66": {
+    "<2hi>": "22-May-66"
+  },
+  "MST DEVENDRA RAJENDRA": {
+    "<2hi>": "मास्टर देवेंद्र राजेंद्र"
+  },
+  "Son": {
+    "<2hi>": "पुत्र"
+  },
+  "16/Feb/91": {
+    "<2hi>": "16-Feb-91"
+  },
+  "Unmarried": {
+    "<2hi>": "अविवाहित"
+  },
+  "SMT MANGALA SHRIKRIISHNA": {
+    "<2hi>": "श्रीमती मंगला श्रीकृष्ण"
+  },
+  "Mother": {
+    "<2hi>": "माँ"
+  },
+  "01/Feb/34": {
+    "<2hi>": "1-Feb-34"
+  },
+  "Widow": {
+    "<2hi>": "विधवा"
+  },
+  "(a) P.F. A/c No": {
+    "<2hi>": "(क) पी.एफ. खाता संख्या"
+  },
+  "PU/PUN/0030908000/0438": {
+    "<2hi>": "PU/PUN/0030908000/0438"
+  },
+  "(b) Nomination for P.F": {
+    "<2hi>": "(ख) पी.एफ. के लिए नामांकन"
+  },
+  "Date of": {
+    "<2hi>": "की तारीख"
+  },
+  "PF": {
+    "<2hi>": "भविष्य-निधि"
+  },
+  "Other dues": {
+    "<2hi>": "अन्य बकाया"
+  },
+  "Nomination": {
+    "<2hi>": "नामांकन"
+  },
+  "09/Feb/16": {
+    "<2hi>": "9-Feb-16"
+  },
+  "Nomination For DCR Gratuity & Family Pension": {
+    "<2hi>": "डीसीआर ग्रेच्युटी और पारिवारिक पेंशन के लिए नामांकन"
+  },
+  "DCR Gratuity & Family": {
+    "<2hi>": "डीसीआर ग्रेच्युटी और परिवार"
+  },
+  "Pension": {
+    "<2hi>": "पेंशन"
+  },
+  "Nomination For Central Govt. Employees Group Insurance Scheme (CGEGIS)": {
+    "<2hi>": "केन्द्र सरकार कर्मचारी समूह बीमा योजना (सीजीईजीआईएस) का नामांकन"
+  },
+  "Not Applicable": {
+    "<2hi>": "लागू नहीं"
+  },
+  "Nomination For Leave Encashment": {
+    "<2hi>": "छुट्टी के नकदीकरण हेतु नामांकन"
+  },
+  "Leave Encashment": {
+    "<2hi>": "छुट्टी का नकदीकरण"
+  },
+  "Page 5 of 27": {
+    "<2hi>": "27 का पेज 5"
+  },
+  "PART - III": {
+    "<2hi>": "भाग - III"
+  },
+  "PREVIOUS QUALIFYING SERVICE AND FOREIGN SERVICE": {
+    "<2hi>": "पिछली विशेषक सेवा और विदेश सेवा"
+  },
+  "(A) PREVIOUS QUALIFYING SERVICE": {
+    "<2hi>": "(क) पिछली विशेषक सेवा"
+  },
+  "Period": {
+    "<2hi>": "अवधी"
+  },
+  "Post held": {
+    "<2hi>": "के पास यह पद है"
+  },
+  "Purpose for which it qualifies": {
+    "<2hi>": "जिस उद्देश्य के लिए यह योग्य है"
+  },
+  "From": {
+    "<2hi>": "से"
+  },
+  "officer": {
+    "<2hi>": "अधिकारी"
+  },
+  "No Previous Qualifying service particulars found": {
+    "<2hi>": "पिछली कोई विशेषक सेवा का विवरण नहीं मिला"
+  },
+  "(B) FOREIGN SERVICE": {
+    "<2hi>": "(ख) विदेश सेवा"
+  },
+  "Post Held and Name of": {
+    "<2hi>": "धारित पद और का नाम"
+  },
+  "Leave and Pension Contribution": {
+    "<2hi>": "छुट्टी और पेंशन अंशदान"
+  },
+  "Amount of Leave Pension": {
+    "<2hi>": "अवकाश पेंशन की राशि"
+  },
+  "contribution actually": {
+    "<2hi>": "वास्तव में योगदान"
+  },
+  "Foreign Employer": {
+    "<2hi>": "विदेशी नियोक्ता"
+  },
+  "payable by": {
+    "<2hi>": "द्वारा देय"
+  },
+  "received": {
+    "<2hi>": "प्राप्त"
+  },
+  "Page 6 of 27": {
+    "<2hi>": "27 का पेज 6"
+  },
+  "PART - IV": {
+    "<2hi>": "भाग - IV"
+  },
+  "HISTORY OF SERVICE": {
+    "<2hi>": "सेवा का इतिहास"
+  },
+  "Sl": {
+    "<2hi>": "क्रमांक"
+  },
+  "Post, Scale of Pay and Office": {
+    "<2hi>": "पद, वेतनमान और कार्यालय"
+  },
+  "Pay": {
+    "<2hi>": "वेतन"
+  },
+  "Substantive": {
+    "<2hi>": "मूल"
+  },
+  "with station": {
+    "<2hi>": "स्टेशन के साथ"
+  },
+  "Rs.": {
+    "<2hi>": "रु."
+  },
+  "04/Apr/94": {
+    "<2hi>": "4-Apr-94"
+  },
+  "28/Feb/18": {
+    "<2hi>": "28-Feb-18"
+  },
+  "New contract w.e.f. 04-APR-1994 till 28-FEB-2018": {
+    "<2hi>": "नया अनुबंध प्रभावी कार्य दिवस 04-अप्रैल-1994 से 28-फरवरी-2018 तक"
+  },
+  "order dated 21-MAR-1994": {
+    "<2hi>": "आदेश दिनांक 21-मार्च-1994"
+  },
+  "Appointment due given w.e.f. 04-APR-1994 in the": {
+    "<2hi>": "देय नियुक्ति दिनांक प्रभावी कार्य दिवस से 04-अप्रैल-1994 में"
+  },
+  "payscale of 2200-75-2800-100-4000 in 4th Pay": {
+    "<2hi>": "चौथे वेतन में 2200-75-2800-100-4000 का वेतनमान"
+  },
+  "Commission": {
+    "<2hi>": "कमीशन"
+  },
+  "01/Apr/95": {
+    "<2hi>": "1-Apr-95"
+  },
+  "Increment due given w.e.f. 01-APR-1995 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-अप्रैल-1995 में"
+  },
+  "01/Jan/96": {
+    "<2hi>": "1-Jan-96"
+  },
+  "Pay Commission Change due given w.e.f. 01-JAN": {
+    "<2hi>": "वेतन आयोग परिवर्तन देय दिनांक प्रभावी कार्य दिवस से 01-जनवरी"
+  },
+  "in the payscale of 8000-275-13500 in 5th Pay": {
+    "<2hi>": "5वें वेतन में 8000-275-13500 के वेतनमान में"
+  },
+  "01/Apr/96": {
+    "<2hi>": "1-Apr-96"
+  },
+  "Increment due given w.e.f. 01-APR-1996 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-अप्रैल-1996 में"
+  },
+  "payscale of 8000-275-13500 in 5th Pay": {
+    "<2hi>": "5वें वेतन में 8000-275-13500 के वेतनमान में"
+  },
+  "01/Apr/97": {
+    "<2hi>": "1-Apr-97"
+  },
+  "Increment due given w.e.f. 01-APR-1997 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-अप्रैल-1997 में"
+  },
+  "01/Apr/98": {
+    "<2hi>": "1-Apr-98"
+  },
+  "Increment due given w.e.f. 01-APR-1998 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-अप्रैल-1998 में"
+  },
+  "01/Oct/98": {
+    "<2hi>": "1-Oct-98"
+  },
+  "Promotion due given w.e.f. 01-OCT-1998 in the": {
+    "<2hi>": "प्रभावी कार्य दिवस से दी गई पदोन्नति 01-अक्टूबर-1998 में"
+  },
+  "payscale of 10000-325-15200 in 5th Pay": {
+    "<2hi>": "5वें वेतन में 10000-325-15200 के वेतनमान में"
+  },
+  "01/Oct/99": {
+    "<2hi>": "1-Oct-99"
+  },
+  "Increment due given w.e.f. 01-OCT-1999 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-अक्तूबर-1999 में"
+  },
+  "Page 7 of 27": {
+    "<2hi>": "27 का पेज 7"
+  },
+  "01/Oct/00": {
+    "<2hi>": "1-Oct-00"
+  },
+  "Increment due given w.e.f. 01-OCT-2000 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-अक्तूबर-2000 में"
+  },
+  "01/Oct/01": {
+    "<2hi>": "1-Oct-01"
+  },
+  "Increment due given w.e.f. 01-OCT-2001 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-अक्तूबर-2001 में"
+  },
+  "01/Oct/02": {
+    "<2hi>": "1-Oct-02"
+  },
+  "Increment due given w.e.f. 01-OCT-2002 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-अक्तूबर-2002 में"
+  },
+  "01/Oct/03": {
+    "<2hi>": "1-Oct-03"
+  },
+  "Increment due given w.e.f. 01-OCT-2003 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-अक्तूबर-2003 में"
+  },
+  "01/Oct/04": {
+    "<2hi>": "1-Oct-04"
+  },
+  "Increment due given w.e.f. 01-OCT-2004 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-अक्तूबर-2004 में"
+  },
+  "01/Oct/05": {
+    "<2hi>": "1-Oct-05"
+  },
+  "Increment due given w.e.f. 01-OCT-2005 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-अक्तूबर-2005 में"
+  },
+  "03/Oct/05": {
+    "<2hi>": "3-Oct-05"
+  },
+  "Promotion due given w.e.f. 03-OCT-2005 in the": {
+    "<2hi>": "प्रभावी कार्य दिवस से दी गई पदोन्नति 03-अक्टूबर-2005 में"
+  },
+  "payscale of 12000-375-16500 in 5th Pay": {
+    "<2hi>": "5वें वेतन में 12000-375-16500 के वेतनमान में"
+  },
+  "01/Jan/06": {
+    "<2hi>": "1-Jan-06"
+  },
+  "in the payscale of 15600-39100 GP - 7600 in": {
+    "<2hi>": "15600-39100 जीपी के वेतनमान में - 7600 में"
+  },
+  "6th Pay Commission": {
+    "<2hi>": "छठा वेतन आयोग"
+  },
+  "01/Jul/06": {
+    "<2hi>": "1-Jul-06"
+  },
+  "Increment due given w.e.f. 01-JUL-2006 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-जुलाई-2006 में"
+  },
+  "payscale of 15600-39100 GP - 7600 in 6th Pay": {
+    "<2hi>": "छठे वेतन में 15600-39100 जीपी - 7600 के वेतनमान में"
+  },
+  "01/Oct/06": {
+    "<2hi>": "1-Oct-06"
+  },
+  "Increment due given w.e.f. 01-OCT-2006 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-अक्तूबर-2006 में"
+  },
+  "01/Jul/07": {
+    "<2hi>": "1-Jul-07"
+  },
+  "Increment due given w.e.f. 01-JUL-2007 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-जुलाई-2007 में"
+  },
+  "01/Oct/07": {
+    "<2hi>": "1-Oct-07"
+  },
+  "Increment due given w.e.f. 01-OCT-2007 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-अक्तूबर-2007 में"
+  },
+  "Page 8 of 27": {
+    "<2hi>": "27 का पेज 8"
+  },
+  "01/Mar/08": {
+    "<2hi>": "1-Mar-08"
+  },
+  "Small Family Allowance started with effect from 01": {
+    "<2hi>": "लघु परिवार भत्ता 01 . से शुरू"
+  },
+  "MAR-2008. Amount:- 325 Rs , Pay Commission": {
+    "<2hi>": "मार्च-2008. राशि:- 325 रुपये, वेतन आयोग"
+  },
+  "5th Pay Commission": {
+    "<2hi>": "पांचवां वेतन आयोग"
+  },
+  "01/Jul/08": {
+    "<2hi>": "1-Jul-08"
+  },
+  "Increment due given w.e.f. 01-JUL-2008 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-जुलाई-2008 में"
+  },
+  "01/Sep/08": {
+    "<2hi>": "01-सितंबर-08"
+  },
+  "SEP-2008. Amount:- 650 Rs , Pay Commission": {
+    "<2hi>": "सितंबर-2008. राशि:- 650 रुपये, वेतन आयोग"
+  },
+  "01/Oct/08": {
+    "<2hi>": "1-Oct-08"
+  },
+  "Increment due given w.e.f. 01-OCT-2008 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-अक्तूबर-2008 में"
+  },
+  "01/Jul/09": {
+    "<2hi>": "1-Jul-09"
+  },
+  "Increment due given w.e.f. 01-JUL-2009 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-जुलाई-2009 में"
+  },
+  "07/Jul/09": {
+    "<2hi>": "7-Jul-09"
+  },
+  "Mapped to Regular post on '07-JUL-2009' vide": {
+    "<2hi>": "07-जुलाई-2009' वीडियो पर नियमित पोस्ट के लिए मैप किया गया"
+  },
+  "order no. 'P:HRD:2009' dated '07-JUL-2009": {
+    "<2hi>": "आदेश संख्या. 'पी:एचआरडी:2009' दिनांक '07-जुलाई-2009'"
+  },
+  "01/Jul/10": {
+    "<2hi>": "1-Jul-10"
+  },
+  "Increment due given w.e.f. 01-JUL-2010 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-जुलाई-2010 में"
+  },
+  "01/Jul/11": {
+    "<2hi>": "1-Jul-11"
+  },
+  "Increment due given w.e.f. 01-JUL-2011 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-जुलाई-2011 में"
+  },
+  "01/Jul/12": {
+    "<2hi>": "1-Jul-12"
+  },
+  "Increment due given w.e.f. 01-JUL-2012 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-जुलाई-2012 में"
+  },
+  "01/Jul/13": {
+    "<2hi>": "1-Jul-13"
+  },
+  "Increment due given w.e.f. 01-JUL-2013 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-जुलाई-2013 में"
+  },
+  "01/Jul/14": {
+    "<2hi>": "1-Jul-14"
+  },
+  "Increment due given w.e.f. 01-JUL-2014 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-जुलाई-2014 में"
+  },
+  "01/Jul/15": {
+    "<2hi>": "1-Jul-15"
+  },
+  "Increment due given w.e.f. 01-JUL-2015 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-जुलाई-2015 में"
+  },
+  "Page 9 of 27": {
+    "<2hi>": "27 का पेज 9"
+  },
+  "01/Jul/16": {
+    "<2hi>": "1-Jul-16"
+  },
+  "Increment due given w.e.f. 01-JUL-2016 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-जुलाई-2016 में"
+  },
+  "01/Jan/16": {
+    "<2hi>": "1-Jan-16"
+  },
+  "Promotion due given w.e.f. 01-JAN-2016 in the": {
+    "<2hi>": "प्रभावी कार्य दिवस से दी गई पदोन्नति 01-जनवरी-2016 में"
+  },
+  "payscale of 37400-67000 GP - 8700 in 6th Pay": {
+    "<2hi>": "छठे वेतन में 37400-67000 जीपी - 8700 के वेतनमान में"
+  },
+  "New designation is Joint Director": {
+    "<2hi>": "नया पद संयुक्त निदेशक है"
+  },
+  "01/Jul/17": {
+    "<2hi>": "1-Jul-17"
+  },
+  "Increment due given w.e.f. 01-JUL-2017 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-जुलाई-2017 में"
+  },
+  "in the payscale of Level - 13 in 7th Pay": {
+    "<2hi>": "सातवें वेतनमान में लेवल - 13 के वेतनमान में"
+  },
+  "payscale of Level - 13 in 7th Pay Commission": {
+    "<2hi>": "सातवें वेतन आयोग में लेवल - 13 का वेतनमान"
+  },
+  "Date of superannuation": {
+    "<2hi>": "सेवानिवृत्ति की तिथि"
+  },
+  "Page 10 of 27": {
+    "<2hi>": "27 का पेज 10"
+  },
+  "PREVIOUS NON QUALIFYING EXPERIENCE": {
+    "<2hi>": "पिछला गैर योग्यता अनुभव"
+  },
+  "Employer Name": {
+    "<2hi>": "नियोक्ता का नाम"
+  },
+  "Start Date": {
+    "<2hi>": "प्रारंभ तिथि"
+  },
+  "End Date": {
+    "<2hi>": "अन्त तिथि"
+  },
+  "Job Title": {
+    "<2hi>": "कार्य शीर्षक"
+  },
+  "AFMC Pune": {
+    "<2hi>": "एएफएमसी पुणे"
+  },
+  "04/Apr/83": {
+    "<2hi>": "4-Apr-83"
+  },
+  "31/Oct/92": {
+    "<2hi>": "31-Oct-92"
+  },
+  "PAINTOR & DECORATOR": {
+    "<2hi>": "पेंटर और डेकोरेटर"
+  },
+  "Page 11 of 27": {
+    "<2hi>": "27 का पेज 11"
+  },
+  "PART - VI": {
+    "<2hi>": "भाग - VI"
+  },
+  "LEAVE ACCOUNT": {
+    "<2hi>": "छुट्टी लेखा"
+  },
+  "Earned Leave": {
+    "<2hi>": "अर्जित छुट्टी"
+  },
+  "Entry Type": {
+    "<2hi>": "प्रवेश प्रकार"
+  },
+  "From Date": {
+    "<2hi>": "तारीख से"
+  },
+  "To Date": {
+    "<2hi>": "तारीख तक"
+  },
+  "Credit": {
+    "<2hi>": "क्रेडिट"
+  },
+  "Leaves": {
+    "<2hi>": "छुट्टियां"
+  },
+  "Remarks": {
+    "<2hi>": "टिप्पणी"
+  },
+  "Accrual": {
+    "<2hi>": "प्रोद्भवन"
+  },
+  "Direct leave entry of EL": {
+    "<2hi>": "ईएल की सीधी छुट्टी प्रविष्टि"
+  },
+  "01/Jul/94": {
+    "<2hi>": "1-Jul-94"
+  },
+  "leaves credited": {
+    "<2hi>": "छुट्टी दी जाती है"
+  },
+  "01/Jan/95": {
+    "<2hi>": "1-Jan-95"
+  },
+  "01/Jul/95": {
+    "<2hi>": "1-Jul-95"
+  },
+  "01/Jul/96": {
+    "<2hi>": "1-Jul-96"
+  },
+  "01/Jan/97": {
+    "<2hi>": "1-Jan-97"
+  },
+  "01/Jul/97": {
+    "<2hi>": "1-Jul-97"
+  },
+  "01/Jan/98": {
+    "<2hi>": "1-Jan-98"
+  },
+  "01/Jul/98": {
+    "<2hi>": "1-Jul-98"
+  },
+  "01/Jan/99": {
+    "<2hi>": "1-Jan-99"
+  },
+  "01/Jul/99": {
+    "<2hi>": "1-Jul-99"
+  },
+  "21/Oct/99": {
+    "<2hi>": "21-Oct-99"
+  },
+  "05/Nov/99": {
+    "<2hi>": "05-नवंबर-99"
+  },
+  "Updated by HR": {
+    "<2hi>": "एचआर द्वारा अपडेट किया गया"
+  },
+  "01/Jan/00": {
+    "<2hi>": "1-Jan-00"
+  },
+  "01/Jul/00": {
+    "<2hi>": "1-Jul-00"
+  },
+  "01/Jan/01": {
+    "<2hi>": "1-Jan-01"
+  },
+  "01/Jul/01": {
+    "<2hi>": "1-Jul-01"
+  },
+  "01/Jan/02": {
+    "<2hi>": "1-Jan-02"
+  },
+  "01/Jul/02": {
+    "<2hi>": "1-Jul-02"
+  },
+  "01/Jan/03": {
+    "<2hi>": "1-Jan-03"
+  },
+  "01/Jul/03": {
+    "<2hi>": "1-Jul-03"
+  },
+  "01/Jan/04": {
+    "<2hi>": "1-Jan-04"
+  },
+  "09/Feb/04": {
+    "<2hi>": "9-Feb-04"
+  },
+  "11/Feb/04": {
+    "<2hi>": "11-Feb-04"
+  },
+  "01/Jul/04": {
+    "<2hi>": "1-Jul-04"
+  },
+  "01/Jan/05": {
+    "<2hi>": "1-Jan-05"
+  },
+  "17/Mar/05": {
+    "<2hi>": "17-Mar-05"
+  },
+  "18/Mar/05": {
+    "<2hi>": "18-Mar-05"
+  },
+  "Encashment": {
+    "<2hi>": "नकदीकरण"
+  },
+  "30/Mar/05": {
+    "<2hi>": "30-Mar-05"
+  },
+  "N.A": {
+    "<2hi>": "लागू नहीं"
+  },
+  "01/Jul/05": {
+    "<2hi>": "1-Jul-05"
+  },
+  "27/Dec/05": {
+    "<2hi>": "27-दिसंबर-05"
+  },
+  "30/Dec/05": {
+    "<2hi>": "30-दिसंबर-05"
+  },
+  "Page 12 of 27": {
+    "<2hi>": "27 का पेज 12"
+  },
+  "31/Jan/06": {
+    "<2hi>": "31-Jan-06"
+  },
+  "05/Dec/06": {
+    "<2hi>": "05-दिसंबर-06"
+  },
+  "08/Dec/06": {
+    "<2hi>": "08-दिसंबर-06"
+  },
+  "01/Jan/07": {
+    "<2hi>": "1-Jan-07"
+  },
+  "03/Jan/07": {
+    "<2hi>": "3-Jan-07"
+  },
+  "10/Jan/07": {
+    "<2hi>": "10-Jan-07"
+  },
+  "24/Jan/07": {
+    "<2hi>": "24-Jan-07"
+  },
+  "25/Jan/07": {
+    "<2hi>": "25-Jan-07"
+  },
+  "21/May/07": {
+    "<2hi>": "21-May-07"
+  },
+  "22/May/07": {
+    "<2hi>": "22-May-07"
+  },
+  "15/Oct/07": {
+    "<2hi>": "15-Oct-07"
+  },
+  "19/Oct/07": {
+    "<2hi>": "19-Oct-07"
+  },
+  "01/Jan/08": {
+    "<2hi>": "1-Jan-08"
+  },
+  "Leaves Lapsed": {
+    "<2hi>": "छुट्टियां व्यपगत"
+  },
+  "Lapsed": {
+    "<2hi>": "कालातीत"
+  },
+  "EL HAS BEEN AMENDED: JAN-2008": {
+    "<2hi>": "ईएल में संशोधन किया गया है : जनवरी-2008"
+  },
+  "24/Jan/08": {
+    "<2hi>": "24-Jan-08"
+  },
+  "25/Jan/08": {
+    "<2hi>": "25-Jan-08"
+  },
+  "07/Feb/08": {
+    "<2hi>": "7-Feb-08"
+  },
+  "08/Feb/08": {
+    "<2hi>": "8-Feb-08"
+  },
+  "14/Feb/08": {
+    "<2hi>": "14-Feb-08"
+  },
+  "15/Feb/08": {
+    "<2hi>": "15-Feb-08"
+  },
+  "26/Feb/08": {
+    "<2hi>": "26-Feb-08"
+  },
+  "27/Feb/08": {
+    "<2hi>": "27-Feb-08"
+  },
+  "24/Apr/08": {
+    "<2hi>": "24-Apr-08"
+  },
+  "13/May/08": {
+    "<2hi>": "13-May-08"
+  },
+  "15/May/08": {
+    "<2hi>": "15-May-08"
+  },
+  "EL Has Been Amended For 01/Jul/2008": {
+    "<2hi>": "ईएल को 01/जुलाई/2008 के लिए संशोधित किया गया है"
+  },
+  "09/Jul/08": {
+    "<2hi>": "9-Jul-08"
+  },
+  "11/Jul/08": {
+    "<2hi>": "11-Jul-08"
+  },
+  "29/Jul/08": {
+    "<2hi>": "29-Jul-08"
+  },
+  "01/Aug/08": {
+    "<2hi>": "1-Aug-08"
+  },
+  "13/Oct/08": {
+    "<2hi>": "13-Oct-08"
+  },
+  "17/Oct/08": {
+    "<2hi>": "17-Oct-08"
+  },
+  "19/Dec/08": {
+    "<2hi>": "19-दिसंबर-08"
+  },
+  "29/Dec/08": {
+    "<2hi>": "29-दिसंबर-08"
+  },
+  "01/Jan/09": {
+    "<2hi>": "1-Jan-09"
+  },
+  "EL Has Been Amended For": {
+    "<2hi>": "ईएल के लिए संशोधित किया गया है"
+  },
+  "21/Jan/09": {
+    "<2hi>": "21-Jan-09"
+  },
+  "30/Jan/09": {
+    "<2hi>": "30-Jan-09"
+  },
+  "Page 13 of 27": {
+    "<2hi>": "27 का पेज 13"
+  },
+  "04/Mar/09": {
+    "<2hi>": "4-Mar-09"
+  },
+  "19/Mar/09": {
+    "<2hi>": "19-Mar-09"
+  },
+  "20/Mar/09": {
+    "<2hi>": "20-Mar-09"
+  },
+  "28/Apr/09": {
+    "<2hi>": "28-Apr-09"
+  },
+  "30/Apr/09": {
+    "<2hi>": "30-Apr-09"
+  },
+  "21/May/09": {
+    "<2hi>": "21-May-09"
+  },
+  "22/May/09": {
+    "<2hi>": "22-May-09"
+  },
+  "23/Jun/09": {
+    "<2hi>": "23-Jun-09"
+  },
+  "EL Credited": {
+    "<2hi>": "ईएल दी जाती है"
+  },
+  "03/Jul/09": {
+    "<2hi>": "3-Jul-09"
+  },
+  "15/Jul/09": {
+    "<2hi>": "15-Jul-09"
+  },
+  "30/Jul/09": {
+    "<2hi>": "30-Jul-09"
+  },
+  "18/Aug/09": {
+    "<2hi>": "18-Aug-09"
+  },
+  "19/Aug/09": {
+    "<2hi>": "19-Aug-09"
+  },
+  "10/Sep/09": {
+    "<2hi>": "10-सितंबर-09"
+  },
+  "17/Sep/09": {
+    "<2hi>": "17-सितंबर-09"
+  },
+  "14/Oct/09": {
+    "<2hi>": "14-Oct-09"
+  },
+  "22/Oct/09": {
+    "<2hi>": "22-Oct-09"
+  },
+  "26/Oct/09": {
+    "<2hi>": "26-Oct-09"
+  },
+  "30/Nov/09": {
+    "<2hi>": "30-नवंबर-09"
+  },
+  "22/Dec/09": {
+    "<2hi>": "22-दिसंबर-09"
+  },
+  "01/Jan/10": {
+    "<2hi>": "1-Jan-10"
+  },
+  "EL Has Been Amended For 01-JAN": {
+    "<2hi>": "ईएल को 01-जनवरी के लिए संशोधित किया गया है"
+  },
+  "13/Jan/10": {
+    "<2hi>": "13-Jan-10"
+  },
+  "21/Jan/10": {
+    "<2hi>": "21-Jan-10"
+  },
+  "10/Feb/10": {
+    "<2hi>": "10-Feb-10"
+  },
+  "17/Feb/10": {
+    "<2hi>": "17-Feb-10"
+  },
+  "18/Feb/10": {
+    "<2hi>": "18-Feb-10"
+  },
+  "09/Mar/10": {
+    "<2hi>": "9-Mar-10"
+  },
+  "23/Mar/10": {
+    "<2hi>": "23-Mar-10"
+  },
+  "24/Mar/10": {
+    "<2hi>": "24-Mar-10"
+  },
+  "01/Apr/10": {
+    "<2hi>": "1-Apr-10"
+  },
+  "21/Apr/10": {
+    "<2hi>": "21-Apr-10"
+  },
+  "22/Apr/10": {
+    "<2hi>": "22-Apr-10"
+  },
+  "05/May/10": {
+    "<2hi>": "5-May-10"
+  },
+  "06/May/10": {
+    "<2hi>": "6-May-10"
+  },
+  "07/Jun/10": {
+    "<2hi>": "7-Jun-10"
+  },
+  "16/Jun/10": {
+    "<2hi>": "16-Jun-10"
+  },
+  "17/Jun/10": {
+    "<2hi>": "17-Jun-10"
+  },
+  "29/Jun/10": {
+    "<2hi>": "29-Jun-10"
+  },
+  "Page 14 of 27": {
+    "<2hi>": "27 का पेज 14"
+  },
+  "EL Has Been Amended For 01-JUL": {
+    "<2hi>": "ईएल को 01-जुलाई के लिए संशोधित किया गया है"
+  },
+  "27/Jul/10": {
+    "<2hi>": "27-Jul-10"
+  },
+  "04/Aug/10": {
+    "<2hi>": "4-Aug-10"
+  },
+  "12/Aug/10": {
+    "<2hi>": "12-Aug-10"
+  },
+  "19/Aug/10": {
+    "<2hi>": "19-Aug-10"
+  },
+  "15/Sep/10": {
+    "<2hi>": "15-Sep-10"
+  },
+  "17/Sep/10": {
+    "<2hi>": "17-सितंबर-10"
+  },
+  "22/Sep/10": {
+    "<2hi>": "22-सितंबर-10"
+  },
+  "24/Sep/10": {
+    "<2hi>": "24-सितंबर-10"
+  },
+  "06/Oct/10": {
+    "<2hi>": "6-Oct-10"
+  },
+  "12/Oct/10": {
+    "<2hi>": "12-Oct-10"
+  },
+  "18/Oct/10": {
+    "<2hi>": "18-Oct-10"
+  },
+  "20/Oct/10": {
+    "<2hi>": "20-Oct-10"
+  },
+  "01/Nov/10": {
+    "<2hi>": "01-नवंबर-10"
+  },
+  "08/Nov/10": {
+    "<2hi>": "08-नवंबर-10"
+  },
+  "11/Nov/10": {
+    "<2hi>": "11-नवंबर-10"
+  },
+  "12/Nov/10": {
+    "<2hi>": "12-नवंबर-10"
+  },
+  "20/Dec/10": {
+    "<2hi>": "20-दिसंबर-10"
+  },
+  "01/Jan/11": {
+    "<2hi>": "1-Jan-11"
+  },
+  "13/Jan/11": {
+    "<2hi>": "13-Jan-11"
+  },
+  "20/Jan/11": {
+    "<2hi>": "20-Jan-11"
+  },
+  "07/Feb/11": {
+    "<2hi>": "7-Feb-11"
+  },
+  "08/Feb/11": {
+    "<2hi>": "8-Feb-11"
+  },
+  "24/Feb/11": {
+    "<2hi>": "24-Feb-11"
+  },
+  "23/Mar/11": {
+    "<2hi>": "23-Mar-11"
+  },
+  "07/Apr/11": {
+    "<2hi>": "7-Apr-11"
+  },
+  "11/Apr/11": {
+    "<2hi>": "11-Apr-11"
+  },
+  "15/Apr/11": {
+    "<2hi>": "15-Apr-11"
+  },
+  "06/May/11": {
+    "<2hi>": "6-May-11"
+  },
+  "30/May/11": {
+    "<2hi>": "30-May-11"
+  },
+  "03/Jun/11": {
+    "<2hi>": "3-Jun-11"
+  },
+  "EL Credit": {
+    "<2hi>": "ईएल दी जाती है"
+  },
+  "12/Jul/11": {
+    "<2hi>": "12-Jul-11"
+  },
+  "14/Jul/11": {
+    "<2hi>": "14-Jul-11"
+  },
+  "27/Jul/11": {
+    "<2hi>": "27-Jul-11"
+  },
+  "10/Aug/11": {
+    "<2hi>": "10-Aug-11"
+  },
+  "Page 15 of 27": {
+    "<2hi>": "27 का पेज 15"
+  },
+  "23/Aug/11": {
+    "<2hi>": "23-Aug-11"
+  },
+  "24/Aug/11": {
+    "<2hi>": "24-Aug-11"
+  },
+  "05/Sep/11": {
+    "<2hi>": "5-Sep-11"
+  },
+  "12/Sep/11": {
+    "<2hi>": "12-सितंबर-11"
+  },
+  "15/Sep/11": {
+    "<2hi>": "15-Sep-11"
+  },
+  "03/Oct/11": {
+    "<2hi>": "3-Oct-11"
+  },
+  "17/Oct/11": {
+    "<2hi>": "17-Oct-11"
+  },
+  "19/Oct/11": {
+    "<2hi>": "19-Oct-11"
+  },
+  "31/Oct/11": {
+    "<2hi>": "31-Oct-11"
+  },
+  "03/Nov/11": {
+    "<2hi>": "03-नवंबर-11"
+  },
+  "23/Nov/11": {
+    "<2hi>": "23-नवंबर-11"
+  },
+  "29/Nov/11": {
+    "<2hi>": "29-नवंबर-11"
+  },
+  "09/Dec/11": {
+    "<2hi>": "09-दिसंबर-11"
+  },
+  "13/Dec/11": {
+    "<2hi>": "13-दिसंबर-11"
+  },
+  "15/Dec/11": {
+    "<2hi>": "15-दिसंबर-11"
+  },
+  "16/Dec/11": {
+    "<2hi>": "16-दिसंबर-11"
+  },
+  "23/Dec/11": {
+    "<2hi>": "23-दिसंबर-11"
+  },
+  "01/Jan/12": {
+    "<2hi>": "1-Jan-12"
+  },
+  "19/Jan/12": {
+    "<2hi>": "19-Jan-12"
+  },
+  "23/Jan/12": {
+    "<2hi>": "23-Jan-12"
+  },
+  "08/Feb/12": {
+    "<2hi>": "8-Feb-12"
+  },
+  "09/Feb/12": {
+    "<2hi>": "9-Feb-12"
+  },
+  "17/Feb/12": {
+    "<2hi>": "17-Feb-12"
+  },
+  "29/Feb/12": {
+    "<2hi>": "29-Feb-12"
+  },
+  "08/Mar/12": {
+    "<2hi>": "8-Mar-12"
+  },
+  "13/Mar/12": {
+    "<2hi>": "13-Mar-12"
+  },
+  "20/Mar/12": {
+    "<2hi>": "20-Mar-12"
+  },
+  "27/Mar/12": {
+    "<2hi>": "27-Mar-12"
+  },
+  "29/Mar/12": {
+    "<2hi>": "29-Mar-12"
+  },
+  "04/Apr/12": {
+    "<2hi>": "4-Apr-12"
+  },
+  "17/Apr/12": {
+    "<2hi>": "17-Apr-12"
+  },
+  "04/May/12": {
+    "<2hi>": "4-May-12"
+  },
+  "28/May/12": {
+    "<2hi>": "28-May-12"
+  },
+  "01/Jun/12": {
+    "<2hi>": "1-Jun-12"
+  },
+  "14/Jun/12": {
+    "<2hi>": "14-Jun-12"
+  },
+  "15/Jun/12": {
+    "<2hi>": "15-Jun-12"
+  },
+  "13/Jul/12": {
+    "<2hi>": "13-Jul-12"
+  },
+  "Page 16 of 27": {
+    "<2hi>": "27 का पेज 16"
+  },
+  "02/Aug/12": {
+    "<2hi>": "2-Aug-12"
+  },
+  "29/Aug/12": {
+    "<2hi>": "29-Aug-12"
+  },
+  "07/Sep/12": {
+    "<2hi>": "7-Sep-12"
+  },
+  "01/Oct/12": {
+    "<2hi>": "1-Oct-12"
+  },
+  "23/Oct/12": {
+    "<2hi>": "23-Oct-12"
+  },
+  "05/Nov/12": {
+    "<2hi>": "05-नवंबर-12"
+  },
+  "06/Nov/12": {
+    "<2hi>": "06-नवंबर-12"
+  },
+  "22/Nov/12": {
+    "<2hi>": "22-नवंबर-12"
+  },
+  "23/Nov/12": {
+    "<2hi>": "23-नवंबर-12"
+  },
+  "01/Jan/13": {
+    "<2hi>": "1-Jan-13"
+  },
+  "24/Jan/13": {
+    "<2hi>": "24-Jan-13"
+  },
+  "07/Feb/13": {
+    "<2hi>": "7-Feb-13"
+  },
+  "08/Feb/13": {
+    "<2hi>": "8-Feb-13"
+  },
+  "01/Apr/13": {
+    "<2hi>": "1-Apr-13"
+  },
+  "12/Apr/13": {
+    "<2hi>": "12-Apr-13"
+  },
+  "07/May/13": {
+    "<2hi>": "7-May-13"
+  },
+  "13/May/13": {
+    "<2hi>": "13-May-13"
+  },
+  "13/Jun/13": {
+    "<2hi>": "13-Jun-13"
+  },
+  "14/Jun/13": {
+    "<2hi>": "14-Jun-13"
+  },
+  "24/Jun/13": {
+    "<2hi>": "24-Jun-13"
+  },
+  "12/Jul/13": {
+    "<2hi>": "12-Jul-13"
+  },
+  "Cancelled by HR": {
+    "<2hi>": "एचआर द्वारा रद्द किया गया"
+  },
+  "19/Jul/13": {
+    "<2hi>": "19-Jul-13"
+  },
+  "20/Aug/13": {
+    "<2hi>": "20-Aug-13"
+  },
+  "23/Aug/13": {
+    "<2hi>": "23-Aug-13"
+  },
+  "30/Aug/13": {
+    "<2hi>": "30-Aug-13"
+  },
+  "10/Sep/13": {
+    "<2hi>": "10-सितंबर-13"
+  },
+  "18/Sep/13": {
+    "<2hi>": "18-सितंबर-13"
+  },
+  "19/Sep/13": {
+    "<2hi>": "19-सितंबर-13"
+  },
+  "27/Sep/13": {
+    "<2hi>": "27-सितंबर-13"
+  },
+  "07/Oct/13": {
+    "<2hi>": "7-Oct-13"
+  },
+  "09/Oct/13": {
+    "<2hi>": "9-Oct-13"
+  },
+  "04/Nov/13": {
+    "<2hi>": "04-नवंबर-13"
+  },
+  "14/Nov/13": {
+    "<2hi>": "14-नवंबर-13"
+  },
+  "09/Dec/13": {
+    "<2hi>": "09-दिसंबर-13"
+  },
+  "01/Jan/14": {
+    "<2hi>": "1-Jan-14"
+  },
+  "EL Credited for JAN-2014": {
+    "<2hi>": "जनवरी-2014 के लिए ईएल दी जाती है"
+  },
+  "15/Jan/14": {
+    "<2hi>": "15-Jan-14"
+  },
+  "17/Jan/14": {
+    "<2hi>": "17-Jan-14"
+  },
+  "Page 17 of 27": {
+    "<2hi>": "27 का पेज 17"
+  },
+  "29/Jan/14": {
+    "<2hi>": "29-Jan-14"
+  },
+  "03/Feb/14": {
+    "<2hi>": "3-Feb-14"
+  },
+  "27/Feb/14": {
+    "<2hi>": "27-Feb-14"
+  },
+  "28/Feb/14": {
+    "<2hi>": "28-Feb-14"
+  },
+  "07/Mar/14": {
+    "<2hi>": "7-Mar-14"
+  },
+  "21/Mar/14": {
+    "<2hi>": "21-Mar-14"
+  },
+  "11/Apr/14": {
+    "<2hi>": "11-Apr-14"
+  },
+  "21/Apr/14": {
+    "<2hi>": "21-Apr-14"
+  },
+  "09/May/14": {
+    "<2hi>": "9-May-14"
+  },
+  "21/May/14": {
+    "<2hi>": "21-May-14"
+  },
+  "23/May/14": {
+    "<2hi>": "23-May-14"
+  },
+  "26/Jun/14": {
+    "<2hi>": "26-Jun-14"
+  },
+  "27/Jun/14": {
+    "<2hi>": "27-Jun-14"
+  },
+  "EL Credited for JUL-2014": {
+    "<2hi>": "जुलाई-2014 के लिए ईएल दी जाती है"
+  },
+  "18/Jul/14": {
+    "<2hi>": "18-Jul-14"
+  },
+  "28/Jul/14": {
+    "<2hi>": "28-Jul-14"
+  },
+  "25/Aug/14": {
+    "<2hi>": "25-Aug-14"
+  },
+  "26/Aug/14": {
+    "<2hi>": "26-Aug-14"
+  },
+  "28/Aug/14": {
+    "<2hi>": "28-Aug-14"
+  },
+  "25/Sep/14": {
+    "<2hi>": "25-Sep-14"
+  },
+  "26/Sep/14": {
+    "<2hi>": "26-सितंबर-14"
+  },
+  "29/Oct/14": {
+    "<2hi>": "29-Oct-14"
+  },
+  "31/Oct/14": {
+    "<2hi>": "31-Oct-14"
+  },
+  "14/Nov/14": {
+    "<2hi>": "14-नवंबर-14"
+  },
+  "08/Dec/14": {
+    "<2hi>": "08-दिसंबर-14"
+  },
+  "09/Dec/14": {
+    "<2hi>": "09-दिसंबर-14"
+  },
+  "16/Dec/14": {
+    "<2hi>": "16-दिसंबर-14"
+  },
+  "19/Dec/14": {
+    "<2hi>": "19-दिसंबर-14"
+  },
+  "29/Dec/14": {
+    "<2hi>": "29-दिसंबर-14"
+  },
+  "31/Dec/14": {
+    "<2hi>": "31-दिसंबर-14"
+  },
+  "01/Jan/15": {
+    "<2hi>": "1-Jan-15"
+  },
+  "EL Credited for JAN-2015": {
+    "<2hi>": "जनवरी-2015 के लिए ईएल दी जाती है"
+  },
+  "09/Jan/15": {
+    "<2hi>": "9-Jan-15"
+  },
+  "16/Jan/15": {
+    "<2hi>": "16-Jan-15"
+  },
+  "16/Feb/15": {
+    "<2hi>": "16-Feb-15"
+  },
+  "16/Mar/15": {
+    "<2hi>": "16-Mar-15"
+  },
+  "Page 18 of 27": {
+    "<2hi>": "27 का पेज 18"
+  },
+  "01/Apr/15": {
+    "<2hi>": "1-Apr-15"
+  },
+  "20/Apr/15": {
+    "<2hi>": "20-Apr-15"
+  },
+  "21/Apr/15": {
+    "<2hi>": "21-Apr-15"
+  },
+  "05/May/15": {
+    "<2hi>": "5-May-15"
+  },
+  "25/May/15": {
+    "<2hi>": "25-May-15"
+  },
+  "04/Jun/15": {
+    "<2hi>": "4-Jun-15"
+  },
+  "05/Jun/15": {
+    "<2hi>": "5-Jun-15"
+  },
+  "16/Jun/15": {
+    "<2hi>": "16-Jun-15"
+  },
+  "23/Jun/15": {
+    "<2hi>": "23-Jun-15"
+  },
+  "25/Jun/15": {
+    "<2hi>": "25-Jun-15"
+  },
+  "26/Jun/15": {
+    "<2hi>": "26-Jun-15"
+  },
+  "EL Credited for JUL-2015": {
+    "<2hi>": "जुलाई-2015 के लिए ईएल दी जाती है"
+  },
+  "03/Jul/15": {
+    "<2hi>": "3-Jul-15"
+  },
+  "19/Oct/15": {
+    "<2hi>": "19-Oct-15"
+  },
+  "23/Oct/15": {
+    "<2hi>": "23-Oct-15"
+  },
+  "04/Nov/15": {
+    "<2hi>": "04-नवंबर-15"
+  },
+  "05/Nov/15": {
+    "<2hi>": "05-नवंबर-15"
+  },
+  "06/Nov/15": {
+    "<2hi>": "06-नवंबर-15"
+  },
+  "17/Nov/15": {
+    "<2hi>": "17-नवंबर-15"
+  },
+  "26/Nov/15": {
+    "<2hi>": "26-नवंबर-15"
+  },
+  "27/Nov/15": {
+    "<2hi>": "27-नवंबर-15"
+  },
+  "02/Dec/15": {
+    "<2hi>": "02-दिसंबर-15"
+  },
+  "07/Dec/15": {
+    "<2hi>": "07-दिसंबर-15"
+  },
+  "09/Dec/15": {
+    "<2hi>": "09-दिसंबर-15"
+  },
+  "10/Dec/15": {
+    "<2hi>": "10-दिसंबर-15"
+  },
+  "16/Dec/15": {
+    "<2hi>": "16-दिसंबर-15"
+  },
+  "28/Dec/15": {
+    "<2hi>": "28-दिसंबर-15"
+  },
+  "29/Dec/15": {
+    "<2hi>": "29-दिसंबर-15"
+  },
+  "EL Credited for JAN-2016": {
+    "<2hi>": "जनवरी-2016 के लिए ईएल दी जाती है"
+  },
+  "06/Jan/16": {
+    "<2hi>": "6-Jan-16"
+  },
+  "08/Jan/16": {
+    "<2hi>": "8-Jan-16"
+  },
+  "13/Jan/16": {
+    "<2hi>": "13-Jan-16"
+  },
+  "03/Feb/16": {
+    "<2hi>": "3-Feb-16"
+  },
+  "04/Feb/16": {
+    "<2hi>": "4-Feb-16"
+  },
+  "08/Feb/16": {
+    "<2hi>": "8-Feb-16"
+  },
+  "11/Feb/16": {
+    "<2hi>": "11-Feb-16"
+  },
+  "18/Feb/16": {
+    "<2hi>": "18-Feb-16"
+  },
+  "29/Feb/16": {
+    "<2hi>": "29-Feb-16"
+  },
+  "01/Mar/16": {
+    "<2hi>": "1-Mar-16"
+  },
+  "02/Mar/16": {
+    "<2hi>": "2-Mar-16"
+  },
+  "03/Mar/16": {
+    "<2hi>": "3-Mar-16"
+  },
+  "04/Mar/16": {
+    "<2hi>": "4-Mar-16"
+  },
+  "17/Mar/16": {
+    "<2hi>": "17-Mar-16"
+  },
+  "Page 19 of 27": {
+    "<2hi>": "27 का पेज 19"
+  },
+  "28/Mar/16": {
+    "<2hi>": "28-Mar-16"
+  },
+  "04/Apr/16": {
+    "<2hi>": "4-Apr-16"
+  },
+  "12/Apr/16": {
+    "<2hi>": "12-Apr-16"
+  },
+  "22/Apr/16": {
+    "<2hi>": "22-Apr-16"
+  },
+  "27/Apr/16": {
+    "<2hi>": "27-Apr-16"
+  },
+  "29/Apr/16": {
+    "<2hi>": "29-Apr-16"
+  },
+  "05/May/16": {
+    "<2hi>": "5-May-16"
+  },
+  "26/May/16": {
+    "<2hi>": "26-May-16"
+  },
+  "30/May/16": {
+    "<2hi>": "30-May-16"
+  },
+  "31/May/16": {
+    "<2hi>": "31-May-16"
+  },
+  "08/Jun/16": {
+    "<2hi>": "8-Jun-16"
+  },
+  "15/Jun/16": {
+    "<2hi>": "15-Jun-16"
+  },
+  "21/Jun/16": {
+    "<2hi>": "21-Jun-16"
+  },
+  "24/Jun/16": {
+    "<2hi>": "24-Jun-16"
+  },
+  "29/Jun/16": {
+    "<2hi>": "29-Jun-16"
+  },
+  "EL Credited for JUL-2016": {
+    "<2hi>": "जुलाई-2016 के लिए ईएल दी जाती है"
+  },
+  "04/Jul/16": {
+    "<2hi>": "4-Jul-16"
+  },
+  "27/Sep/16": {
+    "<2hi>": "27-सितंबर-16"
+  },
+  "29/Sep/16": {
+    "<2hi>": "29-सितंबर-16"
+  },
+  "06/Oct/16": {
+    "<2hi>": "6-Oct-16"
+  },
+  "10/Oct/16": {
+    "<2hi>": "10-Oct-16"
+  },
+  "19/Oct/16": {
+    "<2hi>": "19-Oct-16"
+  },
+  "15/Nov/16": {
+    "<2hi>": "15-नवंबर-16"
+  },
+  "16/Nov/16": {
+    "<2hi>": "16-नवंबर-16"
+  },
+  "22/Nov/16": {
+    "<2hi>": "22-नवंबर-16"
+  },
+  "23/Nov/16": {
+    "<2hi>": "23-नवंबर-16"
+  },
+  "30/Nov/16": {
+    "<2hi>": "30-नवंबर-16"
+  },
+  "21/Dec/16": {
+    "<2hi>": "21-दिसंबर-16"
+  },
+  "26/Dec/16": {
+    "<2hi>": "26-दिसंबर-16"
+  },
+  "28/Dec/16": {
+    "<2hi>": "28-दिसंबर-16"
+  },
+  "01/Jan/17": {
+    "<2hi>": "1-Jan-17"
+  },
+  "EL Credited for JAN-2017": {
+    "<2hi>": "जनवरी-2017 के लिए ईएल दी जाती है"
+  },
+  "02/Jan/17": {
+    "<2hi>": "2-Jan-17"
+  },
+  "18/Jan/17": {
+    "<2hi>": "18-Jan-17"
+  },
+  "24/Jan/17": {
+    "<2hi>": "24-Jan-17"
+  },
+  "27/Jan/17": {
+    "<2hi>": "27-Jan-17"
+  },
+  "01/Feb/17": {
+    "<2hi>": "1-Feb-17"
+  },
+  "02/Feb/17": {
+    "<2hi>": "2-Feb-17"
+  },
+  "08/Feb/17": {
+    "<2hi>": "8-Feb-17"
+  },
+  "09/Feb/17": {
+    "<2hi>": "9-Feb-17"
+  },
+  "15/Feb/17": {
+    "<2hi>": "15-Feb-17"
+  },
+  "Page 20 of 27": {
+    "<2hi>": "27 का पेज 20"
+  },
+  "20/Feb/17": {
+    "<2hi>": "20-Feb-17"
+  },
+  "01/Mar/17": {
+    "<2hi>": "1-Mar-17"
+  },
+  "08/Mar/17": {
+    "<2hi>": "8-Mar-17"
+  },
+  "23/Mar/17": {
+    "<2hi>": "23-Mar-17"
+  },
+  "27/Mar/17": {
+    "<2hi>": "27-Mar-17"
+  },
+  "04/Apr/17": {
+    "<2hi>": "4-Apr-17"
+  },
+  "10/Apr/17": {
+    "<2hi>": "10-Apr-17"
+  },
+  "11/Apr/17": {
+    "<2hi>": "11-Apr-17"
+  },
+  "13/Apr/17": {
+    "<2hi>": "13-Apr-17"
+  },
+  "19/Apr/17": {
+    "<2hi>": "19-Apr-17"
+  },
+  "27/Apr/17": {
+    "<2hi>": "27-Apr-17"
+  },
+  "03/May/17": {
+    "<2hi>": "3-May-17"
+  },
+  "08/May/17": {
+    "<2hi>": "8-May-17"
+  },
+  "07/Jun/17": {
+    "<2hi>": "7-Jun-17"
+  },
+  "12/Jun/17": {
+    "<2hi>": "12-Jun-17"
+  },
+  "14/Jun/17": {
+    "<2hi>": "14-Jun-17"
+  },
+  "20/Jun/17": {
+    "<2hi>": "20-Jun-17"
+  },
+  "23/Jun/17": {
+    "<2hi>": "23-Jun-17"
+  },
+  "29/Jun/17": {
+    "<2hi>": "29-Jun-17"
+  },
+  "EL Credited for JUL-2017": {
+    "<2hi>": "जुलाई-2017 के लिए ईएल दी जाती है"
+  },
+  "04/Jul/17": {
+    "<2hi>": "4-Jul-17"
+  },
+  "05/Jul/17": {
+    "<2hi>": "5-Jul-17"
+  },
+  "11/Jul/17": {
+    "<2hi>": "11-Jul-17"
+  },
+  "28/Jul/17": {
+    "<2hi>": "28-Jul-17"
+  },
+  "01/Aug/17": {
+    "<2hi>": "1-Aug-17"
+  },
+  "14/Aug/17": {
+    "<2hi>": "14-Aug-17"
+  },
+  "18/Aug/17": {
+    "<2hi>": "18-Aug-17"
+  },
+  "23/Aug/17": {
+    "<2hi>": "23-Aug-17"
+  },
+  "28/Aug/17": {
+    "<2hi>": "28-Aug-17"
+  },
+  "30/Aug/17": {
+    "<2hi>": "30-Aug-17"
+  },
+  "05/Sep/17": {
+    "<2hi>": "5-Sep-17"
+  },
+  "06/Sep/17": {
+    "<2hi>": "6-Sep-17"
+  },
+  "13/Sep/17": {
+    "<2hi>": "13-Sep-17"
+  },
+  "21/Sep/17": {
+    "<2hi>": "21-Sep-17"
+  },
+  "05/Oct/17": {
+    "<2hi>": "5-Oct-17"
+  },
+  "Page 21 of 27": {
+    "<2hi>": "27 का पेज 21"
+  },
+  "09/Oct/17": {
+    "<2hi>": "9-Oct-17"
+  },
+  "12/Oct/17": {
+    "<2hi>": "12-Oct-17"
+  },
+  "25/Oct/17": {
+    "<2hi>": "25-Oct-17"
+  },
+  "26/Oct/17": {
+    "<2hi>": "26-Oct-17"
+  },
+  "31/Oct/17": {
+    "<2hi>": "31-Oct-17"
+  },
+  "06/Nov/17": {
+    "<2hi>": "06-नवंबर-17"
+  },
+  "10/Nov/17": {
+    "<2hi>": "10-नवंबर-17"
+  },
+  "20/Nov/17": {
+    "<2hi>": "20-नवंबर-17"
+  },
+  "23/Nov/17": {
+    "<2hi>": "23-नवंबर-17"
+  },
+  "14/Dec/17": {
+    "<2hi>": "14-दिसंबर-17"
+  },
+  "18/Dec/17": {
+    "<2hi>": "18-दिसंबर-17"
+  },
+  "20/Dec/17": {
+    "<2hi>": "20-दिसंबर-17"
+  },
+  "01/Jan/18": {
+    "<2hi>": "1-Jan-18"
+  },
+  "EL Credited for JAN-2018": {
+    "<2hi>": "जनवरी-2018 के लिए ईएल दी जाती है"
+  },
+  "02/Jan/18": {
+    "<2hi>": "2-Jan-18"
+  },
+  "04/Jan/18": {
+    "<2hi>": "4-Jan-18"
+  },
+  "08/Jan/18": {
+    "<2hi>": "8-Jan-18"
+  },
+  "25/Jan/18": {
+    "<2hi>": "25-Jan-18"
+  },
+  "Half Paid Leave": {
+    "<2hi>": "आधा भुगतान अवकाश"
+  },
+  "04/Apr/95": {
+    "<2hi>": "4-Apr-95"
+  },
+  "24/Aug/95": {
+    "<2hi>": "24-Aug-95"
+  },
+  "25/Aug/95": {
+    "<2hi>": "25-Aug-95"
+  },
+  "04/Apr/96": {
+    "<2hi>": "4-Apr-96"
+  },
+  "04/Apr/97": {
+    "<2hi>": "4-Apr-97"
+  },
+  "04/Apr/98": {
+    "<2hi>": "4-Apr-98"
+  },
+  "04/Apr/99": {
+    "<2hi>": "4-Apr-99"
+  },
+  "04/Apr/00": {
+    "<2hi>": "4-Apr-00"
+  },
+  "12/Sep/00": {
+    "<2hi>": "12-सितंबर-00"
+  },
+  "13/Sep/00": {
+    "<2hi>": "13-सितंबर-00"
+  },
+  "04/Apr/01": {
+    "<2hi>": "4-Apr-01"
+  },
+  "04/Apr/02": {
+    "<2hi>": "4-Apr-02"
+  },
+  "05/May/02": {
+    "<2hi>": "5-May-02"
+  },
+  "07/May/02": {
+    "<2hi>": "7-May-02"
+  },
+  "04/Apr/03": {
+    "<2hi>": "4-Apr-03"
+  },
+  "22/Sep/03": {
+    "<2hi>": "22-सितंबर-03"
+  },
+  "26/Sep/03": {
+    "<2hi>": "26-सितंबर-03"
+  },
+  "04/Apr/04": {
+    "<2hi>": "4-Apr-04"
+  },
+  "17/May/04": {
+    "<2hi>": "17-May-04"
+  },
+  "18/May/04": {
+    "<2hi>": "18-May-04"
+  },
+  "21/Feb/05": {
+    "<2hi>": "21-Feb-05"
+  },
+  "22/Feb/05": {
+    "<2hi>": "22-Feb-05"
+  },
+  "04/Apr/05": {
+    "<2hi>": "4-Apr-05"
+  },
+  "Page 22 of 27": {
+    "<2hi>": "27 का पेज 22"
+  },
+  "16/Aug/05": {
+    "<2hi>": "16-Aug-05"
+  },
+  "17/Aug/05": {
+    "<2hi>": "17-Aug-05"
+  },
+  "08/Feb/06": {
+    "<2hi>": "8-Feb-06"
+  },
+  "13/Feb/06": {
+    "<2hi>": "13-Feb-06"
+  },
+  "04/Apr/06": {
+    "<2hi>": "4-Apr-06"
+  },
+  "24/Apr/07": {
+    "<2hi>": "24-Apr-07"
+  },
+  "25/Apr/07": {
+    "<2hi>": "25-Apr-07"
+  },
+  "31/Dec/07": {
+    "<2hi>": "31-दिसंबर-07"
+  },
+  "HPL HAS BEEN AMENDED: JAN-2008": {
+    "<2hi>": "एचपीएल में संशोधन किया गया है: जनवरी-2008"
+  },
+  "HPL Has Been Amended For": {
+    "<2hi>": "एचपीएल में संशोधन किया गया है"
+  },
+  "HPL Has Been Amended For 01-JAN": {
+    "<2hi>": "01-जनवरी के एचपीएल में संशोधन किया गया है"
+  },
+  "HPL Has Been Amended For 01-JUL": {
+    "<2hi>": "01-जुलाई के एचपीएल में संशोधन किया गया है"
+  },
+  "HPL Credited": {
+    "<2hi>": "आकलित एचपीएल"
+  },
+  "01/Mar/11": {
+    "<2hi>": "1-Mar-11"
+  },
+  "04/Mar/11": {
+    "<2hi>": "4-Mar-11"
+  },
+  "HPL Credit": {
+    "<2hi>": "एचपीएल दी गई"
+  },
+  "HPL Credited for 2014": {
+    "<2hi>": "2014 के लिए एचपीएल दी जाती है"
+  },
+  "25/Mar/14": {
+    "<2hi>": "25-Mar-14"
+  },
+  "27/Mar/14": {
+    "<2hi>": "27-Mar-14"
+  },
+  "10/Jun/14": {
+    "<2hi>": "10-Jun-14"
+  },
+  "12/Jun/14": {
+    "<2hi>": "12-Jun-14"
+  },
+  "HPL Credit for JUL-2014": {
+    "<2hi>": "जुलाई-2014 के लिए एचपीएल दी जाती है"
+  },
+  "07/Aug/14": {
+    "<2hi>": "7-Aug-14"
+  },
+  "08/Aug/14": {
+    "<2hi>": "8-Aug-14"
+  },
+  "Rejected by HR": {
+    "<2hi>": "एचआर द्वारा अस्वीकृत"
+  },
+  "08/Sep/14": {
+    "<2hi>": "08-सितंबर-14"
+  },
+  "09/Sep/14": {
+    "<2hi>": "9-Sep-14"
+  },
+  "17/Sep/14": {
+    "<2hi>": "17-Sep-14"
+  },
+  "19/Sep/14": {
+    "<2hi>": "19-सितंबर-14"
+  },
+  "13/Oct/14": {
+    "<2hi>": "13-Oct-14"
+  },
+  "HPL Credited for JAN-2015": {
+    "<2hi>": "जनवरी-2015 के लिए एचपीएल दी जाती है"
+  },
+  "Page 23 of 27": {
+    "<2hi>": "27 का पेज 23"
+  },
+  "06/Feb/15": {
+    "<2hi>": "6-Feb-15"
+  },
+  "10/Feb/15": {
+    "<2hi>": "10-Feb-15"
+  },
+  "02/Mar/15": {
+    "<2hi>": "2-Mar-15"
+  },
+  "03/Mar/15": {
+    "<2hi>": "3-Mar-15"
+  },
+  "HPL Credited for JUL-2015": {
+    "<2hi>": "जुलाई-2015 के लिए एचपीएल दी जाती है"
+  },
+  "13/Jul/15": {
+    "<2hi>": "13-Jul-15"
+  },
+  "14/Jul/15": {
+    "<2hi>": "14-Jul-15"
+  },
+  "16/Jul/15": {
+    "<2hi>": "16-Jul-15"
+  },
+  "17/Jul/15": {
+    "<2hi>": "17-Jul-15"
+  },
+  "03/Aug/15": {
+    "<2hi>": "3-Aug-15"
+  },
+  "11/Aug/15": {
+    "<2hi>": "11-Aug-15"
+  },
+  "11/Sep/15": {
+    "<2hi>": "11-सितंबर-15"
+  },
+  "30/Sep/15": {
+    "<2hi>": "30-सितंबर-15"
+  },
+  "HPL Credited for JAN-2016": {
+    "<2hi>": "जनवरी-2016 के लिए एचपीएल दी जाती है"
+  },
+  "30/Mar/16": {
+    "<2hi>": "30-Mar-16"
+  },
+  "31/Mar/16": {
+    "<2hi>": "31-Mar-16"
+  },
+  "16/May/16": {
+    "<2hi>": "16-May-16"
+  },
+  "17/May/16": {
+    "<2hi>": "17-May-16"
+  },
+  "HPL Credited for JUL-2016": {
+    "<2hi>": "जुलाई-2016 के लिए एचपीएल दी जाती है"
+  },
+  "11/Jul/16": {
+    "<2hi>": "11-Jul-16"
+  },
+  "18/Sep/16": {
+    "<2hi>": "18-Sep-16"
+  },
+  "HPL Credited for JAN-2017": {
+    "<2hi>": "जनवरी-2017 के लिए एचपीएल दी जाती है"
+  },
+  "17/May/17": {
+    "<2hi>": "17-May-17"
+  },
+  "18/May/17": {
+    "<2hi>": "18-May-17"
+  },
+  "22/May/17": {
+    "<2hi>": "22-May-17"
+  },
+  "26/May/17": {
+    "<2hi>": "26-May-17"
+  },
+  "01/Jun/17": {
+    "<2hi>": "1-Jun-17"
+  },
+  "02/Jun/17": {
+    "<2hi>": "2-Jun-17"
+  },
+  "HPL Credited for JUL-2017": {
+    "<2hi>": "जुलाई-2017 के लिए एचपीएल दी जाती है"
+  },
+  "20/Jul/17": {
+    "<2hi>": "20-Jul-17"
+  },
+  "21/Jul/17": {
+    "<2hi>": "21-Jul-17"
+  },
+  "07/Aug/17": {
+    "<2hi>": "7-Aug-17"
+  },
+  "10/Aug/17": {
+    "<2hi>": "10-Aug-17"
+  },
+  "26/Sep/17": {
+    "<2hi>": "26-सितंबर-17"
+  },
+  "27/Sep/17": {
+    "<2hi>": "27-सितंबर-17"
+  },
+  "15/Nov/17": {
+    "<2hi>": "15-नवंबर-17"
+  },
+  "16/Nov/17": {
+    "<2hi>": "16-नवंबर-17"
+  },
+  "27/Nov/17": {
+    "<2hi>": "27-नवंबर-17"
+  },
+  "28/Nov/17": {
+    "<2hi>": "28-नवंबर-17"
+  },
+  "HPL Credited for JAN-2018": {
+    "<2hi>": "जनवरी-2018 के लिए एचपीएल दी जाती है"
+  },
+  "30/Jan/18": {
+    "<2hi>": "30-Jan-18"
+  },
+  "23/Feb/18": {
+    "<2hi>": "23-Feb-18"
+  },
+  "Page 24 of 27": {
+    "<2hi>": "27 का पेज 24"
+  },
+  "COMMENTS OF CAG AUDITOR": {
+    "<2hi>": "कॅग के लेखा परीक्षक की टिप्पणियाँ"
+  },
+  "COMMENTS OF INTERNAL AUDITOR": {
+    "<2hi>": "आंतरिक लेखा परीक्षक की टिप्पणियाँ"
+  },
+  "Page 25 of 27": {
+    "<2hi>": "27 का पेज 25"
+  },
+  "ANNEXURE": {
+    "<2hi>": "अनुलग्नक"
+  },
+  "INSTRUCTIONS FOR MAINTENANCE OF SERVICE BOOK": {
+    "<2hi>": "सेवा पुस्तिका के रखरखाव के लिए निर्देश"
+  },
+  "PART-I": {
+    "<2hi>": "भाग-I"
+  },
+  "Entries in this part will be made at the time of first appointment of the Government servant and attested by the Head of Office or any other officer duly authorized in this behalf. Additions and alterations in this part will also be similarly attested": {
+    "<2hi>": "इस भाग में प्रविष्टियां शासकीय सेवक की प्रथम नियुक्ति के समय की जाएंगी और कार्यालय प्रमुख या इस संबंध में विधिवत अधिकृत किसी अन्य अधिकारी द्वारा सत्यापित की जाएंगी। इस भाग में परिवर्धन और परिवर्तन भी इसी प्रकार प्रमाणित होंगे"
+  },
+  "Signature or left hand thumb impression of the Government servant concerned will be obtained in the presence of Head of Office or authorized officer": {
+    "<2hi>": "संबंधित सरकारी सेवक के हस्ताक्षर या बाएं हाथ के अंगूठे का निशान कार्यालय प्रमुख या अधिकृत अधिकारी की उपस्थिति में प्राप्त किया जाएगा"
+  },
+  "The latest photograph of the Government servant (size 3cm x 3cm) shall be affixed in box 1 at the time of first appointment and thereafter renewed after every 10 years and pasted in the designated boxes. Each photograph shall carry the dated signature of the Head of Office or any other officer duly authorized": {
+    "<2hi>": "सरकारी सेवक का नवीनतम फोटोग्राफ (आकार 3 सेमी x 3 सेमी) पहली नियुक्ति के समय बॉक्स 1 में चिपकाया जाएगा और उसके बाद प्रत्येक 10 वर्षों के बाद नवीनीकृत किया जाएगा और नामित बॉक्स में चिपकाया जाएगा। प्रत्येक तस्वीर पर कार्यालय के प्रमुख या विधिवत अधिकृत किसी अन्य अधिकारी के दिनांकित हस्ताक्षर होंगे"
+  },
+  "The Government servant has an option either to indicate his/her father's name or mother's name or names of both": {
+    "<2hi>": "सरकारी कर्मचारी के पास विकल्प है कि वह या तो अपने पिता का नाम या माता का नाम या दोनों का नाम बताए"
+  },
+  "PART-II-A(IMMUTABLE)": {
+    "<2hi>": "भाग-द्वितीय-क (अपरिवर्तनीय)"
+  },
+  "The first seven certificates will be recorded at the time of initial appointment of the Government servant and the last entry at the appropriate stage. In particular before certifying Item 4 regarding Oath of Secrecy, the Head of Office will ensure that a copy of each of Official Secrets Act, and Central Civil Services (Conduct Rules) are made available to Government servant concerned for formally noting their contents. All these entries are not subject to change / revision subsequently": {
+    "<2hi>": "प्रथम सात प्रमाण पत्र शासकीय सेवक की प्रारम्भिक नियुक्ति के समय तथा अन्तिम प्रविष्टि उपयुक्त अवस्था में अभिलेखित किये जायेंगे। विशेष रूप से गोपनीयता की शपथ के संबंध में मद 4 को प्रमाणित करने से पहले, कार्यालय प्रमुख यह सुनिश्चित करेगा कि आधिकारिक गोपनीयता अधिनियम, और केंद्रीय सिविल सेवा (आचरण नियम) की प्रत्येक की एक प्रति संबंधित सरकारी कर्मचारी को उनकी सामग्री को औपचारिक रूप से नोट करने के लिए उपलब्ध कराई जाए। ये सभी प्रविष्टियाँ बाद में परिवर्तन / संशोधन के अधीन नहीं हैं"
+  },
+  "The blank space in this part should be utilized for recording other certificates like those concerning exercise of options in service matters and passing of departmental and language tests, if and when required": {
+    "<2hi>": "इस भाग में रिक्त स्थान का उपयोग अन्य प्रमाणपत्रों को रिकॉर्ड करने के लिए किया जाना चाहिए जैसे कि सेवा मामलों में विकल्पों के प्रयोग से संबंधित और विभागीय और भाषा परीक्षण पास करने से संबंधित, यदि और जब आवश्यक हो"
+  },
+  "PART-II-B(MUTABLE)": {
+    "<2hi>": "भाग-द्वितीय-ख (परिवर्तनीय)"
+  },
+  "The declarations, nominations and related notices like change of nomination for GPF, D.C.R Gratuity, Family Pension, Central Government Employees' Insurance Scheme and Leave Encashment, testimonials and other documents referred to and relied upon in this part will be kept in Vol. II of the service book of the Government servant and will be retained by the Head of Office for safe custody. Sufficient blank space is to be left behind each entry to incorporate change of nominations": {
+    "<2hi>": "घोषणा, नामांकन और संबंधित नोटिस जैसे जीपीएफ के लिए नामांकन में बदलाव, डी.सी.आर ग्रेच्युटी, परिवार पेंशन, केंद्र सरकार कर्मचारी बीमा योजना और छुट्टी नकदीकरण, प्रशंसापत्र और इस भाग में संदर्भित और निर्भर अन्य दस्तावेजों को वॉल्यूम में रखा जाएगा। सरकारी सेवक की सेवा पुस्तिका का II और कार्यालय प्रमुख द्वारा सुरक्षित अभिरक्षा में रखा जाएगा। नामांकन के परिवर्तन को शामिल करने के लिए प्रत्येक प्रविष्टि के पीछे पर्याप्त रिक्त स्थान छोड़ा जाना है"
+  },
+  "PART-III-A": {
+    "<2hi>": "भाग-III-क"
+  },
+  "This part will be posted only where no service book is available in respect of the past service which has to be admitted on the basis, say, of collateral evidence": {
+    "<2hi>": "यह भाग केवल वहीं पोस्ट किया जाएगा जहां पिछली सेवा के संबंध में कोई सेवा पुस्तिका उपलब्ध नहीं है, जिसे संपार्श्विक साक्ष्य के आधार पर स्वीकार किया जाना है।"
+  },
+  "Entries made in this column should be attested by the Head of Office or any other officer duly authorized in this behalf": {
+    "<2hi>": "इस कॉलम में की गई प्रविष्टियां कार्यालय प्रमुख या इस संबंध में विधिवत अधिकृत किसी अन्य अधिकारी द्वारा सत्यापित होनी चाहिए"
+  },
+  "The purpose for which the previous service has been accepted as 'qualifying' should be specified, e.g., Leave, Pay, Pension, etc": {
+    "<2hi>": "जिस उद्देश्य के लिए पिछली सेवा को 'अर्हक' के रूप में स्वीकार किया गया है, उसे निर्दिष्ट किया जाना चाहिए, जैसे, छुट्टी, वेतन, पेंशन, आदि।"
+  },
+  "PART-III-B": {
+    "<2hi>": "भाग-III-ख"
+  },
+  "Columns 1, 3 and 4 will be posted after receipt of an intimation from the foreign employer about the Govt. servant having reported to him for duty": {
+    "<2hi>": "कॉलम 1, 3 और 4 को विदेशी नियोक्ता से सरकारी कर्मचारी द्वारा ड्यूटी के लिए रिपोर्ट किए जाने की सूचना मिलने के बाद प्रेषित किया जाएगा।"
+  },
+  "Column 2 will be filled after the reversion of the Government servant from foreign service": {
+    "<2hi>": "सरकारी सेवक के विदेश सेवा से प्रत्यावर्तन के बाद कॉलम 2 भरा जाएगा"
+  },
+  "Page 26 of 27": {
+    "<2hi>": "27 का पेज 26"
+  },
+  "Entry in Column 4 will be brief, i.e., 'foreign employer' or 'Government servant' as may be appropriate": {
+    "<2hi>": "कॉलम 4 में प्रविष्टि संक्षिप्त होगी, अर्थात 'विदेशी नियोक्ता' या 'सरकारी सेवक' जैसा उपयुक्त हो"
+  },
+  "PART-IV": {
+    "<2hi>": "भाग-IV"
+  },
+  "Entries in this Part will be made at the time of initial appointment and thereafter, on the occurrence of events involving a change in the post, office, station, scale of pay, or nature of appointment. Such events will include appointment, promotion, reversion, deputation, transfer (including transfer on foreign service), increment, leave and suspension": {
+    "<2hi>": "इस भाग में प्रविष्टियां प्रारंभिक नियुक्ति के समय और उसके बाद, पद, कार्यालय, स्टेशन, वेतनमान, या नियुक्ति की प्रकृति में परिवर्तन से संबंधित घटनाओं के होने पर की जाएंगी। इस तरह के आयोजनों में नियुक्ति, पदोन्नति, प्रत्यावर्तन, प्रतिनियुक्ति, स्थानांतरण (विदेश सेवा पर स्थानांतरण सहित), वेतन वृद्धि, छुट्टी और निलंबन शामिल होंगे।"
+  },
+  "Entries regarding suspension and other forms of interruption in service will be made in red ink": {
+    "<2hi>": "सेवा में निलंबन एवं अन्य प्रकार की रुकावटों के संबंध में प्रविष्टियां लाल स्याही से की जाएंगी"
+  },
+  "Column 3 in respect of particular entry will be posted at the time of making the next entry": {
+    "<2hi>": "विशेष प्रविष्टि के संबंध में कॉलम 3 अगली प्रविष्टि करते समय प्रेषित किया जाएगा"
+  },
+  "Column 4 in respect of second and subsequent entries need be filled only if there is change in the post, scale of pay, office or station": {
+    "<2hi>": "दूसरी और बाद की प्रविष्टियों के संबंध में कॉलम 4 को तभी भरना होगा जब पद, वेतनमान, कार्यालय या स्टेशन में परिवर्तन हो।"
+  },
+  "Columns 5 and 6 will show different components of pay separately, thus '": {
+    "<2hi>": "कॉलम 5 और 6 वेतन के विभिन्न घटकों को अलग-अलग दर्शाएंगे, इस प्रकार'"
+  },
+  "Column 7 concerning an entry will be posted at the time of making the next entry. In the case of leave, this column will also indicate nature of leave": {
+    "<2hi>": "किसी प्रविष्टि से संबंधित कॉलम 7 को अगली प्रविष्टि करते समय पोस्ट किया जाएगा। छुट्टी के मामले में, यह कॉलम छुट्टी की प्रकृति का भी संकेत देगा"
+  },
+  "Before putting his signature in the Column 8 the attesting officer will ensure that there is no unexplained gap between the date shown in Column II of the entry he is attesting and Column III of the preceding entry": {
+    "<2hi>": "कॉलम 8 में अपना हस्ताक्षर करने से पहले, सत्यापनकर्ता अधिकारी यह सुनिश्चित करेगा कि जिस प्रविष्टि को वह सत्यापित कर रहा है, उसके कॉलम II में दर्शाई गई तारीख और पिछली प्रविष्टि के कॉलम III के बीच कोई अस्पष्ट अंतर नहीं है।"
+  },
+  "At the beginning of the year or at the time of transfer of service documents to another office if this event occurs earlier, entries in Columns 2-7 will be verified,with reference to relevant records in terms of GFR 81 (257 (I) of GFR 2005). While putting his signature in Column 9, the verifying officer will indicate the S.Nos,of the entries he has verified on the last occasion": {
+    "<2hi>": "वर्ष की शुरुआत में या किसी अन्य कार्यालय में सेवा दस्तावेजों के हस्तांतरण के समय यदि यह घटना पहले होती है, तो जीएफआर 81 (जीएफआर 2005 का 257 (आई)) के संदर्भ में प्रासंगिक रिकॉर्ड के संदर्भ में कॉलम 2-7 में प्रविष्टियों का सत्यापन किया जाएगा। कॉलम 9 में अपना हस्ताक्षर करते समय सत्यापन अधिकारी उन प्रविष्टियों के क्रमांक को इंगित करेगा, जिनका उसने पिछले अवसर पर सत्यापन किया था।"
+  },
+  "If for unavoidable reasons it is not possible to show the service book to the employee and to obtain his signature in Column 10, an abstract of the prescribed form 'Appendix' will be communicated to him for acknowledgement and return. On receipt back, such acknowledgement will be kept in Vol.II of the service book": {
+    "<2hi>": "यदि अपरिहार्य कारणों से कर्मचारी को सेवा पुस्तिका दिखाना और कॉलम 10 में उसके हस्ताक्षर प्राप्त करना संभव नहीं है, तो निर्धारित प्रपत्र 'परिशिष्ट' का सार उसे पावती और वापसी के लिए सूचित किया जाएगा। वापस प्राप्त होने पर ऐसी पावती सेवा पुस्तिका के खण्ड II में रखी जायेगी"
+  },
+  "Events like stoppage of increment, enforcement of efficiency bar which do not affect entries in Columns 1-5 will be briefly noted in Column II": {
+    "<2hi>": "कॉलम 1-5 में प्रविष्टियों को प्रभावित न करने वाली वेतन वृद्धि को रोकने, दक्षता बार को लागू करने जैसी घटनाओं को कॉलम II में संक्षेप में नोट किया जाएगा।"
+  },
+  "PART-V": {
+    "<2hi>": "भाग-V"
+  },
+  "Entries in this part will be made for each financial year after due verification from Pay bill! Acquaintance roll": {
+    "<2hi>": "इस भाग में प्रत्येक वित्तीय वर्ष के लिए वेतन बिल से सत्यापन के बाद प्रविष्टियां की जाएंगी! परिचित रोल"
+  },
+  "It will be the duty of Head of Office to ensure that in case of transfer of Government servant working in his office, all the details under relevant columns are duly completed before forwarding the Service Book to the new office of the Government servant concerned": {
+    "<2hi>": "कार्यालय प्रमुख का यह कर्तव्य होगा कि वह अपने कार्यालय में कार्यरत शासकीय सेवक के स्थानान्तरण की स्थिति में संबंधित शासकीय सेवक के नये कार्यालय को सेवा पुस्तिका अग्रेषित करने से पूर्व सम्बन्धित कालमों के अन्तर्गत समस्त विवरण विधिवत पूर्ण कर लें।"
+  },
+  "Page 27 of 27": {
+    "<2hi>": "27 का पेज 27"
+  },
+  "MR VISHWAS PETER PATOLE (Employee No. 100624)": {
+    "<2hi>": "श्री विश्वास पीटर पटोले (कर्मचारी संख्या 100624)"
+  },
+  "Page 1 of 20": {
+    "<2hi>": "20 का पेज 1"
+  },
+  "Printed On: 21-Dec-2021 11:31": {
+    "<2hi>": "पर मुद्रित : 21-दिसंबर-2021 11:31"
+  },
+  "Service Book of Employee No.100624: SRNO/5": {
+    "<2hi>": "कर्मचारी संख्या 100624 की सेवा पुस्तिका : एसआरएनओ/5"
+  },
+  "MR VISHWAS PETER PATOLE": {
+    "<2hi>": "श्री विश्वास पीटर पटोले"
+  },
+  "Father : PETER M PATOLE": {
+    "<2hi>": "पिता : पीटर एम पटोले"
+  },
+  "Mother : LATE MONIKABAI P. PATOLE": {
+    "<2hi>": "माता : स्वर्गीय मोनिकाबाई पी. पटोले"
+  },
+  "11th February 1962": {
+    "<2hi>": "11-Feb-62"
+  },
+  "15/Jun/82": {
+    "<2hi>": "15-Jun-82"
+  },
+  "Govt. Of Maharashtra": {
+    "<2hi>": "महाराष्ट्र सरकार"
+  },
+  "Art Teacher Diploma": {
+    "<2hi>": "कला शिक्षक डिप्लोमा"
+  },
+  "05/Jun/85": {
+    "<2hi>": "5-Jun-85"
+  },
+  "Black spot on cheek": {
+    "<2hi>": "गाल पर काला निशान"
+  },
+  "Plot No. 15, Matruchhaya Society,, Pune-Nagar Road, City": {
+    "<2hi>": "प्लॉट नंबर 15, मातृछाया सोसाइटी, पुणे-नगर रोड, सिटी"
+  },
+  "Pune District :-Pune State :-Maharashtra, PIN:- 411006": {
+    "<2hi>": "पुणे जिला :-पुणे राज्य :-महाराष्ट्र, पिन:- 411006"
+  },
+  "623612000000": {
+    "<2hi>": "623612000000"
+  },
+  "Page 2 of 20": {
+    "<2hi>": "20 का पेज 2"
+  },
+  "Page 3 of 20": {
+    "<2hi>": "20 का पेज 3"
+  },
+  "The employee has been confirmed in the post of Other": {
+    "<2hi>": "अन्य के पद पर कर्मचारी की पुष्टि की गई है"
+  },
+  "w.e.f. 01-FEB-1997. A copy of the confirmation order is": {
+    "<2hi>": "प्रभावी कार्य दिवस 01-फरवरी-1997। पुष्टिकरण आदेश की एक प्रति है"
+  },
+  "filed": {
+    "<2hi>": "दायर की"
+  },
+  "Page 4 of 20": {
+    "<2hi>": "20 का पेज 4"
+  },
+  "Late Hemalata V. Patole": {
+    "<2hi>": "स्वर्गीय हेमलता वी. पटोले"
+  },
+  "09/Apr/67": {
+    "<2hi>": "9-Apr-67"
+  },
+  "Late MONIKABAI P. PATOLE": {
+    "<2hi>": "स्वर्गीय मोनिकाबाई पी. पटोले"
+  },
+  "05/Oct/47": {
+    "<2hi>": "5-Oct-47"
+  },
+  "Peter M Patole": {
+    "<2hi>": "पीटर एम पटोले"
+  },
+  "22/Nov/25": {
+    "<2hi>": "22-नवंबर-25"
+  },
+  "Widower": {
+    "<2hi>": "विदुर"
+  },
+  "RACHANA VISHWAS PATOLE": {
+    "<2hi>": "रचना विश्वास पटोले"
+  },
+  "Daughter": {
+    "<2hi>": "बेटी"
+  },
+  "14/Sep/95": {
+    "<2hi>": "14-सितंबर-95"
+  },
+  "PU/PUN/0030908000/0624": {
+    "<2hi>": "PU/PUN/0030908000/0624"
+  },
+  "Page 5 of 20": {
+    "<2hi>": "20 का पेज 5"
+  },
+  "Page 6 of 20": {
+    "<2hi>": "20 का पेज 6"
+  },
+  "01/Feb/96": {
+    "<2hi>": "1-Feb-96"
+  },
+  "01/Feb/01": {
+    "<2hi>": "1-Feb-01"
+  },
+  "New contract w.e.f. 01-FEB-1996 till 01-FEB-2001": {
+    "<2hi>": "नया अनुबंध प्रभावी कार्य दिवस 01-फरवरी-1996 से 01-फरवरी-2001 तक"
+  },
+  "order dated 15-FEB-1996": {
+    "<2hi>": "आदेश दिनांक 15-फरवरी-1996"
+  },
+  "01/Feb/97": {
+    "<2hi>": "1-Feb-97"
+  },
+  "His probation was cleared on 01-FEB-1997 vide": {
+    "<2hi>": "01-फरवरी-1997 को उनकी परिवीक्षा को मंजूरी दे दी गई थी"
+  },
+  "Order No. P:ED:97 dated 17-OCT-1997": {
+    "<2hi>": "आदेश संख्या पी:ईडी:97 दिनांक 17-अक्टूबर-1997"
+  },
+  "in the payscale of 15600-39100 GP - 6600 in": {
+    "<2hi>": "15600-39100 जीपी के वेतनमान में - 6600 में"
+  },
+  "payscale of 15600-39100 GP - 6600 in 6th Pay": {
+    "<2hi>": "छठे वेतन में 15600-39100 जीपी - 6600 के वेतनमान में"
+  },
+  "29/May": {
+    "<2hi>": "29-May"
+  },
+  "Promotion due given w.e.f. 29-MAY-2007 in the": {
+    "<2hi>": "प्रभावी कार्य दिवस से दी गई पदोन्नति 29-मई-2007 में"
+  },
+  "Page 7 of 20": {
+    "<2hi>": "20 का पेज 7"
+  },
+  "01/May": {
+    "<2hi>": "1-May"
+  },
+  "Increment due given w.e.f. 01-MAY-2008 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-मई-2008 में"
+  },
+  "in the payscale of Level - 12 in 7th Pay": {
+    "<2hi>": "सातवें वेतनमान में लेवल - 12 के वेतनमान में"
+  },
+  "Page 8 of 20": {
+    "<2hi>": "20 का पेज 8"
+  },
+  "payscale of": {
+    "<2hi>": "का वेतनमान"
+  },
+  "Level - 12 in 7th Pay Commission": {
+    "<2hi>": "सातवें वेतन आयोग में लेवल-12"
+  },
+  "Promotion due given w.e.f. 01-JAN-2018 in the": {
+    "<2hi>": "प्रभावी कार्य दिवस से दी गई पदोन्नति 01-जनवरी-2018 में"
+  },
+  "Level - 13 in 7th Pay Commission": {
+    "<2hi>": "सातवें वेतन आयोग में लेवल - 13"
+  },
+  "01/Jul/18": {
+    "<2hi>": "1-Jul-18"
+  },
+  "Increment due given w.e.f. 01-JUL-2018 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-जुलाई-2018 में"
+  },
+  "01/Jul/19": {
+    "<2hi>": "1-Jul-19"
+  },
+  "Increment due given w.e.f. 01-JUL-2019 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-जुलाई-2019 में"
+  },
+  "01/Jul/20": {
+    "<2hi>": "1-Jul-20"
+  },
+  "Increment due given w.e.f. 01-JUL-2020 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-जुलाई-2020 में"
+  },
+  "28/Feb/22": {
+    "<2hi>": "28-Feb-22"
+  },
+  "Page 9 of 20": {
+    "<2hi>": "20 का पेज 9"
+  },
+  "Institute of Typographical": {
+    "<2hi>": "टंकण संस्थान (इंस्टीट्यूट ऑफ टाइपोग्राफिकल)"
+  },
+  "01/Jun/86": {
+    "<2hi>": "1-Jun-86"
+  },
+  "31/Jan/95": {
+    "<2hi>": "31-Jan-95"
+  },
+  "Senior Type designer": {
+    "<2hi>": "वरिष्ठ टाइप डिजाइनर"
+  },
+  "Research": {
+    "<2hi>": "अनुसंधान"
+  },
+  "01/Feb/95": {
+    "<2hi>": "1-Feb-95"
+  },
+  "31/Jan/96": {
+    "<2hi>": "31-Jan-96"
+  },
+  "Engineer Trainee": {
+    "<2hi>": "इंजीनियर प्रशिक्षु"
+  },
+  "Page 10 of 20": {
+    "<2hi>": "20 का पेज 10"
+  },
+  "27/Oct/01": {
+    "<2hi>": "27-Oct-01"
+  },
+  "21/Dec/01": {
+    "<2hi>": "21-दिसंबर-01"
+  },
+  "22/Dec/01": {
+    "<2hi>": "22-दिसंबर-01"
+  },
+  "28/Oct/03": {
+    "<2hi>": "28-Oct-03"
+  },
+  "07/Nov/03": {
+    "<2hi>": "07-नवंबर-03"
+  },
+  "24/Dec/04": {
+    "<2hi>": "24-दिसंबर-04"
+  },
+  "Data Entry by HR": {
+    "<2hi>": "एचआर द्वारा डाटा एंट्री"
+  },
+  "28/Jan/08": {
+    "<2hi>": "28-Jan-08"
+  },
+  "Page 11 of 20": {
+    "<2hi>": "20 का पेज 11"
+  },
+  "04/Sep/08": {
+    "<2hi>": "4-Sep-08"
+  },
+  "12/Sep/08": {
+    "<2hi>": "12-सितंबर-08"
+  },
+  "22/Sep/08": {
+    "<2hi>": "22-सितंबर-08"
+  },
+  "20/Oct/08": {
+    "<2hi>": "20-Oct-08"
+  },
+  "26/Dec/08": {
+    "<2hi>": "26-दिसंबर-08"
+  },
+  "31/Dec/08": {
+    "<2hi>": "31-दिसंबर-08"
+  },
+  "28/Jan/09": {
+    "<2hi>": "28-Jan-09"
+  },
+  "11/Feb/09": {
+    "<2hi>": "11-Feb-09"
+  },
+  "17/Feb/09": {
+    "<2hi>": "17-Feb-09"
+  },
+  "24/Feb/09": {
+    "<2hi>": "24-Feb-09"
+  },
+  "25/Mar/09": {
+    "<2hi>": "25-Mar-09"
+  },
+  "26/Mar/09": {
+    "<2hi>": "26-Mar-09"
+  },
+  "22/Jun/09": {
+    "<2hi>": "22-Jun-09"
+  },
+  "26/Jun/09": {
+    "<2hi>": "26-Jun-09"
+  },
+  "EL Has Been Amended For 01/Jul/2009": {
+    "<2hi>": "ईएल को 01/जुलाई/2009 के लिए संशोधित किया गया है"
+  },
+  "30/Sep/09": {
+    "<2hi>": "30-सितंबर-09"
+  },
+  "19/Nov/09": {
+    "<2hi>": "19-नवंबर-09"
+  },
+  "20/Nov/09": {
+    "<2hi>": "20-नवंबर-09"
+  },
+  "11/Dec/09": {
+    "<2hi>": "11-दिसंबर-09"
+  },
+  "16/Dec/09": {
+    "<2hi>": "16-दिसंबर-09"
+  },
+  "15/Mar/11": {
+    "<2hi>": "15-Mar-11"
+  },
+  "29/Mar/11": {
+    "<2hi>": "29-Mar-11"
+  },
+  "01/Apr/11": {
+    "<2hi>": "1-Apr-11"
+  },
+  "05/May/11": {
+    "<2hi>": "5-May-11"
+  },
+  "Page 12 of 20": {
+    "<2hi>": "20 का पेज 12"
+  },
+  "21/Jul/11": {
+    "<2hi>": "21-Jul-11"
+  },
+  "22/Jul/11": {
+    "<2hi>": "22-Jul-11"
+  },
+  "08/Aug/11": {
+    "<2hi>": "8-Aug-11"
+  },
+  "03/Sep/12": {
+    "<2hi>": "3-Sep-12"
+  },
+  "06/Sep/12": {
+    "<2hi>": "6-Sep-12"
+  },
+  "11/Oct/12": {
+    "<2hi>": "11-Oct-12"
+  },
+  "16/Oct/12": {
+    "<2hi>": "16-Oct-12"
+  },
+  "25/Oct/12": {
+    "<2hi>": "25-Oct-12"
+  },
+  "26/Oct/12": {
+    "<2hi>": "26-Oct-12"
+  },
+  "31/May/13": {
+    "<2hi>": "31-May-13"
+  },
+  "11/Jun/13": {
+    "<2hi>": "11-Jun-13"
+  },
+  "31/Dec/13": {
+    "<2hi>": "31-दिसंबर-13"
+  },
+  "22/Dec/14": {
+    "<2hi>": "22-दिसंबर-14"
+  },
+  "30/Dec/14": {
+    "<2hi>": "30-दिसंबर-14"
+  },
+  "Page 13 of 20": {
+    "<2hi>": "20 का पेज 13"
+  },
+  "21/Jul/15": {
+    "<2hi>": "21-Jul-15"
+  },
+  "22/Dec/15": {
+    "<2hi>": "22-दिसंबर-15"
+  },
+  "31/Dec/15": {
+    "<2hi>": "31-दिसंबर-15"
+  },
+  "18/Jan/16": {
+    "<2hi>": "18-Jan-16"
+  },
+  "20/Jan/16": {
+    "<2hi>": "20-Jan-16"
+  },
+  "27/May/16": {
+    "<2hi>": "27-May-16"
+  },
+  "28/Oct/16": {
+    "<2hi>": "28-Oct-16"
+  },
+  "30/Dec/16": {
+    "<2hi>": "30-दिसंबर-16"
+  },
+  "06/Apr/17": {
+    "<2hi>": "6-Apr-17"
+  },
+  "29/May/17": {
+    "<2hi>": "29-May-17"
+  },
+  "03/Oct/17": {
+    "<2hi>": "3-Oct-17"
+  },
+  "13/Oct/17": {
+    "<2hi>": "13-Oct-17"
+  },
+  "20/Oct/17": {
+    "<2hi>": "20-Oct-17"
+  },
+  "12/Dec/17": {
+    "<2hi>": "12-दिसंबर-17"
+  },
+  "13/Dec/17": {
+    "<2hi>": "13-दिसंबर-17"
+  },
+  "26/Dec/17": {
+    "<2hi>": "26-दिसंबर-17"
+  },
+  "28/Dec/17": {
+    "<2hi>": "28-दिसंबर-17"
+  },
+  "24/Jan/18": {
+    "<2hi>": "24-Jan-18"
+  },
+  "21/May/18": {
+    "<2hi>": "21-May-18"
+  },
+  "Page 14 of 20": {
+    "<2hi>": "20 का पेज 14"
+  },
+  "25/May/18": {
+    "<2hi>": "25-May-18"
+  },
+  "EL Credited for JUL-2018": {
+    "<2hi>": "जुलाई-2018 के लिए ईएल दी जाती है"
+  },
+  "08/Nov/18": {
+    "<2hi>": "08-नवंबर-18"
+  },
+  "16/Nov/18": {
+    "<2hi>": "16-नवंबर-18"
+  },
+  "29/Nov/18": {
+    "<2hi>": "29-नवंबर-18"
+  },
+  "01/Jan/19": {
+    "<2hi>": "1-Jan-19"
+  },
+  "EL Credited for JAN-2019": {
+    "<2hi>": "जनवरी-2019 के लिए ईएल दी जाती है"
+  },
+  "EL Credited for JUL-2019": {
+    "<2hi>": "जुलाई-2019 के लिए ईएल दी जाती है"
+  },
+  "18/Sep/19": {
+    "<2hi>": "18-सितंबर-19"
+  },
+  "29/Oct/19": {
+    "<2hi>": "29-Oct-19"
+  },
+  "01/Jan/20": {
+    "<2hi>": "1-Jan-20"
+  },
+  "EL Credited for JAN-2020": {
+    "<2hi>": "जनवरी-2020 के लिए ईएल दी जाती है"
+  },
+  "EL Credited for JUL-2020": {
+    "<2hi>": "जुलाई-2020 के लिए ईएल दी जाती है"
+  },
+  "18/Dec/20": {
+    "<2hi>": "18-दिसंबर-20"
+  },
+  "Updated by Approving authority": {
+    "<2hi>": "अनुमोदन प्राधिकारी द्वारा अद्यतन"
+  },
+  "01/Jan/21": {
+    "<2hi>": "1-Jan-21"
+  },
+  "EL Credited for JAN-2021": {
+    "<2hi>": "जनवरी-2021 के लिए ईएल दी जाती है"
+  },
+  "22/Feb/21": {
+    "<2hi>": "22-Feb-21"
+  },
+  "01/Mar/21": {
+    "<2hi>": "1-Mar-21"
+  },
+  "02/Mar/21": {
+    "<2hi>": "2-Mar-21"
+  },
+  "01/Feb/98": {
+    "<2hi>": "1-Feb-98"
+  },
+  "01/Feb/99": {
+    "<2hi>": "1-Feb-99"
+  },
+  "19/Apr/99": {
+    "<2hi>": "19-Apr-99"
+  },
+  "28/Apr/99": {
+    "<2hi>": "28-Apr-99"
+  },
+  "01/Feb/00": {
+    "<2hi>": "1-Feb-00"
+  },
+  "Page 15 of 20": {
+    "<2hi>": "20 का पेज 15"
+  },
+  "01/Feb/02": {
+    "<2hi>": "1-Feb-02"
+  },
+  "12/Sep/02": {
+    "<2hi>": "12-सितंबर-02"
+  },
+  "17/Sep/02": {
+    "<2hi>": "17-सितंबर-02"
+  },
+  "01/Feb/03": {
+    "<2hi>": "1-Feb-03"
+  },
+  "01/Feb/04": {
+    "<2hi>": "1-Feb-04"
+  },
+  "01/Feb/05": {
+    "<2hi>": "1-Feb-05"
+  },
+  "05/Sep/06": {
+    "<2hi>": "5-Sep-06"
+  },
+  "07/Sep/06": {
+    "<2hi>": "7-Sep-06"
+  },
+  "Page 16 of 20": {
+    "<2hi>": "20 का पेज 16"
+  },
+  "20/Apr/17": {
+    "<2hi>": "20-Apr-17"
+  },
+  "05/May/17": {
+    "<2hi>": "5-May-17"
+  },
+  "HPL Credited for JUL-2018": {
+    "<2hi>": "जुलाई-2018 के लिए एचपीएल दी जाती है"
+  },
+  "18/Sep/18": {
+    "<2hi>": "18-Sep-18"
+  },
+  "27/Sep/18": {
+    "<2hi>": "27-Sep-18"
+  },
+  "HPL Credited for JAN-2019": {
+    "<2hi>": "जनवरी-2019 के लिए एचपीएल दी जाती है"
+  },
+  "13/Feb/19": {
+    "<2hi>": "13-Feb-19"
+  },
+  "27/Feb/19": {
+    "<2hi>": "27-Feb-19"
+  },
+  "HPL Credited for JUL-2019": {
+    "<2hi>": "जुलाई-2019 के लिए एचपीएल दी जाती है"
+  },
+  "HPL Credited for JAN-2020": {
+    "<2hi>": "जनवरी-2020 के लिए एचपीएल दी जाती है"
+  },
+  "HPL Credited for JUL-2020": {
+    "<2hi>": "जुलाई-2020 के लिए एचपीएल दी जाती है"
+  },
+  "23/Dec/20": {
+    "<2hi>": "23-दिसंबर-20"
+  },
+  "HPL Credited for JAN-2021": {
+    "<2hi>": "जनवरी-2021 के लिए एचपीएल दी जाती है"
+  },
+  "21/Apr/21": {
+    "<2hi>": "21-Apr-21"
+  },
+  "03/May/21": {
+    "<2hi>": "3-May-21"
+  },
+  "Page 17 of 20": {
+    "<2hi>": "20 का पेज 17"
+  },
+  "Page 18 of 20": {
+    "<2hi>": "20 का पेज 18"
+  },
+  "Page 19 of 20": {
+    "<2hi>": "20 का पेज 19"
+  },
+  "Page 20 of 20": {
+    "<2hi>": "20 का पेज 20"
+  },
+  "MR SAJAN LADHARAM WADHWANI (Employee No. 200449)": {
+    "<2hi>": "श्री साजन लधाराम वाधवानी (कर्मचारी संख्या 200449)"
+  },
+  "Service Book of Employee No.200449: SRNO/6": {
+    "<2hi>": "कर्मचारी संख्या 200449 की सेवा पुस्तिका : एसआरएनओ/6"
+  },
+  "MR SAJAN LADHARAM WADHWANI": {
+    "<2hi>": "श्री साजन लधाराम वाधवानी"
+  },
+  "Father : LATE LADHARAM GOBINDRAM WADHWANI": {
+    "<2hi>": "पिता : स्वर्गीय लधाराम गोबिंदराम वाधवानी"
+  },
+  "Mother : LATE RAJKUMARI LADHARAM WADHWANI": {
+    "<2hi>": "माता : स्वर्गीय राजकुमारी लधाराम वाधवानी"
+  },
+  "16th August 1966": {
+    "<2hi>": "16-Aug-66"
+  },
+  "14/Jun/83": {
+    "<2hi>": "14-Jun-83"
+  },
+  "MAHARASHTRA STATE BOARD": {
+    "<2hi>": "महाराष्ट्र राज्य बोर्ड"
+  },
+  "Industrial Electronics": {
+    "<2hi>": "औद्योगिक इलेक्ट्रॉनिक्स"
+  },
+  "24/Feb/87": {
+    "<2hi>": "24-Feb-87"
+  },
+  "Board of Technical Examinations": {
+    "<2hi>": "तकनीकी परीक्षा बोर्ड"
+  },
+  "MAharashtra State": {
+    "<2hi>": "महाराष्ट्र राज्य"
+  },
+  "Cut mark on left hand thumb": {
+    "<2hi>": "बाएं हाथ के अंगूठे पर कटे का निशान"
+  },
+  "B-BLOCK NO. 13/9, PIMPRI COLONY City :-Pune District": {
+    "<2hi>": "बी-ब्लॉक नं. 13/9, पिंपरी कॉलोनी शहर :- पुणे जिला"
+  },
+  "Pune State :-Maharashtra, PIN:- 411017": {
+    "<2hi>": "पुणे राज्य :- महाराष्ट्र, पिन :-  411017"
+  },
+  "621945000000": {
+    "<2hi>": "621945000000"
+  },
+  "Technical Support Staff w.e.f. 01-JUL-1995. A copy of the": {
+    "<2hi>": "तकनीकी सहायता कर्मचारी प्रभावी कार्य दिवस 01-जुलाई-1995। की एक प्रति"
+  },
+  "Dilip Ladharam Wadhwani": {
+    "<2hi>": "दिलीप लधाराम वाधवानी"
+  },
+  "Brother": {
+    "<2hi>": "बंधु"
+  },
+  "26/Aug/64": {
+    "<2hi>": "26-Aug-64"
+  },
+  "LATE Ladharam Gobindram Wadhwani": {
+    "<2hi>": "स्वर्गीय लधाराम गोबिंदराम वाधवानी"
+  },
+  "11/Jan/33": {
+    "<2hi>": "11-Jan-33"
+  },
+  "LATE Rajkumari Ladharam Wadhwani": {
+    "<2hi>": "स्वर्गीय राजकुमारी लधाराम वाधवानी"
+  },
+  "01/Jan/38": {
+    "<2hi>": "1-Jan-38"
+  },
+  "Rupchand Ladharam Wadhwani": {
+    "<2hi>": "रूपचंद लधाराम वाधवानी"
+  },
+  "04/Feb/59": {
+    "<2hi>": "4-Feb-59"
+  },
+  "Tarachand Ladharam Wadhwani": {
+    "<2hi>": "ताराचंद लधाराम वाधवानी"
+  },
+  "01/Jun/60": {
+    "<2hi>": "1-Jun-60"
+  },
+  "PU/PUN/0030908000/449": {
+    "<2hi>": "PU/PUN/0030908000/449"
+  },
+  "30/Jun/97": {
+    "<2hi>": "30-Jun-97"
+  },
+  "New contract w.e.f. 01-JUL-1994 till 30-JUN-1997": {
+    "<2hi>": "नया अनुबंध प्रभावी कार्य दिवस 01-जुलाई-1994 से 30-जून-1997 तक"
+  },
+  "order dated 30-JUN-1994": {
+    "<2hi>": "आदेश दिनांक 30-जून-1994"
+  },
+  "Appointment due given w.e.f. 01-JUL-1994 in the": {
+    "<2hi>": "देय नियुक्ति दिनांक प्रभावी कार्य दिवस से 01-जुलाई-1994 में"
+  },
+  "payscale of 1400-40-1800-50-2300 in 4th Pay": {
+    "<2hi>": "चौथे वेतन में 1400-40-1800-50-2300 का वेतनमान"
+  },
+  "Increment due given w.e.f. 01-JUL-1995 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-जुलाई-1995 में"
+  },
+  "His probation was cleared on 01-JUL-1995 vide": {
+    "<2hi>": "उनकी परिवीक्षा को 01-जुलाई-1995 के माध्यम से मंजूरी दी गई थी"
+  },
+  "Order No. P:ED:95 dated 01-JUL-1995": {
+    "<2hi>": "आदेश संख्या पी:ईडी:95 दिनांक 01-जुलाई-1995"
+  },
+  "in the payscale of 4500-125-7000 in 5th Pay": {
+    "<2hi>": "5वें वेतन आयोग में 4500-125-7000 का वेतनमान"
+  },
+  "Increment due given w.e.f. 01-JUL-1996 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-जुलाई-1996 में"
+  },
+  "payscale of 4500-125-7000 in 5th Pay Commission": {
+    "<2hi>": "5वें वेतन आयोग में 4500-125-7000 का वेतनमान"
+  },
+  "01/Oct/96": {
+    "<2hi>": "1-Oct-96"
+  },
+  "Promotion due given w.e.f. 01-OCT-1996 in the": {
+    "<2hi>": "प्रभावी कार्य दिवस से दी गई पदोन्नति 01-अक्तूबर-1996 में"
+  },
+  "payscale of 2000-60-2300-75-3200-100-3500 in 4th": {
+    "<2hi>": "चौथे वेतन आयोग में 2000-60-2300-75-3200-100-3500 का वेतनमान"
+  },
+  "Pay Commission": {
+    "<2hi>": "वेतन आयोग"
+  },
+  "payscale of 6500-200-10500 in 5th Pay": {
+    "<2hi>": "5वें वेतन आयोग में 6500-200-10500 का वेतनमान"
+  },
+  "01/Oct/97": {
+    "<2hi>": "1-Oct-97"
+  },
+  "Increment due given w.e.f. 01-OCT-1997 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-अक्तूबर-1997 में"
+  },
+  "30/Apr/01": {
+    "<2hi>": "30-Apr-01"
+  },
+  "New contract w.e.f. 01-MAY-1998 till 30-APR-2001": {
+    "<2hi>": "नया अनुबंध प्रभावी कार्य दिवस 01-मई-1998 से 30-अप्रैल-2001 तक"
+  },
+  "order dated 24-APR-1998": {
+    "<2hi>": "आदेश दिनांक 24-अप्रैल-1998"
+  },
+  "Promotion due given w.e.f. 01-MAY-1998 in the": {
+    "<2hi>": "प्रभावी कार्य दिवस से दी गई पदोन्नति 01-मई-1998 में"
+  },
+  "Increment due given w.e.f. 01-MAY-1999 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-मई-1999 में"
+  },
+  "Increment due given w.e.f. 01-MAY-2000 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-मई-2000 में"
+  },
+  "01/Apr/01": {
+    "<2hi>": "1-Apr-01"
+  },
+  "Promotion due given w.e.f. 01-APR-2001 in the": {
+    "<2hi>": "प्रभावी कार्य दिवस से दी गई पदोन्नति 01-अप्रैल-2001 में"
+  },
+  "Increment due given w.e.f. 01-MAY-2001 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-मई-2001 में"
+  },
+  "01/Apr/02": {
+    "<2hi>": "1-Apr-02"
+  },
+  "Increment due given w.e.f. 01-APR-2002 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-अप्रैल-2002 में"
+  },
+  "01/Apr/03": {
+    "<2hi>": "1-Apr-03"
+  },
+  "Increment due given w.e.f. 01-APR-2003 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-अप्रैल-2003 में"
+  },
+  "01/Apr/04": {
+    "<2hi>": "1-Apr-04"
+  },
+  "Increment due given w.e.f. 01-APR-2004 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-अप्रैल-2004 में"
+  },
+  "01/Apr/05": {
+    "<2hi>": "1-Apr-05"
+  },
+  "Increment due given w.e.f. 01-APR-2005 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 01-अप्रैल-2005 में"
+  },
+  "Promotion due given w.e.f. 01-JUL-2011 in the": {
+    "<2hi>": "प्रभावी कार्य दिवस से दी गई पदोन्नति 01-जुलाई-2011 में"
+  },
+  "Increment due given w.e.f. 09-JUL-2013 in the": {
+    "<2hi>": "देय वेतनवृद्धि प्रभावी कार्य दिवस 09-जुलाई-2013 में"
+  },
+  "31/Aug/26": {
+    "<2hi>": "31-Aug-26"
+  },
+  "Active Electronics": {
+    "<2hi>": "एक्टिव इलेक्ट्रॉनिक्स"
+  },
+  "01/Oct/87": {
+    "<2hi>": "1-Oct-87"
+  },
+  "30/Jun/88": {
+    "<2hi>": "30-Jun-88"
+  },
+  "Electronics Service Tech": {
+    "<2hi>": "इलेक्ट्रॉनिक्स सर्विस टेक"
+  },
+  "Engineer": {
+    "<2hi>": "इंजीनियर"
+  },
+  "ATCO Ind Ltd": {
+    "<2hi>": "एटीसीओ इंडस्ट्रीज लिमिटेड"
+  },
+  "18/Mar/89": {
+    "<2hi>": "18-Mar-89"
+  },
+  "24/Jun/91": {
+    "<2hi>": "24-Jun-91"
+  },
+  "PCB Section Incharge": {
+    "<2hi>": "पीसीबी अनुभाग प्रभारी"
+  },
+  "23/Dec/97": {
+    "<2hi>": "23-दिसंबर-97"
+  },
+  "27/Oct/99": {
+    "<2hi>": "27-Oct-99"
+  },
+  "21/Dec/00": {
+    "<2hi>": "21-दिसंबर-00"
+  },
+  "19/Dec/01": {
+    "<2hi>": "19-दिसंबर-01"
+  },
+  "06/May/02": {
+    "<2hi>": "6-May-02"
+  },
+  "31/Mar/05": {
+    "<2hi>": "31-Mar-05"
+  },
+  "Direct Entry By 1368 On Mon Feb 09": {
+    "<2hi>": "सोमवार फरवरी 09 को 1368 तक सीधा प्रवेश"
+  },
+  "16:21:50 GMT+05:30 2009": {
+    "<2hi>": "16:21:50 जीएमटी+05:30 2009"
+  },
+  "16:22:23 GMT+05:30 2009": {
+    "<2hi>": "16:22:23 जीएमटी+05:30 2009"
+  },
+  "16:22:47 GMT+05:30 2009": {
+    "<2hi>": "16:22:47 जीएमटी+05:30 2009"
+  },
+  "25/Apr/11": {
+    "<2hi>": "25-Apr-11"
+  },
+  "29/Apr/11": {
+    "<2hi>": "29-Apr-11"
+  },
+  "02/May/11": {
+    "<2hi>": "2-May-11"
+  },
+  "04/May/11": {
+    "<2hi>": "4-May-11"
+  },
+  "08/Jul/13": {
+    "<2hi>": "8-Jul-13"
+  },
+  "25/Jul/13": {
+    "<2hi>": "25-Jul-13"
+  },
+  "26/Jul/13": {
+    "<2hi>": "26-Jul-13"
+  },
+  "13/Jan/14": {
+    "<2hi>": "13-Jan-14"
+  },
+  "20/Jan/14": {
+    "<2hi>": "20-Jan-14"
+  },
+  "10/Feb/14": {
+    "<2hi>": "10-Feb-14"
+  },
+  "12/Nov/15": {
+    "<2hi>": "12-नवंबर-15"
+  },
+  "13/Nov/15": {
+    "<2hi>": "13-नवंबर-15"
+  },
+  "02/Nov/20": {
+    "<2hi>": "02-नवंबर-20"
+  },
+  "05/Nov/20": {
+    "<2hi>": "05-नवंबर-20"
+  },
+  "16:32:54 GMT+05:30 2009": {
+    "<2hi>": "16:32:54 जीएमटी+05:30 2009"
+  },
+  "16:33:08 GMT+05:30 2009": {
+    "<2hi>": "16:33:08 जीएमटी+05:30 2009"
+  },
+  "16:32:02 GMT+05:30 2009": {
+    "<2hi>": "16:32:02 जीएमटी+05:30 2009"
+  },
+  "16:32:36 GMT+05:30 2009": {
+    "<2hi>": "16:32:36 जीएमटी+05:30 2009"
+  },
+  "16:31:25 GMT+05:30 2009": {
+    "<2hi>": "16:31:25 जीएमटी+05:30 2009"
+  },
+  "16:31:43 GMT+05:30 2009": {
+    "<2hi>": "16:31:43 जीएमटी+05:30 2009"
+  },
+  "16:30:30 GMT+05:30 2009": {
+    "<2hi>": "16:30:30 जीएमटी+05:30 2009"
+  },
+  "16:31:02 GMT+05:30 2009": {
+    "<2hi>": "16:31:02 जीएमटी+05:30 2009"
+  },
+  "Col Asheet Kumar Nath (Retd)": {
+    "<2hi>": "कर्नल अशीत कुमार नाथ (सेवानिवृत्त)"
+  },
+  "Dr Ajai Kumar": {
+    "<2hi>": "डॉ अजय कुमार"
+  },
+  "Mr Karimullah Shaik": {
+    "<2hi>": "करीमुल्लाह शेख"
+  },
+  "Ms Swati Mehta": {
+    "<2hi>": "सुश्री स्वाति मेहता"
+  },
+  "Ms Lenali Santosh Singh": {
+    "<2hi>": "सुश्री लेनाली सिंह"
+  },
+  "Mr Daya Chand Mandad": {
+    "<2hi>": "दया चंद मंडाड"
+  },
+  "Mr Santosh Kumar": {
+    "<2hi>": "संतोष कुमार"
+  },
+  "Ms Jahnavi Bodhankar": {
+    "<2hi>": "सुश्री जान्हवी बोधनकर"
+  },
+  "Dr Aparupa Dasgupta": {
+    "<2hi>": "डॅा अपरुपा दासगुप्ता"
+  },
+  "Mr Krishnanjan Shyamal Kumar Bhattacharjee": {
+    "<2hi>": "कृष्णांजन श्यामल कुमार भट्टाचार्जी"
+  },
+  "Ms Vishakha Chandrakant Dhutadmal": {
+    "<2hi>": "सुश्री विशाखा चंद्रकांत धुतडमल"
+  },
+  "Ms Babita Sandeep Shinde": {
+    "<2hi>": "श्रीमती बबिता संदीप शिंदे"
+  },
+  "Mr Chandrakant Pandharinath Dhutadmal": {
+    "<2hi>": "श्री चंद्रकांत पंढरीनाथ धुतडमल"
+  },
+  "Ms Dipali Namdeo Shinde": {
+    "<2hi>": "सुश्री दीपाली नामदेव शिंदे"
+  },
+  "Mr Mahesh Bhargava": {
+    "<2hi>": "श्री महेश भार्गव"
+  },
+  "Mr Shashi Pal Singh": {
+    "<2hi>": "श्री शशी पाल सिंह"
+  },
+  "Ms Pallavi Arun Dhanvijay": {
+    "<2hi>": "पल्लवी धनविजय"
+  },
+  "Ms Charulata Sandeep Sawarkar": {
+    "<2hi>": "श्रीमती चारुलता संदीप सावरकर"
+  },
+  "Mr Kapil Mehrotra": {
+    "<2hi>": "श्री कपिल मेहरोत्रा"
+  },
+  "Mr Pavan Shankarrao Dhote": {
+    "<2hi>": "श्री पवन शंकरराव धोटे"
+  },
+  "Ms Neha Gupta": {
+    "<2hi>": "नेहा गुप्ता"
+  },
+  "Mr Puneet Grover": {
+    "<2hi>": "श्री पुनीत ग्रोवर"
+  },
+  "Mr Sudhanshu Hari Das Debnath": {
+    "<2hi>": "श्री सुधांशु देबनाथ"
+  },
+  "Mr Pavan Anirudh Kurariya": {
+    "<2hi>": "पवन कुररिया"
+  },
+  "Mr Vivek Liladhar Kaidalwar": {
+    "<2hi>": "विवेक लीलाधर कैदलवार"
+  },
+  "Mr Kamlesh Vasantrao Ramteke": {
+    "<2hi>": "कमलेश वसंतराव रामटेके"
+  },
+  "Mr Ronak Rajeshkumar Shah": {
+    "<2hi>": "श्री रोनक राजेशकुमार शाह"
+  },
+  "Mr Prashant Uma Shankar Chaudhary": {
+    "<2hi>": "प्रशांत उमाशंकर चौधरी"
+  },
+  "Mr Amit Srivastava": {
+    "<2hi>": "श्री अमित श्रीवास्तव"
+  },
+  "Ms Shraddha Amit Kalele": {
+    "<2hi>": "श्रीमती श्रद्धा अमित कालेले"
+  },
+  "Mr Prashant Chandrakant Indapure": {
+    "<2hi>": "प्रशांत चंद्रकांत इंदापुरे"
+  },
+  "Dr Srinivasa Rao Mutcha": {
+    "<2hi>": "डॉ श्रीनिवास राव मुत्चा"
+  },
+  "Mr Hemant Kumar Khogta": {
+    "<2hi>": "हेमंत कुमार खोगटा"
+  },
+  "Mr Shrikant V Tayade": {
+    "<2hi>": "श्री श्रीकांत विश्वनाथ तायडे"
+  },
+  "Mr Mohammad Aziz Maalik": {
+    "<2hi>": "श्री मोहम्मद अज़ीज़ मालिक"
+  },
+  "Mr Shivakarthik S": {
+    "<2hi>": "शिवाकार्तिक एस"
+  },
+  "Mr Niteshkumar Ramdas Harne": {
+    "<2hi>": "नितेशकुमार हरणे"
+  },
+  "Mr Bhushan Badhan": {
+    "<2hi>": "श्री भूषण बधान"
+  },
+  "Ms Neha Narahar Aphale": {
+    "<2hi>": "श्रीमती नेहा नरहर आफळे"
+  },
+  "Dr (Ms) Kajal Pandey": {
+    "<2hi>": "डॉ (श्रीमती) काजल पाण्डे"
+  },
+  "Ms Neetu Verma": {
+    "<2hi>": "श्रीमती नीतू वर्मा"
+  },
+  "Mr Md Shahzad Alam": {
+    "<2hi>": "श्री मोहम्मद शहज़ाद आलम"
+  },
+  "Ms Nutan Shrikant Hasalkar": {
+    "<2hi>": "श्रीमती नूतन श्रीकांत हासलकर"
+  },
+  "Mr Laishram Rishikanta Meitei": {
+    "<2hi>": "लाइश्रम ऋषिकांत मैतै"
+  },
+  "Mr Sachin Vinayak Nandurkar": {
+    "<2hi>": "सचिन विनायक नांदुरकर"
+  },
+  "Mr Navin Shaw": {
+    "<2hi>": "श्री नवीन साव"
+  },
+  "Mr Shivaji Purkar": {
+    "<2hi>": "श्री शिवाजी पुरकर"
+  },
+  "Mr Hruturaj Nikam": {
+    "<2hi>": "ऋतुराज निकम"
+  },
+  "Mr Prashant Prakash Khairnar": {
+    "<2hi>": "प्रशांत प्रकाश खैरनार"
+  },
+  "Mr Kisan S Thonge": {
+    "<2hi>": "श्री किसन सत्यवान ठोंगे"
+  },
+  "Ms Swati Omprakash Mhasal": {
+    "<2hi>": "श्रीमती स्वाती ओमप्रकाश म्हसाल"
+  },
+  "Mr Jaideep Thorat": {
+    "<2hi>": "श्री जयदीप थोरात"
+  },
+  "Ms Abha Rahul Deshmukh": {
+    "<2hi>": "श्रीमती आभा राहुल देशमुख"
+  },
+  "Ms Rachana Pankaj Bhende": {
+    "<2hi>": "श्रीमती रचना पंकज भेंडे"
+  },
+  "Mr Akshay Vishnu Shelke": {
+    "<2hi>": "श्री अक्षय विष्णू शेळके"
+  },
+  "Mr Satish Prakash Arabhavi": {
+    "<2hi>": "सतीश प्रकाश आरभावी"
+  },
+  "Mr Ameya Dhananjay Yande": {
+    "<2hi>": "अमेय धनंजय यंदे"
+  },
+  "Ms Rajshri B Bhosale": {
+    "<2hi>": "राजश्री बी भोसले"
+  },
+  "Ms Sheetal Sudhir Garade": {
+    "<2hi>": "शीतल सुधीर गराडे"
+  },
+  "Mr Devendra Kumar": {
+    "<2hi>": "देवेन्द्र कुमार"
+  },
+  "Mr Karuneshwar Prasad": {
+    "<2hi>": "करुणेश्वर प्रसाद"
+  },
+  "Mr Abhishek Soni": {
+    "<2hi>": "श्री अभिषेक सोनी"
+  },
+  "Ms Pooja Rai": {
+    "<2hi>": "सुश्री पूजा राय"
+  },
+  "Ms. Shivangi Shukla": {
+    "<2hi>": "सुश्री शिवांगी शुक्ला"
+  },
+  "Ms Prajakta Memane": {
+    "<2hi>": "प्राजक्ता मेमाणे"
+  },
+  "Ms Priyanka Sharad More": {
+    "<2hi>": "प्रियंका शरद मोरे"
+  },
+  "Mr Govind Saxena": {
+    "<2hi>": "गोविन्द सक्सेना"
+  },
+  "Mr Shubham Bapu Vidyagaj": {
+    "<2hi>": "शुभम बापू विद्यागज"
+  },
+  "Ms Sanhita Vitthal Patil": {
+    "<2hi>": "सुश्री संहिता विठ्ठल पाटील"
+  },
+  "Ms Shital Arun Meshram": {
+    "<2hi>": "शीतल अरुण मेश्राम"
+  },
+  "Mr Rahul Rajendra Patil": {
+    "<2hi>": "श्री राहुल राजेंद्र पाटील"
+  },
+  "Mr Saeel Girish Dhatrak": {
+    "<2hi>": "साईल गिरीष धात्रक"
+  },
+  "Mr Yash Rajesh Sawalkar": {
+    "<2hi>": "यश राजेश सावलकर"
+  },
+  "Mr Pulkit Joshi": {
+    "<2hi>": "पुलकित जोशी"
+  },
+  "Mr Nihal Ram Kumbhalkar": {
+    "<2hi>": "निहाल राम कुंभलकर"
+  },
+  "Mr Kishan Chand Arora": {
+    "<2hi>": "किशन चंद अरोरा"
+  },
+  "Mr Saket Kumar": {
+    "<2hi>": "साकेत कुमार"
+  },
+  "Mr Akhilesh Kishor Deulkar": {
+    "<2hi>": "अखिलेश किशोर देऊळकर"
+  },
+  "Mr Sanket Motilal Kadam": {
+    "<2hi>": "संकेत मोतीलाल कदम"
+  },
+  "Mr Sagar Suresh Gandale": {
+    "<2hi>": "सागर सुरेश गांदले"
+  },
+  "Mr Vishnu Samadhan Mhaske": {
+    "<2hi>": "विष्णू समाधान म्हस्के"
+  },
+  "Mr Mayur Vasant Patil": {
+    "<2hi>": "मयूर वसंत पाटील"
+  },
+  "Ms Pradnya Vilas Katigar": {
+    "<2hi>": "सुश्री प्रज्ञा विलास कटिगर"
+  },
+  "Mr Mayank Raj": {
+    "<2hi>": "मयंक राज"
+  },
+  "Mr Abhang Shrirang Kekde": {
+    "<2hi>": "अभंग श्रीरंग केकडे"
+  },
+  "Mr Neelkumar Kamleshkumar Shah": {
+    "<2hi>": "श्री नीलकुमार कमलेशकुमार शाह"
+  },
+  "Mr Sailada Srikanth": {
+    "<2hi>": "शैलदा श्रीकांत"
+  },
+  "Mr Sachin Shamrao Khandare": {
+    "<2hi>": "सचिन शामराव खंडारे"
+  },
+  "Mr Krushna Ravindra Panchvishe": {
+    "<2hi>": "कृष्णा रविंद्र पंचविशे"
+  },
+  "Ms Shamal Ramesh Walve": {
+    "<2hi>": "शामल रमेश वलवे"
+  },
+  "Ms Pradnya Pramod Jagtap": {
+    "<2hi>": "प्रज्ञा प्रमोद जगताप"
+  },
+  "Mr Upender Yadav": {
+    "<2hi>": "उपेन्द्र यादव"
+  },
+  "Ms Akhila T M": {
+    "<2hi>": "अखिला टी एम"
+  },
+  "Mr Amay Sharma": {
+    "<2hi>": "अमय शर्मा"
+  },
+  "Mr Sibadatta Sasmal": {
+    "<2hi>": "सिबादत्ता सास्मल"
+  },
+  "Ms Snehal Mahadev Dangare": {
+    "<2hi>": "स्नेहल महादेव डांगरे"
+  },
+  "Mr Shivam Bhargava": {
+    "<2hi>": "शिवम भार्गव"
+  },
+  "Mr Samriddha Bajpai": {
+    "<2hi>": "समृद्ध बाजपेयी"
+  },
+  "Mr Kedar Kalyanrao Apet": {
+    "<2hi>": "केदार कल्याणराव आपेट"
+  },
+  "Mr Shantanu Vinayak Dedhe": {
+    "<2hi>": "शांतनु विनायक देढे"
+  },
+  "Mr Pratik Shivaji Thombare": {
+    "<2hi>": "प्रतिक शिवाजी ठोंबरे"
+  },
+  "Ms Akshata Ravasaheb Sawant": {
+    "<2hi>": "सुश्री अक्षता रावसाहेब सावंत"
+  },
+  "Mr Aditya Dilip Vairagade": {
+    "<2hi>": "आदित्य दिलीप वैरागड़े"
+  },
+  "Ms Poonam Satish Admute": {
+    "<2hi>": "पूनम सतिश आडमुटे"
+  },
+  "Mr Pratik Bhimrao Dhulubulu": {
+    "<2hi>": "प्रतिक भीमराव धुळूबुळू"
+  },
+  "Mr Akash Dattatray Mulik": {
+    "<2hi>": "आकाश दत्तात्रय मुळीक"
+  },
+  "Mr Ajay Dattatray Patil": {
+    "<2hi>": "अजय दत्तात्रय पाटील"
+  },
+  "Mr Sambhaji Devrao Wankhede": {
+    "<2hi>": "संभाजी देवराव वानखेड़े"
+  },
+  "Mr Rushikesh Rajkumar Raut": {
+    "<2hi>": "श्री ऋषिकेश राजकुमार राउत"
+  },
+  "Ms Ashwini Subhash Jaybhaye": {
+    "<2hi>": "अश्विनी सुभाष जयभाये"
+  },
+  "Mr Suraj Arun Gadhe": {
+    "<2hi>": "सुरज अरुण गाढे"
+  },
+  "Mr Yogesh Kumar Shishodia": {
+    "<2hi>": "योगेश कुमार शिशौदिया"
+  },
+  "Mr Saurabh Surendra Salunkhe": {
+    "<2hi>": "सौरभ सुरेंद्र साळुंखे"
+  },
+  "Mr Nilesh Tiwari": {
+    "<2hi>": "श्री नीलेश तिवारी"
+  },
+  "Mr Mrugank Purohit": {
+    "<2hi>": "श्री मृगांक पुरोहित"
+  },
+  "Col Shubir Kumar Chakravarty Retd": {
+    "<2hi>": "कर्नल शुबीर कुमार चक्रवर्ती"
+  },
+  "Mr Neelendra Pratap Singh": {
+    "<2hi>": "नीलेंद्र प्रताप सिंह"
+  },
+  "Mr Somnath Kailas Jarhad": {
+    "<2hi>": "श्री सोमनाथ कैलास जरहाद"
+  },
+  "Mr Anrudh Singh Bhadauria": {
+    "<2hi>": "अनिरुद्ध सिंह भदौरिया"
+  },
+  "Mr Ashish Gautam": {
+    "<2hi>": "आशीष गौतम"
+  },
+  "Mr Amit Giri": {
+    "<2hi>": "अमित गिरी"
+  },
+  "Mr Tarun Kumar": {
+    "<2hi>": "तरुण कुमार"
+  },
+  "Mr Tushar Sudam Phalke": {
+    "<2hi>": "तुषार सुदाम फलके"
+  },
+  "Mr Nitin Kumar Saxena": {
+    "<2hi>": "नितिन कुमार सक्सेना"
+  },
+  "Mr Abhay Dulichandji Bora": {
+    "<2hi>": "अभय दुलीचंदजी बोरा"
+  },
+  "Ms Anuraginee Swain": {
+    "<2hi>": "अनुरागिणी स्वेन"
+  },
+  "Ms Payal Gaur": {
+    "<2hi>": "पायल गौर"
+  },
+  "Mr Saket Bari": {
+    "<2hi>": "साकेत बारी"
+  },
+  "Mr Abhijeet Ramrao Jadhav": {
+    "<2hi>": "अभिजीत रामराव जाधव"
+  },
+  "Mr Abhishek Varshney": {
+    "<2hi>": "अभिषेक वरसने"
+  },
+  "Mr Deepak Gupta": {
+    "<2hi>": "दीपक गुप्ता"
+  },
+  "Mr Vaibhav Shakya": {
+    "<2hi>": "वैभव शाक्य"
+  },
+  "Mr Varun Pandya": {
+    "<2hi>": "वरुण पंड्या"
+  },
+  "Mr Piyush Gajananrao Tharkar": {
+    "<2hi>": "पियुष गजाननराव थारकर"
+  },
+  "Mr Shivam Saroha": {
+    "<2hi>": "श्री शिवम सरोहा"
+  },
+  "Mr Viraj Vikas Pawar": {
+    "<2hi>": "विराज विकास पवार"
+  },
+  "Mr Mayur Pralhad Bilapate": {
+    "<2hi>": "मयूर प्रल्हाद बिलापटे"
+  },
+  "Mr Omkar Suresh Nawadkar": {
+    "<2hi>": "ओंकार सुरेश नावडकर"
+  },
+  "Mr Tarun Kumar Gupta": {
+    "<2hi>": "तरुण कुमार गुप्ता"
+  },
+  "Ms Tanuja Yashwant Sawai": {
+    "<2hi>": "तनुजा यशवंत सवाई"
+  },
+  "Mr Chalasani Murlikrishna Venkatesh": {
+    "<2hi>": "चलसानी मुरलीकृष्णा वेंकटेश"
+  },
+  "Ms Shweta Sachin Naik": {
+    "<2hi>": "श्वेता सचिन नाईक"
+  },
+  "Mr Shantanu Ravindra Mali": {
+    "<2hi>": "शांतनु रवींद्र माली"
+  },
+  "Mr Rahul Narsimalu Wangawar": {
+    "<2hi>": "राहुल नरसिमालू वंगावार"
+  },
+  "Mr Rohit Gupta": {
+    "<2hi>": "रोहित गुप्ता"
+  },
+  "Mr Shivam Sharma": {
+    "<2hi>": "शिवम शर्मा"
+  },
+  "Mr Pankaj Ajit Patil": {
+    "<2hi>": "पंकज अजित पाटील"
+  },
+  "Mr Shishpal Negi": {
+    "<2hi>": "शिशपाल नेगी"
+  },
+  "Mr Deepak Rawat": {
+    "<2hi>": "दीपक रावत"
+  },
+  "Mr Shivam Singh Chauhan": {
+    "<2hi>": "शिवम सिंह चौहान"
+  },
+  "Mr Sumit Kumar": {
+    "<2hi>": "सुमित कुमार"
+  },
+  "Mr Akshay Babasaheb More": {
+    "<2hi>": "अक्षय बाबासाहेब मोरे"
+  },
+  "Mr Hrishikesh Shankar Devgude": {
+    "<2hi>": "ऋषिकेश शंकर देवगुडे"
+  },
+  "Mr Yogesh M": {
+    "<2hi>": "योगेश एम"
+  },
+  "Mr Doshi Pradnyesh Jitendra": {
+    "<2hi>": "दोषी प्रदनेश जितेंद्र"
+  },
+  "Mr Akshay Pitambar Patil": {
+    "<2hi>": "अक्षय पितांबर पाटील"
+  },
+  "Ms Utkarsha Ramchandra Patil": {
+    "<2hi>": "उत्कर्षा रामचंद्र पाटील"
+  },
+  "Mr Aman Paliwal": {
+    "<2hi>": "अमन पालीवाल"
+  },
+  "Mr Rajat Manoj Shrivastav": {
+    "<2hi>": "रजत मनोज श्रीवास्तव"
+  },
+  "Ms Meghana Dinesh Marathe": {
+    "<2hi>": "मेघना दिनेश मराठे"
+  },
+  "Ms Harshita Paliwal": {
+    "<2hi>": "हर्षिता पालीवाल"
+  },
+  "Mr Amit Kumar Sharma": {
+    "<2hi>": "अमित कुमार शर्मा"
+  },
+  "Ms Anita Sharma": {
+    "<2hi>": "अनीता शर्मा"
+  },
+  "Mr Kishor Ganesh Janjal": {
+    "<2hi>": "किशोर गणेश जंजाळ"
+  },
+  "Ms Tejal Chandrakant Chaudhari": {
+    "<2hi>": "तेजल चंद्रकांत चौधरी"
+  },
+  "Mr Ashish Arya": {
+    "<2hi>": "आशीष आर्य"
+  },
+  "Mr Satyam Mishra": {
+    "<2hi>": "सत्यम मिश्रा"
+  },
+  "Mr Shubham Suresh Varal": {
+    "<2hi>": "शुभम सुरेश वराळ"
+  },
+  "Mr Aditya Shyam Patrange": {
+    "<2hi>": "आदित्य श्याम पतरंगे"
+  },
+  "Ms Aishwarya Narendra Bhagwat": {
+    "<2hi>": "ऐश्वर्या नरेंद्र भागवत"
+  },
+  "Mr Shweth Sanjiv Kenkre": {
+    "<2hi>": "श्वेत संजीव केंकरे"
+  },
+  "Mr Vaibhav Kumar Dewangan": {
+    "<2hi>": "वैभव कुमार देवांगन"
+  },
+  "Mr Marabathula Ashok": {
+    "<2hi>": "मारबथुला अशोक"
+  },
+  "Ms Kanika Ahlawat": {
+    "<2hi>": "कनिका अहलावत"
+  },
+  "Mr Shikhar Raj": {
+    "<2hi>": "शिखर राज"
+  },
+  "Mr Abhishek Roy Choudhury": {
+    "<2hi>": "अभिषेक राय चौधरी"
+  },
+  "Mr Abhishek Tomar": {
+    "<2hi>": "अभिषेक तोमर"
+  },
+  "Ms Sapna Singh": {
+    "<2hi>": "सपना सिंह"
+  },
+  "Ms Chahat Garg": {
+    "<2hi>": "चाहत गर्ग"
+  },
+  "Ms Ankita Bhargava": {
+    "<2hi>": "सुश्री अंकिता भार्गव"
+  },
+  "Mr Aditya Ashokrao Dharmadhikari": {
+    "<2hi>": "श्री आदित्य अशोकराव धर्माधिकारी"
+  },
+  "Mr Shubham Raosaheb Ransing": {
+    "<2hi>": "श्री शुभम रावसाहेब रणसिंग"
+  },
+  "Mr Gaur Sunder": {
+    "<2hi>": "गौर सुंदर"
+  },
+  "Mr Amit Gupta": {
+    "<2hi>": "अमित गुप्ता"
+  },
+  "Mr Devashish Tamrakar": {
+    "<2hi>": "श्री देवाशीष ताम्रकार"
+  },
+  "Mr Suresh Prem Kumar Sikka": {
+    "<2hi>": "सुरेश सिक्का"
+  },
+  "Ms Vineeta Tiwari": {
+    "<2hi>": "श्रीमती विनीता तिवारी"
+  },
+  "Mr Kaushal Kishor Sharma": {
+    "<2hi>": "श्री कौशल किशोर शर्मा"
+  },
+  "Mr Nitin Vithalrao Pawar": {
+    "<2hi>": "नितिन विट्ठलराव पवार"
+  },
+  "Ms Namrata Sameer Ailawar": {
+    "<2hi>": "सुश्री नम्रता समीर ऐलवार"
+  },
+  "Ms Ranjana Anil Karade": {
+    "<2hi>": "श्रीमती रंजना अनिल करडे"
+  },
+  "Mr Ankur Bhushan Gajbhiye": {
+    "<2hi>": "श्री अंकुर गजभिये"
+  },
+  "Ms Risha P R": {
+    "<2hi>": "श्रीमती रिषा पी आर"
+  },
+  "Mr Sandeep Sahane": {
+    "<2hi>": "श्री संदीप सहाणे"
+  },
+  "Ms Vaishali Maheshkar": {
+    "<2hi>": "वैशाली महेशकर"
+  },
+  "Mr Soumyakanta Gadadhar Behera": {
+    "<2hi>": "सौम्यकांत बेहेरा"
+  },
+  "Ms Gita Yogesh Gosavi": {
+    "<2hi>": "गीता योगेश गोसावी"
+  },
+  "Ms Harshada Yogesh Deshpande": {
+    "<2hi>": "हर्षदा योगेश देशपांडे"
+  },
+  "Mr Parimal Prabhakar Wagh": {
+    "<2hi>": "परिमल प्रभाकर वाघ"
+  },
+  "Ms Madhuri Ajay Lohia": {
+    "<2hi>": "माधुरी अजय लोहिया"
+  },
+  "Mr Pravin Harishchandra Vadke": {
+    "<2hi>": "प्रविण हरिश्चंद्र वडके"
+  },
+  "Ms Deepa Vivek Pusalkar": {
+    "<2hi>": "दीपा विवेक पुसालकर"
+  },
+  "Ms Sushma S Pawar": {
+    "<2hi>": "सुषमा पवार"
+  },
+  "Mr Prakash Dnyanoba Devkule": {
+    "<2hi>": "श्रीप्रकाश ज्ञानोबा देवकुळे"
+  },
+  "Ms Neelam Rawat": {
+    "<2hi>": "नीलम रावत"
+  },
+  "Mr Dilip Rama Gawade": {
+    "<2hi>": "दिलिप रामा गावडे"
+  },
+  "Mr Ravindra Rajaram Ruptakke": {
+    "<2hi>": "श्री रवीन्द्र राजाराम रूपटक्के"
+  },
+  "Mr Kurre Gurraju": {
+    "<2hi>": "श्री कुर्रे गुर्राजू"
+  },
+  "Mr Satyendra Kumar Verma": {
+    "<2hi>": "श्री सत्येंद्र कुमार वर्मा"
+  },
+  "Dr Priyanka Ranade": {
+    "<2hi>": "डॉ प्रियंका रानाडे"
+  },
+  "Ms Dhanashri Prashant Vaidya": {
+    "<2hi>": "धनश्री प्रशांत वैद्य"
+  },
+  "Ms Purvi Ajit Singh Tomar": {
+    "<2hi>": "श्रीमती पूर्वी अजीत सिंह तोमर"
+  },
+  "Ms Manjusha Yogesh Kulkarni": {
+    "<2hi>": "मंजूषा योगेश कुलकर्णी"
+  },
+  "Ms Arpita Anand Kulkarni": {
+    "<2hi>": "अर्पिता आनंद कुलकर्णी"
+  },
+  "Ms Swati Abhijit Salunkhe": {
+    "<2hi>": "श्रीमती स्वाति सालुंखे"
+  },
+  "Mr Prabhat Singh": {
+    "<2hi>": "श्री प्रभात सिंह"
+  },
+  "Mr Kulvant Kumar": {
+    "<2hi>": "कुलवंत कुमार"
+  },
+  "Mr Pratik Parasharam Patil": {
+    "<2hi>": "प्रतिक परशराम पाटील"
+  },
+  "Mr Abhishek Kumar": {
+    "<2hi>": "अभिषेक कुमार"
+  },
+  "Mr Bitan Maity": {
+    "<2hi>": "श्री बितान माइति"
+  },
+  "Mr Krushna Purushottam Mundada": {
+    "<2hi>": "कृष्णा मुंदडा"
+  },
+  "Ms Madhuri Sharad Nimbalkar": {
+    "<2hi>": "माधुरी निंबाळकर"
+  },
+  "Ms Vaishali Jain": {
+    "<2hi>": "वैशाली जैन"
+  },
+  "Mr Nidaan Rajeshwar Gaddpawar": {
+    "<2hi>": "श्री निदान राजेश्वर गड्डपवार"
+  },
+  "Ms Priti Dahiphale": {
+    "<2hi>": "प्रीति दहिफले"
+  },
+  "Mr Abhishek Sharma": {
+    "<2hi>": "अभिषेक शर्मा"
+  },
+  "Ms Priyanshi Sohani": {
+    "<2hi>": "प्रियांशी सोहानी"
+  },
+  "Mr Kalpesh Prabhakar Patil": {
+    "<2hi>": "श्री कल्पेश प्रभाकर पाटिल"
+  },
+  "Mr Devansh Bisht": {
+    "<2hi>": "श्री देवांश बिष्ट"
+  },
+  "Ms Shweta Gajbhiye": {
+    "<2hi>": "सुश्री श्वेता गजभिये"
+  },
+  "Ms Pranjali Adgokar": {
+    "<2hi>": "प्रांजलि अडगोकर"
+  },
+  "Ms Riya Kunal Pardeshi": {
+    "<2hi>": "रिया कुणाल परदेशी"
+  },
+  "Mr Atiqurrehman Shaikh": {
+    "<2hi>": "अतीकुर्रहमान शेख"
+  },
+  "Mr Krishna Sunil Gaikwad": {
+    "<2hi>": "श्री कृष्णा सुनील गायकवाड"
+  },
+  "Mr Sagar Gulhane": {
+    "<2hi>": "सागर गुलहाने"
+  },
+  "Mr Rohan Vasant Awari": {
+    "<2hi>": "रोहन वसंत आवारी"
+  },
+  "Ms Shalaka Madhukar Pardeshi": {
+    "<2hi>": "शलाका मधुकर परदेशी"
+  },
+  "Mr Ashish Kumar Yadav": {
+    "<2hi>": "आशीष कुमार यादव"
+  },
+  "Mr Abhijit Abhimanyu Raut": {
+    "<2hi>": "अभिजित अभिमन्यु राऊत"
+  },
+  "Mr Deep Ajay Ghadiali": {
+    "<2hi>": "दीप अजय घड़ियाली"
+  },
+  "Mr Suraj Vilas Bavdekar": {
+    "<2hi>": "सुरज विलास बावडेकर"
+  },
+  "Ms Aishwarya Sanjeevan Ghadage": {
+    "<2hi>": "ऐश्वर्या संजीवन घाडगे"
+  },
+  "Mr Suraj Gundu Kanbarkar": {
+    "<2hi>": "सुरज गुंडू कणबरकर"
+  },
+  "Mr Shubham Manoj Hivare": {
+    "<2hi>": "शुभम मनोज हिवारे"
+  },
+  "Ms Varsha Bhaskar Pawar": {
+    "<2hi>": "वर्षा भास्कर पवार"
+  },
+  "Mr Vishal Vijay Raje": {
+    "<2hi>": "विशाल विजय राजे"
+  },
+  "Ms Shanur Firoj Jamadar": {
+    "<2hi>": "शानुर फ़िरोज जमादार"
+  },
+  "Ms Pratiksha Ram Gacche": {
+    "<2hi>": "प्रतीक्षा राम गच्चे"
+  },
+  "Ms Gayle Fiona Fernandes": {
+    "<2hi>": "गय्ले फिओन फर्नांडीस"
+  },
+  "Mr Binay Kumar Diwakar Dubey": {
+    "<2hi>": "श्री बिनय कुमार दिवाकर दुबे"
+  },
+  "Mr Piyush Deepak Hambardikar": {
+    "<2hi>": "पियुष दिपक हंबर्डिकर"
+  },
+  "Mr Ashutosh Santosh Sawant": {
+    "<2hi>": "श्री आशुतोष संतोष सावंत"
+  },
+  "Ms Shamali Milind Badve": {
+    "<2hi>": "सुश्री शामली मिलिंद बडवे"
+  },
+  "Ms Akanksha Sachan": {
+    "<2hi>": "आकांक्षा सचान"
+  },
+  "Ms Bhamidi Srujana Phani Kameswari": {
+    "<2hi>": "श्रीमती भामिदी श्रुजना फणी कामेश्वरी"
+  },
+  "Mr Ritwik Ranjan": {
+    "<2hi>": "ऋत्विक रंजन"
+  },
+  "Ms Sayali Suresh Chandgude": {
+    "<2hi>": "सायली सुरेश चांदगुडे"
+  },
+  "Mr Yash Gupta": {
+    "<2hi>": "यश अभिलाष गुप्ता"
+  },
+  "Ms Dhanashree Nilkanth Sagane": {
+    "<2hi>": "धनश्री नीलकंठ सगणे"
+  },
+  "Mr Abu Tanzeem Khan": {
+    "<2hi>": "अबू तंज़ीम ख़ान"
+  },
+  "Mr Rohit Dayanand Nimbalkar": {
+    "<2hi>": "रोहित निंबालकर"
+  },
+  "Mr Bhushan Ravindra Badgujar": {
+    "<2hi>": "भूषण रवींद्र बडगुजर"
+  },
+  "Ms Jyoti Radheshyam Sharma": {
+    "<2hi>": "ज्योति राधेश्याम शर्मा"
+  },
+  "Ms Vaishnavi Indrajeet Phutane": {
+    "<2hi>": "वैष्णवी इंद्रजीत फुटाणे"
+  },
+  "Mr Atharva Ratnakar Kulkarni": {
+    "<2hi>": "अथर्व रत्नाकर कुलकर्णी"
+  },
+  "Mr Ajinkya Prabhakar Bhosale": {
+    "<2hi>": "श्री अजिंक्य प्रभाकर भोसले"
+  },
+  "Mr Moulik Dayal": {
+    "<2hi>": "मौलिक दयाल"
+  },
+  "Mr Akash Shivaji Ghodke": {
+    "<2hi>": "आकाश शिवाजी घोडके"
+  },
+  "Mr Nikhil Gulabrao Saner": {
+    "<2hi>": "श्री निखिल गुलाबराव सनेर"
+  },
+  "Mr Anand Shashikant Kore": {
+    "<2hi>": "आनंद शशिकांत कोरे"
+  },
+  "Mr Moin A Khorajiya": {
+    "<2hi>": "श्री मोइन ए खोरजिया"
+  },
+  "Ms Deepali Nilesh Pingle": {
+    "<2hi>": "दीपाली नीलेश पिंगले"
+  },
+  "Ms Swati Gairola": {
+    "<2hi>": "स्वाति गैरोला"
+  },
+  "Ms Smita Amit Pande": {
+    "<2hi>": "स्मिता अमित पांडे"
+  },
+  "Mr Prashant Bansod": {
+    "<2hi>": "प्रशांत बंसोड़"
+  },
+  "Mr Shriniwas Sharad Pownikar": {
+    "<2hi>": "श्रीनिवास शरद पवनीकर"
+  },
+  "Mr Bhupendra Kanungo": {
+    "<2hi>": "श्री भूपेंद्र कानूनगो"
+  },
+  "Mr Satyabrata Mishra": {
+    "<2hi>": "सत्यब्रत मिश्रा"
+  },
+  "Mr Nishant Sidram Kamble": {
+    "<2hi>": "श्री निशांत सिदराम कांबले"
+  },
+  "Mr Rajesh Kelkar": {
+    "<2hi>": "राजेश केलकर"
+  },
+  "Ms Madhavi C Pulekar": {
+    "<2hi>": "माधवी पुळेकर"
+  },
+  "Mr Shailendra Solomon Mankame": {
+    "<2hi>": "शैलेंद्र मानकामे"
+  },
+  "Mr Suresh Dashrath Chattekari": {
+    "<2hi>": "श्री सुरेश दशरथ चटटेकरी"
+  },
+  "Mr Bhola Nath Dahal": {
+    "<2hi>": "भोलानाथ दाहाल"
+  },
+  "Mr Shashikant Dinkar Kamble": {
+    "<2hi>": "शशिकांत दिनकर कांबळे"
+  },
+  "Mr Sunil Ramkrishna Nichal": {
+    "<2hi>": "श्री सुनील रामकृष्ण निचल"
+  },
+  "Mr Arun Ramkishor Verma": {
+    "<2hi>": "अरुण रामकिशोर वर्मा"
+  },
+  "Mr Santosh Rajaram Kadam": {
+    "<2hi>": "संतोष राजाराम कदम"
+  },
+  "Ms Sanjana Sandeep Salunke": {
+    "<2hi>": "संजना संदीप साळुंके"
+  },
+  "Ms Dipti Rajankar": {
+    "<2hi>": "श्रीमती दीप्ति राजनकर"
+  },
+  "Mr Roshan Nivrutti Kolambe": {
+    "<2hi>": "रोशन निवृत्ति कोलाम्बे"
+  },
+  "Mr Pradip Yuvraj Patil": {
+    "<2hi>": "श्री प्रदीप युवराज पाटील"
+  },
+  "Mr Sachin Dattatraya Shelar": {
+    "<2hi>": "सचिन दत्तात्रय शेलार"
+  },
+  "Mr Magesh Ethirajan": {
+    "<2hi>": "श्री मगेश ईथिराजन"
+  },
+  "Ms Mita Karajagi": {
+    "<2hi>": "श्रीमती मीता करजगी"
+  },
+  "Mr Sunil Bhaskar Misar": {
+    "<2hi>": "श्री सुनील भास्कर मिसर"
+  },
+  "Mr Swapneel Vasant Raut": {
+    "<2hi>": "स्वप्निल वसंत राउत"
+  },
+  "Ms Neeti Vohra": {
+    "<2hi>": "नीति वोहरा"
+  },
+  "Ms Indira Pasupathy": {
+    "<2hi>": "इंदिरा पसुपति"
+  },
+  "Ms Savitha B Gowda": {
+    "<2hi>": "सविता गौड़ा"
+  },
+  "Mr Yugandhar Budati": {
+    "<2hi>": "युगंधर बुदाटी"
+  },
+  "Ms Asmita Kumar Gargote": {
+    "<2hi>": "अस्मिता गारगोटे"
+  },
+  "Mr Anant Vaman Kelkar": {
+    "<2hi>": "श्री अनंत वामन केळकर"
+  },
+  "Ms Supriya Girishbabu Nair": {
+    "<2hi>": "सुश्री सुप्रिया गिरिशबाबु नायर"
+  },
+  "Ms Manjusha Sanjeev Katre": {
+    "<2hi>": "मंजुषा कात्रे"
+  },
+  "Ms Ampili Sreekumar": {
+    "<2hi>": "अंपिली श्रीकुमार"
+  },
+  "Ms Disha Dilip Tambekar": {
+    "<2hi>": "सुश्री दिशा दिलीप तांबेकर"
+  },
+  "Ms Sagri Sharma": {
+    "<2hi>": "सागरी शर्मा"
+  },
+  "Mr Selvam Vasudevan Panicker": {
+    "<2hi>": "सेल्वम वासुदेवन पनीकर"
+  },
+  "Mr Mahesh Menon G K": {
+    "<2hi>": "महेश मेनन जी के"
+  },
+  "Ms Kamalika Bhattacharjee": {
+    "<2hi>": "सुश्री कमलिका भट्टाचार्जी"
+  },
+  "Mr Sanjay S Chakane": {
+    "<2hi>": "श्री संजय एस चाकणे"
+  },
+  "Ms Mira Vijayan Panickar": {
+    "<2hi>": "मीरा विजयन पणिक्कर"
+  },
+  "Ms Vaishali Samir Satpute": {
+    "<2hi>": "वैशाली समीर सातपुते"
+  },
+  "Mr Tanaji Narayan Zende": {
+    "<2hi>": "श्री तानाजी नारायण झेंडे"
+  },
+  "Ms Jayshree Sanjay Pokale": {
+    "<2hi>": "जयश्री संजय पोकळे"
+  },
+  "Mr Vinayak Krushnahari Gadge": {
+    "<2hi>": "विनायक कृष्णाहरी गदगे"
+  },
+  "Ms Vidya Pravin Guhagarkar": {
+    "<2hi>": "विद्या प्रविण गुहागरकर"
+  },
+  "Mr Rakesh Kumar Katakam": {
+    "<2hi>": "श्री राकेश कुमार कटकम"
+  },
+  "Mr Arokia Silvraj Maridas": {
+    "<2hi>": "अरोकिया सिल्वरराज मारिदास"
+  },
+  "Mr Prabhakar Pandey": {
+    "<2hi>": "श्री प्रभाकर पांडेय"
+  },
+  "Dr Anindita Banerjee": {
+    "<2hi>": "अनिंदिता बॅनर्जी"
+  },
+  "Mr Prathamesh Bhole": {
+    "<2hi>": "प्रथमेश भोळे"
+  },
+  "Mr Umang Dubey": {
+    "<2hi>": "उमंग दुबे"
+  },
+  "Ms Sunaina Sharma": {
+    "<2hi>": "सुनैना शर्मा"
+  },
+  "Ms Neelima Sahu": {
+    "<2hi>": "नीलिमा साहू"
+  },
+  "Mr Dipak Prakash Deokar": {
+    "<2hi>": "श्री दिपक प्रकाश देवकर"
+  },
+  "Mr Prashant Sadanand Nayak": {
+    "<2hi>": "श्री प्रशांत सदानंद नायक"
+  },
+  "Mr Suneet Bhatia": {
+    "<2hi>": "श्री सुनीत भाटिया"
+  },
+  "Mr Amit Madhusudan Deshmukh": {
+    "<2hi>": "अमित मधुसूदन देशमुख"
+  },
+  "Mr P R Ranjit Raman": {
+    "<2hi>": "श्री पी आर रंजीत रमन"
+  },
+  "Mr Yogesh Gupta": {
+    "<2hi>": "योगेश गुप्ता"
+  },
+  "Mr Shripad Shriram Kalambkar": {
+    "<2hi>": "श्री श्रीपाद श्रीराम कलंबकर"
+  },
+  "Ms Kavitha K": {
+    "<2hi>": "श्रीमती कविता के"
+  },
+  "Ms Vaishali Kousalyanand Hiroli": {
+    "<2hi>": "वैशाली कौसल्यानंद हिरोली"
+  },
+  "Mr Prashanth M V": {
+    "<2hi>": "श्री प्रशांत एम वी"
+  },
+  "Ms Anita Sagar Sonawane": {
+    "<2hi>": "श्रीमती अनिता सागर सोनवणे"
+  },
+  "Ms Penta Soujanya": {
+    "<2hi>": "पेंटा सौजन्या"
+  },
+  "Mr Sandesh Kewalram Meshram": {
+    "<2hi>": "श्री संदेश केवलराम मेश्राम"
+  },
+  "Mr Sushil Sudhakar Manwar": {
+    "<2hi>": "सुशील सुधाकर मनवर"
+  },
+  "Ms Prajakta Vilaskumar Yellewad": {
+    "<2hi>": "प्राजक्ता विलासकुमार येल्लेवाड"
+  },
+  "Ms Amanpreet Ghuman": {
+    "<2hi>": "अमनप्रीत घुंमन"
+  },
+  "Mr Pankaj Kumar": {
+    "<2hi>": "पंकज कुमार"
+  },
+  "Mr Chetan Sharma": {
+    "<2hi>": "श्री चेतन शर्मा"
+  },
+  "Mr Ajit Singh Tomar": {
+    "<2hi>": "अजीत सिंह तोमर"
+  },
+  "Mr Mahavir Tirkey": {
+    "<2hi>": "महावीर तिर्की"
+  },
+  "Ms Ruchi Roop Chand Garg": {
+    "<2hi>": "रुचि रूप चंद गर्ग"
+  },
+  "Mr Ankur Garg": {
+    "<2hi>": "श्री अंकुर गर्ग"
+  },
+  "Ms Vaishali Kuldeep Jaiswal": {
+    "<2hi>": "श्रीमती वैशाली कुलदीप जायसवाल"
+  },
+  "Mr Mahendra Ankush Mhadam": {
+    "<2hi>": "महेंद्र अंकुश म्हादम"
+  },
+  "Mr Samarendra Prasad Biswal": {
+    "<2hi>": "श्री समरेंद्र प्रसाद बिस्वाल"
+  },
+  "Mr Srinivasa Rao Murapaka": {
+    "<2hi>": "श्रीनिवास राव मुरपाका"
+  },
+  "Mr Kiran Yashwant Chaudhari": {
+    "<2hi>": "श्री किरण यशवंत चौधरी"
+  },
+  "Mr Shashikant Pandurang Kumbhar": {
+    "<2hi>": "श्री शशिकांत पांडुरंग कुंभार"
+  },
+  "Ms Prabha Bhatia": {
+    "<2hi>": "प्रभा भाटिया"
+  },
+  "Ms Shaila Sagar Eksambekar": {
+    "<2hi>": "शैला सागर एकसंबेकर"
+  },
+  "Mr Nilesh Ashokrao Zende": {
+    "<2hi>": "श्री निलेश अशोकराव झेंडे"
+  },
+  "Mr Tushar Sudhakar Kulkarni": {
+    "<2hi>": "श्री तुषार सुधाकर कुलकर्णी"
+  },
+  "Ms Aparna Amar Deshmukh": {
+    "<2hi>": "श्रीमती अपर्णा अमर देशमुख"
+  },
+  "Mr Sanjay Kumar": {
+    "<2hi>": "श्री संजय कुमार"
+  },
+  "Mr Rajat Gupta": {
+    "<2hi>": "श्री रजत गुप्ता"
+  },
+  "Mr Vinod Kumar Tejlal Pache": {
+    "<2hi>": "विनोदकुमार तेजलाल पाचे"
+  },
+  "Ms Jyoti Shailesh Zagade": {
+    "<2hi>": "ज्योति शैलेश झगडे"
+  },
+  "Mr Atmaram Bagarty": {
+    "<2hi>": "श्री आत्माराम बागर्ती"
+  },
+  "Mr Binoy Debnath": {
+    "<2hi>": "श्री बिनॉय देबनाथ"
+  },
+  "Mr Mehandi Hassan": {
+    "<2hi>": "मेहंदी हसन"
+  },
+  "Mr Susanta Naik": {
+    "<2hi>": "श्री सुशांत नाइक"
+  },
+  "Mr Avinash Kumar Singh": {
+    "<2hi>": "श्री अविनाश कुमार सिंह"
+  },
+  "Mr Sourabh Malhotra": {
+    "<2hi>": "श्री सौरभ मल्होत्रा"
+  },
+  "Mr Shubham Diliprao Tekade": {
+    "<2hi>": "शुभम दिलीपराव टेकाडे"
+  },
+  "Ms Reshma Dilip Kadam": {
+    "<2hi>": "रेशमा दिलीप कदम"
+  },
+  "Mr Sumit Sanjay Satalekar": {
+    "<2hi>": "श्री सुमित संजय सातळेकर"
+  },
+  "Mr Kartik Satish Suryawanshi": {
+    "<2hi>": "कार्तिक सतिश सुर्यवंशी"
+  },
+  "Mr Alpesh Gajanan Naphade": {
+    "<2hi>": "अल्पेश गजानन नाफडे"
+  },
+  "Ms Pooja Anuj Shendge": {
+    "<2hi>": "पूजा अनुज शेंडगे"
+  },
+  "Mr Dhiraj Kumar": {
+    "<2hi>": "धीरज कुमार"
+  },
+  "Mr Nawal Kishor": {
+    "<2hi>": "नवल किशोर"
+  },
+  "Mr Saurav Shekhar": {
+    "<2hi>": "श्री सौरव शेखर"
+  },
+  "Mr Rushikesh Kate": {
+    "<2hi>": "ऋषिकेश काटे"
+  },
+  "Mr Piyush Gajanan Ahir": {
+    "<2hi>": "श्री पीयूष गजानन अहिर"
+  },
+  "Mr Shubham Kumar Singh": {
+    "<2hi>": "शुभम कुमार सिंह"
+  },
+  "Mr Bhanu Singhal": {
+    "<2hi>": "श्री भानु सिंघल"
+  },
+  "Mr Bhushan Bhingare": {
+    "<2hi>": "श्री भूषण भिंगारे"
+  },
+  "Mr Shreyas Natesh Rao": {
+    "<2hi>": "श्रेयस नटेश राव"
+  },
+  "Mr Vishal Vyas": {
+    "<2hi>": "श्री विशाल व्यास"
+  },
+  "Mr Prashant Shankar Kontam": {
+    "<2hi>": "श्री प्रशांत शंकर कोंतम"
+  },
+  "Mr Aman Rai": {
+    "<2hi>": "अमन राय"
+  },
+  "Ms Shazia Tasneem": {
+    "<2hi>": "शाज़िया तसनीम"
+  },
+  "Mr Shubhendu Sidharth": {
+    "<2hi>": "शुभेंदु सिद्धार्थ"
+  },
+  "Mr Shubham Sunil Pathak": {
+    "<2hi>": "शुभम सुनील पाठक"
+  },
+  "Mr Akshay Sunil Mehta": {
+    "<2hi>": "श्री अक्षय सुनील मेहता"
+  },
+  "Ms Vaishali Chauhan": {
+    "<2hi>": "वैशाली चौहान"
+  },
+  "Mr Arun Ambadas Surase": {
+    "<2hi>": "अरुण अम्बादास सुरसे"
+  },
+  "Ms Neha Dayanand Swami": {
+    "<2hi>": "नेहा दयानंद स्वामी"
+  },
+  "Mr Akshay Suresh Kurkure": {
+    "<2hi>": "अक्षय सुरेश कुरकुरे"
+  },
+  "Mr Ankit Gajanan Rajankar": {
+    "<2hi>": "अंकित गजानन राजनकर"
+  },
+  "Ms Mayuri Rajendra Chitte": {
+    "<2hi>": "सुश्री मयूरी राजेंद्र चित्ते"
+  },
+  "Ms Namrata Ramesh Raut": {
+    "<2hi>": "सुश्री नम्रता रमेश राउत"
+  },
+  "Mr Sanjeev Kumar": {
+    "<2hi>": "संजीव कुमार"
+  },
+  "Mr Sambhaji Dharma Jadhav": {
+    "<2hi>": "श्री संभाजी धर्म जाधव"
+  },
+  "Mr Swapnil Sunil Rahinj": {
+    "<2hi>": "स्वप्निल सुनिल राहिंज"
+  },
+  "Mr Rahul Uttam Pukle": {
+    "<2hi>": "राहुल उत्तम पुकले"
+  },
+  "Mr Aniruddha Prashant Dhere": {
+    "<2hi>": "अनिरुद्ध प्रशांत ढेरे"
+  },
+  "Ms Vaishali Verma": {
+    "<2hi>": "सुश्री वैशाली वर्मा"
+  },
+  "Ms Yogita Govind Borole": {
+    "<2hi>": "योगिता गोविंद बोरोळे"
+  },
+  "Ms Priyanka Kumari": {
+    "<2hi>": "प्रियंका कुमारी"
+  },
+  "Mr Akshay Chetan Jain": {
+    "<2hi>": "अक्षय चेतन जैन"
+  },
+  "Ms Swati Rajendra Chinchole": {
+    "<2hi>": "सुश्री स्वाति राजेंद्र चिंचोले"
+  },
+  "Ms Swapnali Suresh Ubale": {
+    "<2hi>": "सुश्री स्वप्नाली सुरेश उबाले"
+  },
+  "Ms Pragati Sadashivrao Bambal": {
+    "<2hi>": "प्रगती सदाशिवराव बांबल"
+  },
+  "Ms Shweta Tanaji Goilkar": {
+    "<2hi>": "श्वेता तानाजी गोईलकर"
+  },
+  "Mr Rudra Jayant Vivarekar": {
+    "<2hi>": "रुद्र जयंत विवरेकर"
+  },
+  "Ms Devyani Vijaykumar Waghmare": {
+    "<2hi>": "सुश्री देवयानी विजयकुमार वाघमारे"
+  },
+  "Ms Pradnya Gajanan Wani": {
+    "<2hi>": "सुश्री प्रज्ञा गजानन वानी"
+  },
+  "Mr Dayanand Haribhau Tanksale": {
+    "<2hi>": "दयानंद हरिभाऊ टांकसाळे"
+  },
+  "Mr Ramakant Satyanarayan Adam": {
+    "<2hi>": "रमाकांत सत्यनारायण आडम"
+  },
+  "Ms Rhutuja Wasudev Dongare": {
+    "<2hi>": "सुश्री रुतुजा वासुदेव डोंगरे"
+  },
+  "Mr Vaibhav Ramesh Mapari": {
+    "<2hi>": "वैभव रमेश मापारी"
+  },
+  "Mr Aditya Gangadhar Muley": {
+    "<2hi>": "आदित्य गंगाधर मुळे"
+  },
+  "Ms Srishti Tyagi": {
+    "<2hi>": "सृष्टि त्यागी"
+  },
+  "Ms Radhika Anand Kanade": {
+    "<2hi>": "राधिका आनंद कानडे"
+  },
+  "Mr Shubham Popatrao Magar": {
+    "<2hi>": "शुभम पोपटराव मगर"
+  },
+  "Mr Yash Patidar": {
+    "<2hi>": "यश पाटीदार"
+  },
+  "Mr Ameya Shirish Bodhani": {
+    "<2hi>": "अमेय शिरीष बोधनी"
+  },
+  "Mr Vikky Ghate": {
+    "<2hi>": "विक्की घटे"
+  },
+  "Mr Ashish Varghese": {
+    "<2hi>": "आशीष वर्गीस"
+  },
+  "Mr Dhananjay Subhashrao Bhuyarkar": {
+    "<2hi>": "धनंजय सुभाषराव भुयारकर"
+  },
+  "Mr Yogendra Mahajan": {
+    "<2hi>": "श्री योगेन्द्र महाजन"
+  },
+  "Ms Madhuri Laxman Gholave": {
+    "<2hi>": "माधुरी लक्ष्मण घोळवे"
+  },
+  "Mr Vaibhav Anil Holkar": {
+    "<2hi>": "वैभव अनिल होळकर"
+  },
+  "Mr Rushikesh Rajaram Kale": {
+    "<2hi>": "ऋषिकेश राजाराम काले"
+  },
+  "Mr Suraj Bhaskar Gaikwad": {
+    "<2hi>": "सूरज भास्कर गायकवाड़"
+  },
+  "Mr Yash Avinash Mahajan": {
+    "<2hi>": "यश अविनाश महाजन"
+  },
+  "Mr Vipin Yadav": {
+    "<2hi>": "श्री विपिन यादव"
+  },
+  "Mr Rohit Ramesh Borse": {
+    "<2hi>": "रोहित रमेश बोरसे"
+  },
+  "Mr Ajinkya Namdeo More": {
+    "<2hi>": "अजिंक्य नामदेव मोरे"
+  },
+  "Mr Shubham Rajendra Shinde": {
+    "<2hi>": "शुभम राजेंद्र शिंदे"
+  },
+  "Mr Sumit Satish Saudagar": {
+    "<2hi>": "सुमित सतीश सौदागर"
+  },
+  "Mr Suraj Alamgir Pathan": {
+    "<2hi>": "श्री सूरज आलमगीर पठान"
+  },
+  "Mr Anshuman Gupta": {
+    "<2hi>": "अंशुमान गुप्ता"
+  },
+  "Mr Samir Ilai Mulani": {
+    "<2hi>": "समीर इलाई मुलाणी"
+  },
+  "Mr Gajanan Tatyarao Rakade": {
+    "<2hi>": "गजानन राकाडे"
+  },
+  "Mr Saurabh Santosh Jojare": {
+    "<2hi>": "सौरभ जोजारे"
+  },
+  "Mr Tushar Pandurang Mhaske": {
+    "<2hi>": "तुषार पांडुरंग म्हस्के"
+  },
+  "Mr Vishwesh Khandelwal": {
+    "<2hi>": "विश्वेश खंडेलवाल"
+  },
+  "Mr Pratik Balasaheb Khairnar": {
+    "<2hi>": "प्रतिक बाळासाहेब खैरनार"
+  },
+  "Mr Ashish Balgude": {
+    "<2hi>": "श्री आशीष बालगुडे"
+  },
+  "Mr Rushikesh Ravindra Ghorpade": {
+    "<2hi>": "ऋषिकेश रविंद्र घोरपडे"
+  },
+  "Mr Akshay Subhash Bule": {
+    "<2hi>": "अक्षय सुभाष बुले"
+  },
+  "Mr Omkar Abhay Kulkarni": {
+    "<2hi>": "ओंकार अभय कुलकर्णी"
+  },
+  "Mr Pruthwiraj Ashok Jadhav": {
+    "<2hi>": "श्री पृथ्वीराज अशोक जाधव"
+  },
+  "Mr Akash Manohar Kolte": {
+    "<2hi>": "आकाश मनोहर कोलते"
+  },
+  "Mr Nachiket Vijay Maid": {
+    "<2hi>": "नचिकेत विजय मैड"
+  },
+  "Mr Shivam Thakur": {
+    "<2hi>": "शिवम ठाकुर"
+  },
+  "Mr Sheersh Singh": {
+    "<2hi>": "शीर्ष सिंह"
+  },
+  "Mr Sushant Limbraj Rathod": {
+    "<2hi>": "श्री सुशांत लिम्बराज राठौड़"
+  },
+  "Ms Snehal Ganesh Kushare": {
+    "<2hi>": "सुश्री स्नेहल गणेश कुशारे"
+  },
+  "Mr Ronak Bharat Solanki": {
+    "<2hi>": "श्री रौनक भरत सोलंकी"
+  },
+  "Mr Ganesh Yadnyakant Wartale": {
+    "<2hi>": "श्री गणेश यज्ञकांत वारताले"
+  },
+  "Ms Manali Vijaykumar Burande": {
+    "<2hi>": "सुश्री मनाली विजयकुमार बुरांडे"
+  },
+  "Ms Divyani Prashant Mengar": {
+    "<2hi>": "सुश्री दिव्यानी प्रशांत मेंगर"
+  },
+  "Mr Shivam Rameshrao Bochare": {
+    "<2hi>": "शिवम रमेशराव बोचरे"
+  },
+  "Mr Atul Kumar Singh": {
+    "<2hi>": "श्री अतुल कुमार सिंह"
+  },
+  "Mr Dilip Singh": {
+    "<2hi>": "श्री दिलीप सिंह"
+  },
+  "Ms Rekha Singh": {
+    "<2hi>": "रेखा सिंह"
+  },
+  "Ms Richa Sharma": {
+    "<2hi>": "ऋचा शर्मा"
+  },
+  "Mr Nitish Das": {
+    "<2hi>": "श्री नीतीश दास"
+  },
+  "Mr Akash Tiwari": {
+    "<2hi>": "आकाश तिवारी"
+  },
+  "Mr Kalekar Dipak Dadasaheb": {
+    "<2hi>": "दिपक दादासाहेब कालेकर"
+  },
+  "Mr Akshay Ananda Tarate": {
+    "<2hi>": "श्री अक्षय आनंद ताराटे"
+  },
+  "Mr Vedant Vivek Palwankar": {
+    "<2hi>": "श्री वेदांत विवेक पलवणकर"
+  },
+  "Mr Vrushabh Naresh Vaidya": {
+    "<2hi>": "श्री वृषभ नरेश वैद्य"
+  },
+  "Mr Akash Anil Deshpande": {
+    "<2hi>": "आकाश अनील देशपांडे"
+  },
+  "Mr Ankit Tiwari": {
+    "<2hi>": "श्री अंकित तिवारी"
+  },
+  "Mr Sawarkar Chaitanya Suhas": {
+    "<2hi>": "चैतन्य सावरकर"
+  },
+  "Mr Mayur Rajendra Bonde": {
+    "<2hi>": "श्री मयूर राजेंद्र बोंडे"
+  },
+  "Mr Sunny Santosh Sakpal": {
+    "<2hi>": "सनी सकपाळ"
+  },
+  "Mr Shivam Tiwari": {
+    "<2hi>": "शिवम् तिवारी"
+  },
+  "Mr Akash Bhagwat Kolte": {
+    "<2hi>": "आकाश भागवत कोलते"
+  },
+  "Mr Yash Dnyaneshwar Kadwe": {
+    "<2hi>": "श्री यश ज्ञानेश्वर कडवे"
+  },
+  "Mr Ankur Singh": {
+    "<2hi>": "श्री अंकुर सिंह"
+  },
+  "Mr Shubham Kiran Patil": {
+    "<2hi>": "शुभम किरण पाटील"
+  },
+  "Mr Himanshu Singh Thakur": {
+    "<2hi>": "श्री हिमांशु सिंह ठाकुर"
+  },
+  "Mr Abhishek Joshi": {
+    "<2hi>": "श्री अभिषेक जोशी"
+  },
+  "Ms Pushpanjali Shahaji Patil": {
+    "<2hi>": "पुष्पांजली शहाजी पाटील"
+  },
+  "Mr Akshay Mukundrao Bhusari": {
+    "<2hi>": "श्री अक्षय मुकुंदराव भुसारी"
+  },
+  "Mr Ashutosh Satish Yadav": {
+    "<2hi>": "आशुतोष सतीश यादव"
+  },
+  "Mr Deepak Surendra Sharma": {
+    "<2hi>": "श्री दीपक सुरेंद्र शर्मा"
+  },
+  "Mr Sagar Bhagwat Kolte": {
+    "<2hi>": "सागर भागवत कोलते"
+  },
+  "Mr Prajwal Khemraj Mowade": {
+    "<2hi>": "प्रज्वल खेमराज मोवाडे"
+  },
+  "Mr Tanmay Santosh Bhalerao": {
+    "<2hi>": "तन्मय संतोष भालेराव"
+  },
+  "Mr Chandra Darshan Agrawal": {
+    "<2hi>": "श्री चंद्र दर्शन अग्रवाल"
+  },
+  "Mr Vinayak Avinash Kamble": {
+    "<2hi>": "श्री विनायक अविनाश कांबळे"
+  },
+  "Mr Swapnil Vasudeo Mahajan": {
+    "<2hi>": "श्री स्वप्निल वासुदेव महाजन"
+  },
+  "Mr Vijay Mahesh Jainapure": {
+    "<2hi>": "विजय महेश जैनापुरे"
+  },
+  "Mr Ajinkya Suresh Sawant": {
+    "<2hi>": "अजिंक्य सुरेश सावंत"
+  },
+  "Mr Shaibaz Rasheed Shaikh": {
+    "<2hi>": "शैबाझ रशीद शेख"
+  },
+  "Mr Pranav Ajay Kurankar": {
+    "<2hi>": "प्रणव अजय कुरंकर"
+  },
+  "Mr Hrishikesh Uttam Bodke": {
+    "<2hi>": "ऋषिकेश उत्तम बोडके"
+  },
+  "Mr Siddhant Bopche": {
+    "<2hi>": "श्री सिद्धांत बोपचे"
+  },
+  "Mr Vaibhav Rajendra Patil": {
+    "<2hi>": "वैभव राजेंद्र पाटील"
+  },
+  "Mr Abhishek Jain": {
+    "<2hi>": "श्री अभिषेक जैन"
+  },
+  "Mr Ketan Sanjay Satpute": {
+    "<2hi>": "श्री केतन संजय सतपुते"
+  },
+  "Mr Rushikesh Balchand Chaudhari": {
+    "<2hi>": "ऋषिकेश बालचंद चौधरी"
+  },
+  "Mr Hitesh Pradip Patil": {
+    "<2hi>": "हितेश प्रदीप पाटील"
+  },
+  "Ms Ashwini Savakar Mule": {
+    "<2hi>": "सुश्री अश्विनी सावकर मुळे"
+  },
+  "Ms Renu Anil Chavan": {
+    "<2hi>": "रेणु अनिल चव्हाण"
+  },
+  "Mr Vikas Dubey": {
+    "<2hi>": "विकास दुबे"
+  },
+  "Mr Udit Narayan Mishra": {
+    "<2hi>": "श्री उदित नारायण मिश्र"
+  },
+  "Ms Priyanka Shridhar Zaware": {
+    "<2hi>": "प्रियांका श्रीधर झावरे"
+  },
+  "Ms Sayali Prafulla Rane": {
+    "<2hi>": "सायली प्रफुल्ल राणे"
+  },
+  "Mr Sudip Dutta": {
+    "<2hi>": "श्री सुदीप दत्ता"
+  },
+  "Ms Utkarsha Kailas Deshmukh": {
+    "<2hi>": "सुश्री उत्कर्षा कैलास देशमुख"
+  },
+  "Mr Yash Kishor Shinde": {
+    "<2hi>": "श्री यश किशोर शिंदे"
+  },
+  "Mr Ganesh Prakash Kamble": {
+    "<2hi>": "श्री गणेश प्रकाश कांबले"
+  },
+  "Mr Shailendra Pratap Sisodiya": {
+    "<2hi>": "श्री शैलेंद्र प्रताप सिसोदिया"
+  },
+  "Mr Shailesh Shashikant Dalavi": {
+    "<2hi>": "श्री शैलेश शशिकांत दलावी"
+  },
+  "Mr Rushikesh Udaykumar Choudhary": {
+    "<2hi>": "श्री ऋषिकेश उदयकुमार चौधरी"
+  },
+  "Mr Nilesh Ramesh Shendage": {
+    "<2hi>": "श्री नीलेश रमेश शेंदागे"
+  },
+  "Mr Gajendra Jagadish Chincholikar": {
+    "<2hi>": "श्री गजेंद्र जगदीश चिंचोलिकर"
+  },
+  "Dr Manoj Kumar Khare": {
+    "<2hi>": "डॉ मनोज कुमार खरे"
+  },
+  "Ms Asima Mishra": {
+    "<2hi>": "असीमा मिश्रा"
+  },
+  "Mr Sajeevan G": {
+    "<2hi>": "श्री सजीवन जी"
+  },
+  "Dr Binay Kumar": {
+    "<2hi>": "डॉ विनय कुमार"
+  },
+  "Dr Yogesh Kumar Singh": {
+    "<2hi>": "डॉ योगेश कुमार सिंह"
+  },
+  "Dr Manish Prabhakar Kale": {
+    "<2hi>": "डॉ मनीष प्रभाकर काले"
+  },
+  "Mr Biju C": {
+    "<2hi>": "श्री बीजू सी"
+  },
+  "Mr Prabu I": {
+    "<2hi>": "श्री प्रबू आई"
+  },
+  "Mr Gokul Pandit Thakare": {
+    "<2hi>": "श्री गोकुल पंडित ठाकरे"
+  },
+  "Dr Sivakumar V": {
+    "<2hi>": "डॉ शिवकुमार वी"
+  },
+  "Mr Jitendra Ram Mhatre": {
+    "<2hi>": "श्री जितेंद्र राम म्हात्रे"
+  },
+  "Ms Upasana Dutta": {
+    "<2hi>": "उपासना दत्ता"
+  },
+  "Mr Amit Shamrao Kudale": {
+    "<2hi>": "श्री अमित शामराव कुदळे"
+  },
+  "Mr Kedar Nagnathrao Ghogale": {
+    "<2hi>": "श्री केदार नागनाथराव घोगले"
+  },
+  "Mr Girishchandra Rajaram Yendargaye": {
+    "<2hi>": "श्री गिरीशचंद्र राजाराम येंडरगाये"
+  },
+  "Mr Shankar Naik Rathod Karamtoth": {
+    "<2hi>": "श्री शंकर नाइक राठौड़ करमतोथ"
+  },
+  "Mr Manoj Eknath Chavan": {
+    "<2hi>": "मनोज एकनाथ चव्हाण"
+  },
+  "Mr Satish Pardeshi": {
+    "<2hi>": "सतीश परदेशी"
+  },
+  "Mr Chandrakant Sontakke": {
+    "<2hi>": "श्री चंद्रकांत सोनटक्के"
+  },
+  "Ms Shravani Ashok Talekar": {
+    "<2hi>": "श्रावणी अशोक तालेकर"
+  },
+  "Ms Ankita Rajemane": {
+    "<2hi>": "अंकिता राजमाने"
+  },
+  "Mr Sonu Kumar": {
+    "<2hi>": "श्री सोनू कुमार"
+  },
+  "Mr Sanjay Premchand Khatri": {
+    "<2hi>": "संजय प्रेमचंद खत्री"
+  },
+  "Mr Karan Narkhede": {
+    "<2hi>": "श्री करण नारखेड़े"
+  },
+  "Ms Bindu Sadanandan": {
+    "<2hi>": "बिंदु सदानन्दन"
+  },
+  "Ms Rohini Gopinath Kale": {
+    "<2hi>": "रोहिणी गोपीनाथ काले"
+  },
+  "Mr Rahul Yadav": {
+    "<2hi>": "राहुल यादव"
+  },
+  "Mr Vikas Pandurang Kokane": {
+    "<2hi>": "विकास पांडुरंग कोकणे"
+  },
+  "Ms Priyanka Chauhan": {
+    "<2hi>": "प्रियंका चौहान"
+  },
+  "Mr Faizun Nabi": {
+    "<2hi>": "फॆॆज़ुन नबी"
+  },
+  "Mr Kunal Rameshwar Kathalkar": {
+    "<2hi>": "कुणाल रामेश्वर कथलकर"
+  },
+  "Mr Pankaj Nandkumar Dabhade": {
+    "<2hi>": "श्री पंकज नंदकुमार दाभाडे"
+  },
+  "Mr Tukaram Sunil Bidwai": {
+    "<2hi>": "तुकाराम सुनील बिडवई"
+  },
+  "Mr Anand Rambhau Jadhav": {
+    "<2hi>": "आनंद रामभाऊ जाधव"
+  },
+  "Mr Vignesh Swami": {
+    "<2hi>": "विग्नेश स्वामी"
+  },
+  "Mr Hrisheeshwar Kaushik": {
+    "<2hi>": "ऋषीश्वर कौशिक"
+  },
+  "Mr Prakhar Verma": {
+    "<2hi>": "प्रखर वर्मा"
+  },
+  "Mr Mustakim Ansar Shaikh": {
+    "<2hi>": "मुस्तकीम अंसार शेख"
+  },
+  "Mr Nikhlesh Aamkhare": {
+    "<2hi>": "निखलेश आमखरे"
+  },
+  "Ms Poonam Mohandas Nayak": {
+    "<2hi>": "पूनम मोहनदास नायक"
+  },
+  "Mr Soham Prashant Rangdal": {
+    "<2hi>": "सोहम प्रशांत रंगदल"
+  },
+  "Mr Vivek Singh Tomar": {
+    "<2hi>": "विवेक सिंह तोमर"
+  },
+  "Ms Shivani Sandip Shelke": {
+    "<2hi>": "शिवानी संदीप शेलके"
+  },
+  "Mr T S Murugesh Prabhu": {
+    "<2hi>": "मुरुगेश प्रभु"
+  },
+  "Ms Priyanka B Dongre": {
+    "<2hi>": "प्रियंका बी डोंगरे"
+  },
+  "Mr Sanjay Gordhandas Thakrar": {
+    "<2hi>": "श्री संजय गोर्धनदास ठकरार"
+  },
+  "Mr Anil Shankarrao Vyas": {
+    "<2hi>": "अनिल शंकरराव व्यास"
+  },
+  "Mr Dinesh Kumarsinha Suryawanshi": {
+    "<2hi>": "दिनेश कुमारसिंह सूर्यवंशी"
+  },
+  "Mr Mahadeo Vinayak Dhanawade": {
+    "<2hi>": "महादेव विनायक धनावडे"
+  },
+  "Mr Vimal Gangrade": {
+    "<2hi>": "विमल गंगराड़े"
+  },
+  "Mr Yogeshkumar Kanojiya": {
+    "<2hi>": "योगेशकुमार कनौजिया"
+  },
+  "Mr Sunil Tejram Bhisikar": {
+    "<2hi>": "सुनील तेजराम भिसीकर"
+  },
+  "Ms Sneha Shirish Kalagi": {
+    "<2hi>": "स्नेहा शिरिष काळगी"
+  },
+  "Mr Avinash Galinde": {
+    "<2hi>": "अविनाश गालिंडे"
+  },
+  "Ms Sanjala Makarand Deshpande": {
+    "<2hi>": "संजला मकरंद देशपांडे"
+  },
+  "Ms Asmita Anand Kulkarni": {
+    "<2hi>": "अस्मिता कुलकर्णी"
+  },
+  "Mr Kiran Vijay Borge": {
+    "<2hi>": "किरण विजय बोरगे"
+  },
+  "Mr Ravindra Bhoja Mulya": {
+    "<2hi>": "रवींद्र भोजा मुल्या"
+  },
+  "Ms Neelam Rajendra Dhumal": {
+    "<2hi>": "नीलम राजेंद्र धुमाळ"
+  },
+  "Ms Sheetal Vishal Nimje": {
+    "<2hi>": "शीतल विशाल निमजे"
+  },
+  "Ms Anita Parappa Pailwan": {
+    "<2hi>": "अनिता पाराप्पा पैलवान"
+  },
+  "Ms Geeta Tomake": {
+    "<2hi>": "गीता टोमके"
+  },
+  "Ms Suzie Bobby Francis": {
+    "<2hi>": "सूजी बॉबी फ्रांसिस"
+  },
+  "Mr Kundan Kamble": {
+    "<2hi>": "कुंदन कांबळे"
+  },
+  "Dr Sudhir Kumar Mishra": {
+    "<2hi>": "डॉ सुधीर कुमार मिश्र"
+  },
+  "Mr Umesh Hareshwar Vithalkar": {
+    "<2hi>": "उमेश हरेश्वर विठाळकर"
+  },
+  "Mr Vainateya Avinash Koratkar": {
+    "<2hi>": "श्री वैनतेय अविनाश कोरटकर"
+  },
+  "Mr Ranjit Ramakant Chogale": {
+    "<2hi>": "रणजीत रमाकांत चोगले"
+  },
+  "Ms Aparna Anant Kulkarni": {
+    "<2hi>": "अपर्णा अनंत कुलकर्णी"
+  },
+  "Mr Yogesh P Rao": {
+    "<2hi>": "योगेश पी राव"
+  },
+  "Mr Kishor Bhojraj Patil": {
+    "<2hi>": "किशोर पाटील"
+  },
+  "Mr Hemant Lakhama Desai": {
+    "<2hi>": "हेमंत लखमा देसाई"
+  },
+  "Mr Manish Kumar Gupta": {
+    "<2hi>": "श्री मनीष कुमार गुप्ता"
+  },
+  "Ms Savita Dadarao Solanke": {
+    "<2hi>": "श्रीमती सविता दादाराव सोलंके"
+  },
+  "Ms Manisha Shukla Dubey": {
+    "<2hi>": "श्रीमती मनीषा शुक्ला दुबे"
+  },
+  "Mr Sanjay Tiwari": {
+    "<2hi>": "संजय तिवारी"
+  },
+  "Mr Amit Raj": {
+    "<2hi>": "श्री अमित राज"
+  },
+  "Mr Sudeshkumar Gopal Krishna Mudliar": {
+    "<2hi>": "सुदेशकुमार गोपालकृष्ण मुदलियार"
+  },
+  "Ms Sayali Kedar Godbole": {
+    "<2hi>": "श्रीमती सायली केदार गोडबोले"
+  },
+  "Mr Shubhanshu Gupta": {
+    "<2hi>": "शुभांशु गुप्ता"
+  },
+  "Mr Parimal Prabhakar Khade": {
+    "<2hi>": "श्री परिमल प्रभाकर खाडे"
+  },
+  "Mr Kapil Dev Madanlal Karma": {
+    "<2hi>": "श्री कपिल देव मदनलाल कर्मा"
+  },
+  "Mr Rajesh Kumar": {
+    "<2hi>": "राजेश कुमार"
+  },
+  "Mr Rahul Borade": {
+    "<2hi>": "राहुल बोराडे"
+  },
+  "Mr Ranjeet Singh": {
+    "<2hi>": "रणजीत सिंह"
+  },
+  "Dr Baneesh Pillai": {
+    "<2hi>": "डॉ बनीष पिल्लै"
+  },
+  "Ms Kiran Singh": {
+    "<2hi>": "किरण सिंह"
+  },
+  "Mr Praveen Kumar Dewangan": {
+    "<2hi>": "प्रवीण कुमार देवाँगन"
+  },
+  "Ms Srilatha Sundararajan": {
+    "<2hi>": "श्रीलता सुंदरराजन"
+  },
+  "Mr Vivekanand S Patil": {
+    "<2hi>": "विवेकानंद शिवशंकर पाटील"
+  },
+  "Mr Sanjay Bhargava": {
+    "<2hi>": "संजय भार्गव"
+  },
+  "Ms Sonal Arun Todkar": {
+    "<2hi>": "सोनल अरुण तोडकर"
+  },
+  "Ms Nikita Shivnarayan Akhade": {
+    "<2hi>": "निकिता शिवनारायण अखाड़े"
+  },
+  "Ms Chaitali Dhananjay Shinde": {
+    "<2hi>": "सुश्री चैताली धनंजय शिंदे"
+  },
+  "Ms Neha Haribhau Datir": {
+    "<2hi>": "सुश्री नेहा हरिभाऊ दतिर"
+  },
+  "Mr Saurabh Ganesh Naphade": {
+    "<2hi>": "सौरभ गणेश नाफडे"
+  },
+  "Mr Yogesh Bhika Rathod": {
+    "<2hi>": "योगेश भिका राठोड़"
+  },
+  "Mr Mukul Gour": {
+    "<2hi>": "मुकुल गौड"
+  },
+  "Mr Abhijeet Gangadhar Thorat": {
+    "<2hi>": "अभिजीत गंगाधर थोराट"
+  },
+  "Ms Pradnya Rajendra Kasar": {
+    "<2hi>": "प्रज्ञा राजेंद्र कासार"
+  },
+  "Ms Kanchan Amit Aher": {
+    "<2hi>": "कांचन अमित आहेर"
+  },
+  "Mr Kartik Harish Dhunisinghani": {
+    "<2hi>": "कार्तिक हरीश धुनीसिंघानी"
+  },
+  "Mr Aman Kumar Saxena": {
+    "<2hi>": "अमन कुमार सक्सेना"
+  },
+  "Ms Tanvi Nitin Patil": {
+    "<2hi>": "तन्वी नितीन पाटील"
+  },
+  "Mr Siddharth Jain": {
+    "<2hi>": "सिद्धार्थ जैन"
+  },
+  "Ms Shubhangni Asati": {
+    "<2hi>": "शुभांगनी असाती"
+  },
+  "Mr Jayesh Satish Bari": {
+    "<2hi>": "जयेश सतीश बारी"
+  },
+  "Ms Shweta Sanjay Deshmukh": {
+    "<2hi>": "श्वेता संजय देशमुख"
+  },
+  "Ms Shraddha Rajesh Watane": {
+    "<2hi>": "श्रद्धा राजेश वाटाने"
+  },
+  "Ms Mahima Pravin Mahajan": {
+    "<2hi>": "महिमा प्रवीण महाजन"
+  },
+  "Ms Shweta Girish Patil": {
+    "<2hi>": "श्‍वेता गिरीश पाटील"
+  },
+  "Mr Suyog Subhash Vaidya": {
+    "<2hi>": "सुयोग सुभाष वैद्य"
+  },
+  "Ms Pranita Maheshrao Chougule": {
+    "<2hi>": "प्रणिता महेशराव चौगुले"
+  },
+  "Mr Nilesh Vitthal Darade": {
+    "<2hi>": "निलेश विट्ठल दराडे"
+  },
+  "Mr Deepak M Ratnani": {
+    "<2hi>": "श्री दीपक एम रत्नानी"
+  },
+  "Mr Aman Sikandar Mulani": {
+    "<2hi>": "अमन सिकंदर मुलानी"
+  },
+  "Mr Abhishek Balyan": {
+    "<2hi>": "श्री अभिषेक बाल्यान"
+  },
+  "Mr Surya Vikram": {
+    "<2hi>": "श्री सूर्या विक्रम"
+  },
+  "Mr Anand Satuppa Burud": {
+    "<2hi>": "श्री आनंद सतुप्पा बुरुद"
+  },
+  "Mr Siddharth Dhawan": {
+    "<2hi>": "श्री सिद्धार्थ धवन"
+  },
+  "Mr Gaurav Kailas Phokmare": {
+    "<2hi>": "श्री गौरव कैलास फोकमारे"
+  },
+  "Dr Dinesh S Katre": {
+    "<2hi>": "डॉ दिनेश शरदचंद्र कात्रे"
+  },
+  "Mr Shashank Sharadchandra Puntamkar": {
+    "<2hi>": "श्री शशांक शरदचंद्र पुणतमकर"
+  },
+  "Mr Suresh V": {
+    "<2hi>": "श्री सुरेश वी"
+  },
+  "Dr Damodar Mahipati Magdum": {
+    "<2hi>": "डॉदामोदर महिपती मगदूम"
+  },
+  "Mr Sudhir Kumar Patel": {
+    "<2hi>": "श्री सुधीर कुमार पटेल"
+  },
+  "Mr Nigod Dayal Dhurke": {
+    "<2hi>": "श्री निगोद दयाल धुरके"
+  },
+  "Mr Ajay Sharadchandra Lohokare": {
+    "<2hi>": "श्री अजय शरदचंद्र लोहोकरे"
+  },
+  "Mr Srinu Naik Banavathu": {
+    "<2hi>": "श्री श्रीनु नायक बानवातु"
+  },
+  "Mr Sandeep Gaikwad": {
+    "<2hi>": "श्री संदीप गायकवाड़"
+  },
+  "Ms Moumita Chowdhury": {
+    "<2hi>": "श्रीमती मौमिता चौधुरी"
+  },
+  "Dr Atiur Rahman Khan": {
+    "<2hi>": "डॅा अतिउर रहमान ख़ान"
+  },
+  "Mr Niranjan Ramchandra Patgaonkar": {
+    "<2hi>": "श्री निरंजन रामचंद्र पाटगांवकर"
+  },
+  "Mr Sanjay Rabidas": {
+    "<2hi>": "श्री संजय रबिदास"
+  },
+  "Mr Pradeep Kumar Chindurupu": {
+    "<2hi>": "श्री प्रदीप कुमार"
+  },
+  "Mr Nitin Ramakanth Rao": {
+    "<2hi>": "नितिन रमाकांत राव"
+  },
+  "Mr Sitaram Tanaji Gaikwad": {
+    "<2hi>": "श्री सिताराम तानाजी गायकवाड"
+  },
+  "Mr Nitin Karale": {
+    "<2hi>": "श्री नितिन कराले"
+  },
+  "Mr Jayawant S Karale": {
+    "<2hi>": "श्री जयवंत श्रीधर कराळे"
+  },
+  "Mr Ritesh Malviya": {
+    "<2hi>": "श्री रितेश मालवीय"
+  },
+  "Mr Ravi Dada Mane": {
+    "<2hi>": "रवि दादा माने"
+  },
+  "Ms Bhagyashri D Bhokare": {
+    "<2hi>": "कु भाग्यश्री दत्तात्रय भोकरे"
+  },
+  "Ms Anitha S": {
+    "<2hi>": "श्रीमती अनीता एस"
+  },
+  "Mr Vivek Sanjay Bundele": {
+    "<2hi>": "श्री विवेक संजय बुंदेले"
+  },
+  "Mr Nagendrakumar Shyamsundar Vishwakarma": {
+    "<2hi>": "श्री नागेंद्रकुमार श्यामसुन्दर विश्वकर्मा"
+  },
+  "Mr Akash Deepak Yadav": {
+    "<2hi>": "श्री आकाश दीपक यादव"
+  },
+  "Mr Akash Subhash Auti": {
+    "<2hi>": "श्री आकाश सुभाष औटी"
+  },
+  "Mr Tausip Ismailkhan Pathan": {
+    "<2hi>": "श्री तौसीप इस्माइल खान पठान"
+  },
+  "Ms Shraddha Ganesh Kalyankar": {
+    "<2hi>": "कु श्रद्धा गणेश कल्याणकर"
+  },
+  "Ms Bhagyashri Bobade": {
+    "<2hi>": "भाग्यश्री बोबडे"
+  },
+  "Mr Vineet Yogendra Singh": {
+    "<2hi>": "श्री विनीत योगेंद्र सिंह"
+  },
+  "Ms Pratiksha Ketan Deshmukh": {
+    "<2hi>": "सुश्री प्रतीक्षा केतन देशमुख"
+  },
+  "Mr Manhar": {
+    "<2hi>": "श्री मनहर"
+  },
+  "Ms Anshuma Acharya": {
+    "<2hi>": "श्रीमती अंशुमा आचार्य"
+  },
+  "Mr Mani Singh": {
+    "<2hi>": "श्री मनी सिंह"
+  },
+  "Mr Vaibhav Bapurao Kalyankar": {
+    "<2hi>": "श्री वैभव बापूराव कल्याणकर"
+  },
+  "Ms Soni Kumari": {
+    "<2hi>": "सोनी कुमारी"
+  },
+  "Mr Sanket Vijay Narkhede": {
+    "<2hi>": "संकेत विजय नारखेडे"
+  },
+  "Ms Abhilasha Vijaykumar Barule": {
+    "<2hi>": "कु अभिलाषा विजयकुमार बारूळे"
+  },
+  "Ms Samruddhi Ashok Gadadare": {
+    "<2hi>": "समृद्धि अशोक गडदरे"
+  },
+  "Ms Shivani Sunil Kothavale": {
+    "<2hi>": "शिवानी सुनील कोठावळे"
+  },
+  "Ms Neelima Bodkhe": {
+    "<2hi>": "नीलिमा बोड़खे"
+  },
+  "Mr Saurabh Kumar Koriya": {
+    "<2hi>": "सौरभ कुमार कोरिया"
+  },
+  "Mrs Suman Harsha": {
+    "<2hi>": "श्रीमती सुमन हर्ष"
+  },
+  "Ms G Lakshmi Prasanna": {
+    "<2hi>": "श्रीमती जी लक्ष्मी प्रसन्ना"
+  },
+  "Mr Jayawant Shridhar Karale": {
+    "<2hi>": "श्री जयवंत श्रीधर कराले"
+  },
+  "Mr Vinodh Kumar M": {
+    "<2hi>": "विनोद कुमार एम"
+  },
+  "Mr Devendra Bhalchandra Ozarkar": {
+    "<2hi>": "देवेंद्र भालचंद्र ओझरकर"
+  },
+  "Mr Satyaswarup Yerramilli": {
+    "<2hi>": "सत्यस्वरूप येररामिल्ली"
+  },
+  "Dr Sandeep Krishnaji Joshi": {
+    "<2hi>": "डॉ संदीप कृष्णाजी जोशी"
+  },
+  "Mr Anil Kumar Gupta": {
+    "<2hi>": "श्री अनिल कुमार गुप्ता"
+  },
+  "Mr Rajeev Rudrakshi": {
+    "<2hi>": "राजीव रुद्राक्षी"
+  },
+  "Mr Gaurav Kumar Marskole": {
+    "<2hi>": "गौरव कुमार मर्सकोले"
+  },
+  "Mr Kaviraj Dinkar Meshram": {
+    "<2hi>": "कविराज दिनकर मेश्राम"
+  },
+  "Ms Jyoti Shrikant Dahiwele": {
+    "<2hi>": "ज्योती दहिवेले"
+  },
+  "Mr Pankaj Vijay Dorlikar": {
+    "<2hi>": "पंकज विजय डोरलीकर"
+  },
+  "Mr Milind Mahesh Jagtap": {
+    "<2hi>": "मिलिंद महेश जगताप"
+  },
+  "Mr Vaibhav Bhagwat Pol": {
+    "<2hi>": "वैभव भागवत पोळ"
+  },
+  "Mr Jijish S Arjjan": {
+    "<2hi>": "जिजीषएसआर्जन"
+  },
+  "Ms Nisha Agrawal": {
+    "<2hi>": "श्रीमती निशा अग्रवाल"
+  },
+  "Mr Agnelo Joseph Rodrigo": {
+    "<2hi>": "एग्नेलो जोसेफ रोड्रिगो"
+  },
+  "Mr Arun Kumar Ramraj Gupta": {
+    "<2hi>": "अरुण कुमार रामराज गुप्ता"
+  },
+  "Dr V Venkatesh Shenoi": {
+    "<2hi>": "डॉ  वा  वेंकटेश शेनॉय"
+  },
+  "Mr Rishi Kishore Pathak": {
+    "<2hi>": "ऋषि किशोर पाठक"
+  },
+  "Mr Vinay Dnyaneshwar Patil": {
+    "<2hi>": "विनय ज्ञानेश्वर पाटिल"
+  },
+  "Ms Sharda Dixit": {
+    "<2hi>": "सुश्री शारदा दीक्षित"
+  },
+  "Mr Puneet Bakshi": {
+    "<2hi>": "पुनीत बक्शी"
+  },
+  "Mr Singavarapu Sridhar": {
+    "<2hi>": "सिंगवारापु श्रीधर"
+  },
+  "Mr Vijay Nivrutti Mali": {
+    "<2hi>": "विजय निवृत्ती माळी"
+  },
+  "Mr Bishwa Ranjan Ghosh": {
+    "<2hi>": "बिश्व रंजन घोष"
+  },
+  "Mr Dattatraya Vasant Navale": {
+    "<2hi>": "दत्तात्रय वसंत नवले"
+  },
+  "Ms Bharati Dnyaneshwar Musale": {
+    "<2hi>": "भारती ज्ञानेश्वर मुसळे"
+  },
+  "Mr Anant Patange": {
+    "<2hi>": "अनंत पतंगे"
+  },
+  "Ms Pooja Mandar Kale": {
+    "<2hi>": "सुश्री पूजा मंदार काले"
+  },
+  "Ms Anjumara Pathan": {
+    "<2hi>": "सुश्री अंजुमारा पठान"
+  },
+  "Mr Shankar Gopal Chandra Paul": {
+    "<2hi>": "श्री शंकर गोपाल चंद्र पॉल"
+  },
+  "Mr Nitin Bapu Gujar": {
+    "<2hi>": "श्री नितिन बापू गुजर"
+  },
+  "Mr Biplab Kumar Dey": {
+    "<2hi>": "श्री बिप्लब कुमार डे"
+  },
+  "Mr Siju Thomas": {
+    "<2hi>": "श्री सिजू थॉमस"
+  },
+  "Mr Sureshbabu Tekumatla": {
+    "<2hi>": "सुरेशबाबू टेकुमाटला"
+  },
+  "Mr Maneesh Kumar": {
+    "<2hi>": "मनीष कुमार"
+  },
+  "Mr Shashank Kumar": {
+    "<2hi>": "शशांक कुमार"
+  },
+  "Dr Vijeta Sharma": {
+    "<2hi>": "डॉ विजेता शर्मा"
+  },
+  "Ms Pooja Amit Wagh": {
+    "<2hi>": "सुश्री पूजा अमित वाघ"
+  },
+  "Ms Maitreyee Shantaram Waghmare": {
+    "<2hi>": "सुश्री मैत्रेयी शांताराम वाघमारे"
+  },
+  "Ms Mayuri Manohar Desai": {
+    "<2hi>": "सुश्री मयूरी मनोहर देसाई"
+  },
+  "Mr Subodh Pandey": {
+    "<2hi>": "सुबोध पांडेय"
+  },
+  "Ms Kaynat Iftekhar": {
+    "<2hi>": "कायनात इफ्तिखार"
+  },
+  "Ms Neha Nikhil Phadtare": {
+    "<2hi>": "नेहा निखिल फडतरे"
+  },
+  "Mr Abhijit Sanjay Sawant": {
+    "<2hi>": "अभिजीत संजय सावंत"
+  },
+  "Mr Abhishek Namdeo Kalokhe": {
+    "<2hi>": "अभिषेक नामदेव काळोखे"
+  },
+  "Mr Gaurav Makarand Pilankar": {
+    "<2hi>": "गौरव मकरंद पिलणकर"
+  },
+  "Mr Saurabh Kumar Varshney": {
+    "<2hi>": "सौरभ कुमार वार्ष्णेय"
+  },
+  "Mr Prashant Rajkumar Ramteke": {
+    "<2hi>": "प्रशांत राजकुमार रामटेके"
+  },
+  "Mr Santhosh Kumar Kornepati": {
+    "<2hi>": "संतोष कुमार कोर्नेपति"
+  },
+  "Ms Manisha Yadav": {
+    "<2hi>": "मनीषा यादव"
+  },
+  "Ms Kajal Kiran": {
+    "<2hi>": "सुश्री काजल किरण"
+  },
+  "Mr Nasir Mehboob Attar": {
+    "<2hi>": "नसिर मेहबूब अत्तार"
+  },
+  "Ms Ashwini Vaibhav Pol": {
+    "<2hi>": "अश्विनी वैभव पोळ"
+  },
+  "Mr Gaurav Bhargava": {
+    "<2hi>": "श्री गौरव भार्गव"
+  },
+  "Mr Deep Narayan Nand": {
+    "<2hi>": "श्री दीप नारायण नंद"
+  },
+  "Mr Prosenjit Chatterjee": {
+    "<2hi>": "श्री प्रोसेनजीत चटर्जी"
+  },
+  "Mr Yogesh Shivajirao Mustapure": {
+    "<2hi>": "योगेश शिवाजीराव मुस्तापूरे"
+  },
+  "Mr Vishnu Shivaji Jamadar": {
+    "<2hi>": "विष्णु शिवाजी जमादार"
+  },
+  "Mr Deepanshu Rautela": {
+    "<2hi>": "दीपांशु रौतेला"
+  },
+  "Mr Mohit Vishnu Sonawane": {
+    "<2hi>": "श्री मोहित विष्णु सोनवणे"
+  },
+  "Ms Sidak Kaur Bhatia": {
+    "<2hi>": "सिदक कौर भाटिया"
+  },
+  "Mr Sayyad Sameer Sayyad Muneer": {
+    "<2hi>": "सय्यद समीर सय्यद मुनीर"
+  },
+  "Mr Priyaansh Dwivedi": {
+    "<2hi>": "श्री प्रियांश द्विवेदी"
+  },
+  "Mr Kalpak Kishor Chepurwar": {
+    "<2hi>": "श्री कल्पक चेपुरवार"
+  },
+  "Ms Sarita Kumari Singh": {
+    "<2hi>": "सुश्री सरिता कुमारी सिंह"
+  },
+  "Mr Aakash Negi": {
+    "<2hi>": "आकाश नेगी"
+  },
+  "Ms Rutuja Sanjay Malvadkar": {
+    "<2hi>": "सुश्री रुतुजा संजय मालवाडकर"
+  },
+  "Ms Sneha Janardhan Kamble": {
+    "<2hi>": "स्नेहा जनार्दन कांबळे"
+  },
+  "Mr Gugulothu Avinash Naik": {
+    "<2hi>": "गुगुलोथु अविनाश नायक"
+  },
+  "Mr Routu Devimoonchand": {
+    "<2hi>": "श्री रौतु देवीमूनचंद"
+  },
+  "Dr Rajendra Ramchandra Joshi": {
+    "<2hi>": "डॉ राजेंद्र रामचंद्र जोशी"
+  },
+  "Ms Lakshmi Panat": {
+    "<2hi>": "श्रीमती लक्ष्मी पानट"
+  },
+  "Ms Kasibhatla Sunitha": {
+    "<2hi>": "श्रीमती काशीभट्ला सुनीता"
+  },
+  "Dr Uddhavesh Sonavane": {
+    "<2hi>": "डॉ उद्धवेश भास्कर सोनवणे"
+  },
+  "Ms R Rajamenakshi": {
+    "<2hi>": "श्रीमती आर राजमीनाक्षी"
+  },
+  "Mr Vivek Vilas Gavane": {
+    "<2hi>": "श्री विवेक विलास गव्हाणे"
+  },
+  "Ms Ruma Sudipta Banerjee": {
+    "<2hi>": "श्रीमती रुमा बनेर्जी"
+  },
+  "Mr Sandeep Surendra Malviya": {
+    "<2hi>": "श्री संदीप सुरेन्द्र मालवीय"
+  },
+  "Ms Manisha Dinesh Mantri": {
+    "<2hi>": "श्रीमती मनिषा दिनेश मंत्री"
+  },
+  "Mr Achyut Avinash Patil": {
+    "<2hi>": "श्री अच्युत अविनाश पाटील"
+  },
+  "Mr Saurabh Gupta": {
+    "<2hi>": "श्री सौरभ गुप्ता"
+  },
+  "Mr Shailendra Singh Narwariya": {
+    "<2hi>": "श्री शैलेन्द्र सिंह नरवरिया"
+  },
+  "Mr Amit Saxena": {
+    "<2hi>": "श्री अमित सक्सेना"
+  },
+  "Ms Swapna Yenishetti": {
+    "<2hi>": "श्रीमती स्वप्ना एनीशेट्टी"
+  },
+  "Mr V N Mallikarjuna Chari Subbana Chari U Uppuladinne": {
+    "<2hi>": "मल्लिकार्जुनाचारि उपपुलदिन्ने"
+  },
+  "Ms Shruti Anand Koulgi": {
+    "<2hi>": "श्रीमती श्रुति आनंद कौलगी"
+  },
+  "Mr Vinod Jani": {
+    "<2hi>": "श्री विनोद जानी"
+  },
+  "Mr Sankalp Jain": {
+    "<2hi>": "श्री संकल्प जैन"
+  },
+  "Mr Ramakrishnan Edyapatti Periyasamy": {
+    "<2hi>": "श्री रामकृष्णन एडियापट्टी पेरियासामी"
+  },
+  "Ms Renu Gadhari": {
+    "<2hi>": "सुश्री रेणु गधारी"
+  },
+  "Ms Snehal Chhagan Sapkale": {
+    "<2hi>": "स्नेहल सपकाळे"
+  },
+  "Mr Kirti Bhadhadhara": {
+    "<2hi>": "श्री कीर्ति भाधधर"
+  },
+  "Mr Ganesh Karajkhede": {
+    "<2hi>": "डॉ गणेश करजखेडे"
+  },
+  "Mr Avinash Pundlikrao Bayaskar": {
+    "<2hi>": "श्री अविनाश पुंडलिकराव बायस्कर"
+  },
+  "Ms Pritam Digamber Tambe": {
+    "<2hi>": "प्रितम दिगंबर तांबे"
+  },
+  "Ms Archana S Achalere": {
+    "<2hi>": "सुश्री अर्चना एस अचलेरे"
+  },
+  "Ms Jyoti Ravindra Chougule": {
+    "<2hi>": "सुश्री ज्योति रविन्द्र चौगुले"
+  },
+  "Mr Neeraj Bharti": {
+    "<2hi>": "श्री नीरज भारती"
+  },
+  "Mr Md Bilaluddin Sk": {
+    "<2hi>": "श्री मोहम्मद बिलालुद्दीन एसके"
+  },
+  "Ms Jaya Pravinkumar Sonavane": {
+    "<2hi>": "श्रीमती जया प्रविणकुमार सोनवणे"
+  },
+  "Mr Manoj Balasaheb Deshmukh": {
+    "<2hi>": "मनोज बालासाहेब देशमुख"
+  },
+  "Mr Muthukumar B": {
+    "<2hi>": "मुथुकुमार बी"
+  },
+  "Ms Monika Dash": {
+    "<2hi>": "सुश्री मोनिका दास"
+  },
+  "Mr Suresh Kumar Sharma": {
+    "<2hi>": "श्री सुरेश कुमार शर्मा"
+  },
+  "Ms Sneha Todkar": {
+    "<2hi>": "सुश्री स्नेहा दत्तात्रय तोडकर"
+  },
+  "Mr Rohit Chaurasia": {
+    "<2hi>": "श्री रोहित चौरसिया"
+  },
+  "Ms Bhagyashri Bharambe": {
+    "<2hi>": "सुश्री भाग्यश्री भारम्बे"
+  },
+  "Ms Gauri Shashikant Kulkarni": {
+    "<2hi>": "सुश्री गौरी शशिकांत कुलकर्णी"
+  },
+  "Ms Pooja Shivaji Phadatare": {
+    "<2hi>": "श्रीमती पूजा शिवाजी फडतरे"
+  },
+  "Ms Madhura Umesh Deo": {
+    "<2hi>": "सुश्री मधुरा उमेश देव"
+  },
+  "Ms Prachi Arun Barkale": {
+    "<2hi>": "सुश्री प्राची अरुण बरकले"
+  },
+  "Mr Shubham Jagdish Meshram": {
+    "<2hi>": "श्री शुभम जगदीश मेश्राम"
+  },
+  "Mr Anchal Dubey": {
+    "<2hi>": "श्री अंचल दुबे"
+  },
+  "Mr Palash Pullarwar": {
+    "<2hi>": "श्री पलाश पुल्लरवार"
+  },
+  "Mr Nikhil Dasharath Ramane": {
+    "<2hi>": "श्री निखिल दशरथ रामाणे"
+  },
+  "Mr Akash Suman": {
+    "<2hi>": "श्री आकाश सुमन"
+  },
+  "Ms Shraddha Prakash Chaudhari": {
+    "<2hi>": "सुश्री श्रद्धा प्रकाश चौधरी"
+  },
+  "Mr Ameya Sudhir Patil": {
+    "<2hi>": "श्री अमेय सुधीर पाटील"
+  },
+  "Ms Gayatri Narendra Navle": {
+    "<2hi>": "श्रीमती गायत्री नरेंद्र नवले"
+  },
+  "Mr Mrinmay Paul": {
+    "<2hi>": "श्री मृण्मय पॉल"
+  },
+  "Mr Manoj M M": {
+    "<2hi>": "श्री मनोज एम एम"
+  },
+  "Ms Anjali Setiya": {
+    "<2hi>": "अंजलि सेतिया"
+  },
+  "Ms Chaitali Sanjay Kulkarni": {
+    "<2hi>": "सुश्री चैताली संजय कुलकर्णी"
+  },
+  "Mr Rushikesh Sambhaji Patil": {
+    "<2hi>": "श्री ऋषिकेश संभाजी पाटील"
+  },
+  "Mr Gaurav Vaishnav": {
+    "<2hi>": "श्री गौरव वैष्णव"
+  },
+  "Mr Arpit Kahndelwal": {
+    "<2hi>": "अर्पित खंडेलवाल"
+  },
+  "Mr Onkar Sharad Sadigale": {
+    "<2hi>": "श्री ओंकार शरद सदिगले"
+  },
+  "Mr Saurabh Tanaji Mane": {
+    "<2hi>": "श्री सौरभ तानाजी माने"
+  },
+  "Mr Dewansh Gautam": {
+    "<2hi>": "श्री देवांश गौतम"
+  },
+  "Ms Amrita Prasad": {
+    "<2hi>": "अमृता प्रसाद"
+  },
+  "Ms Preet Sunil Jamsandekar": {
+    "<2hi>": "प्रीत सुनील जामसांडेकर"
+  },
+  "Ms Pallavi Pravin Niturkar": {
+    "<2hi>": "पल्लवी प्रवीण निटूरकर"
+  },
+  "Mr Shashank Yadav": {
+    "<2hi>": "श्री शशांक यादव"
+  },
+  "Mr Ajay Kumar Sahu": {
+    "<2hi>": "श्री अजय कुमार साहू"
+  },
+  "Mr Shreyas Sunil Gundawar": {
+    "<2hi>": "श्री श्रेयस सूनिल गुंडावार"
+  },
+  "Ms Sayali Sanjeev Torase": {
+    "<2hi>": "सुश्री सायली संजीव तोरसे"
+  },
+  "Ms Pranauti Dattatray Todkar": {
+    "<2hi>": "प्रणौती दत्तात्रय तोडकर"
+  },
+  "Mr Kunal Shivkumar Tembhare": {
+    "<2hi>": "कुणाल शिवकुमार टेंभरे"
+  },
+  "Mr Gaurav Dilip Kakade": {
+    "<2hi>": "श्री गौरव दिलीप काकडे"
+  },
+  "Mr Mirge Someshwar Diliprao": {
+    "<2hi>": "मिरगे सोमेश्वर दिलीपराव"
+  },
+  "Mr Aniket Vijaysa Nilkanth": {
+    "<2hi>": "श्री अनिकेत विजयसा निळकंठ"
+  },
+  "Mr Darshan Ramesh Nangare": {
+    "<2hi>": "श्री दर्शन रमेश नांगारे"
+  },
+  "Mr Adarsh Agrawal": {
+    "<2hi>": "आदर्श अग्रवाल"
+  },
+  "Dr Sucheta Sanjay Patil": {
+    "<2hi>": "डॉ सुचेता संजय पाटील"
+  },
+  "Ms Tina Sharma": {
+    "<2hi>": "श्रीमती टीना शर्मा"
+  },
+  "Ms Shruti Babhulkar": {
+    "<2hi>": "श्रुति बाभुळकर"
+  },
+  "Mr Kartikey Srivastava": {
+    "<2hi>": "कार्तिकेय श्रीवास्तव"
+  },
+  "Ms Sayali Vivek Satokar": {
+    "<2hi>": "सुश्री सयाली विवेक सातोकर"
+  },
+  "Mr Tushar Atmaram Fegade": {
+    "<2hi>": "श्री तुषार आत्माराम फेगडे"
+  },
+  "Ms Bhumika Tejrao Khawshi": {
+    "<2hi>": "सुश्री भुमिका तेजराव खवशी"
+  },
+  "Mr Aneesh Kotipalli": {
+    "<2hi>": "अनीश कोटिपल्ली"
+  },
+  "Mr Akash Ganesh Khade": {
+    "<2hi>": "श्री आकाश गणेश खाडे"
+  },
+  "Ms Akshara Jayanand Kaginalkar": {
+    "<2hi>": "अक्षरा जयानंद कागीनाळकर"
+  },
+  "Ms Richa Rastogi": {
+    "<2hi>": "ऋचा रस्तोगी"
+  },
+  "Mr Neelesh Shripad Kharkar": {
+    "<2hi>": "नीलेश श्रीपाद खारकर"
+  },
+  "Mr Vikas Kumar": {
+    "<2hi>": "विकास कुमार"
+  },
+  "Mr Sahidul Islam": {
+    "<2hi>": "सहीदुल इस्लाम"
+  },
+  "Mr Atul Girish Joshi": {
+    "<2hi>": "अतुल गिरीश जोशी"
+  },
+  "Ms Pallavi Gulabrao Gavali": {
+    "<2hi>": "सुश्री पल्लवी गुलाबराव गवळी"
+  },
+  "Mr Abhishek Srivastava": {
+    "<2hi>": "श्री अभिषेक श्रीवास्तव"
+  },
+  "Ms Gouri Kadam": {
+    "<2hi>": "सुश्री गौरी कदम"
+  },
+  "Ms Vinaya Sivanandan": {
+    "<2hi>": "सुश्री विनया शिवानंदन"
+  },
+  "Ms Deepti Roshan Sobhani": {
+    "<2hi>": "दीप्ति रोशन सोभानी"
+  },
+  "Dr Santosh Kulkarni": {
+    "<2hi>": "डॉ संतोष कुलकर्णी"
+  },
+  "Dr Sumita Kedia Gandhi": {
+    "<2hi>": "डॉ सुमिता केडिया गांधी"
+  },
+  "Mr Sri Sai Meher K": {
+    "<2hi>": "श्री साई मेहेर के"
+  },
+  "Mr Mohan N Labade": {
+    "<2hi>": "श्री मोहन एन लाबड़े"
+  },
+  "Mr Mohamed Niyaz J": {
+    "<2hi>": "मोहम्मद नियाज जे"
+  },
+  "Mr Sandeep Ramchandra Gavit": {
+    "<2hi>": "श्री संदीप रामचंद्र गावित"
+  },
+  "Mr Arun Kumar Dwivedi": {
+    "<2hi>": "अरुण कुमार द्विवेदी"
+  },
+  "Ms Nithu Shaji Mangalath": {
+    "<2hi>": "सुश्री नीतू शाजी मंगलाथ"
+  },
+  "Ms Monika Shonkumar Pokharkar": {
+    "<2hi>": "मोनिका शोनकुमार पोखरकर"
+  },
+  "Mr Sagar Sitaram Pokale": {
+    "<2hi>": "सागर सीताराम पोकळे"
+  },
+  "Mr Srujan Hitendra Gavhale": {
+    "<2hi>": "सृजन हितेंद्र गव्हाळे"
+  },
+  "Mr Laxmaiah Bathula": {
+    "<2hi>": "लक्ष्मैया बथुला"
+  },
+  "Mr Bhushan Arun Mahajan": {
+    "<2hi>": "भूषण अरुण महाजन"
+  },
+  "Mr Utkarsh Prakash Joshi": {
+    "<2hi>": "उत्कर्ष प्रकाश जोशी"
+  },
+  "Ms Rutuja Jaywant Deshmukh": {
+    "<2hi>": "ऋतुजा जयवंत देशमुख"
+  },
+  "Mr Hrishikesh Sanjay Kumbhar": {
+    "<2hi>": "हृषीकेश संजय कुंभार"
+  },
+  "Ms Sneha Sidhhaling Bidve": {
+    "<2hi>": "स्नेहा सिद्धलिंग बिड़वे"
+  },
+  "Ms Sonakshi Mishra": {
+    "<2hi>": "सोनाक्षी मिश्रा"
+  },
+  "Mr Saurabh Rameshwar Ugale": {
+    "<2hi>": "सौरभ रामेश्वर उगले"
+  },
+  "Ms Rasika Ravindra Karde": {
+    "<2hi>": "रसिका रविंद्र करडे"
+  },
+  "Mr Mohammad Asif Sultan": {
+    "<2hi>": "मोहम्मद आसिफ सुल्तान"
+  },
+  "Mr Akshay Ravindra Kulkarni": {
+    "<2hi>": "श्री अक्षय रविंद्र कुलकर्णी"
+  },
+  "Mr Vinod Vidyasagar Saundatte": {
+    "<2hi>": "विनोद विद्यासागर सौंदत्ते"
+  },
+  "Ms Naik Punam Sharavan": {
+    "<2hi>": "नायक पूनम श्रवण"
+  },
+  "Mr Omkar Rajendra Joshi": {
+    "<2hi>": "ओंकार राजेंद्र जोशी"
+  },
+  "Mr Akshay Gaurishankar Jawale": {
+    "<2hi>": "अक्षय गौरीशंकर जावळे"
+  },
+  "Mr Palash Sinha": {
+    "<2hi>": "पलाश सिन्हा"
+  },
+  "Ms Jayalaxmi Satishkumar": {
+    "<2hi>": "जयलक्ष्मी सतीशकुमार"
+  },
+  "Ms Savita Prabhakar Pethkar": {
+    "<2hi>": "सविता प्रभाकर पेठकर"
+  },
+  "Mr Atulchandra Vijay Bodas": {
+    "<2hi>": "अतुलचंद्र विजय बोड्स"
+  },
+  "Mr Ashish P Kuvelkar": {
+    "<2hi>": "आशिष कुवेलकर"
+  },
+  "Mr Sanjay Wandhekar": {
+    "<2hi>": "संजय वांढेकर"
+  },
+  "Mr A C Natraj": {
+    "<2hi>": "श्री ए सी नटराज"
+  },
+  "Mr Parikshit Dattatray Godbole": {
+    "<2hi>": "परिक्षित गोडबोले"
+  },
+  "Ms Shreeya Pankaj Badhe": {
+    "<2hi>": "श्रीया पंकज बढ़े"
+  },
+  "Ms Vrinda Hemant Kulkarni": {
+    "<2hi>": "वृंदा हेमंत कुलकर्णी"
+  },
+  "Mr Ashish Ranjan": {
+    "<2hi>": "आशीष रंजन"
+  },
+  "Mr Sajish Chandrababu": {
+    "<2hi>": "सजीश चंद्रबाबू"
+  },
+  "Mr Prashant Prabhakar Dinde": {
+    "<2hi>": "श्री प्रशांत प्रभाकर डिंडे"
+  },
+  "Mr Yogeshwar Bhaskar Sonawane": {
+    "<2hi>": "श्री योगेश्वर भास्कर सोनवणे"
+  },
+  "Mr Deepu C V": {
+    "<2hi>": "दीपू सी वी"
+  },
+  "Mr Mohammad Sajeed": {
+    "<2hi>": "मोहम्मद साजिद"
+  },
+  "Mr Manjunatha Valmiki": {
+    "<2hi>": "मंजुनाथ वाल्मीकि"
+  },
+  "Mr Chitranjan Singh": {
+    "<2hi>": "चितरंजन सिंह"
+  },
+  "Ms Shweta Abhishek Das": {
+    "<2hi>": "श्वेता अभिषेक दास"
+  },
+  "Ms Sucheta Eknath Pawar": {
+    "<2hi>": "सुचेता पवार"
+  },
+  "Mr Chinmay Suresh Bahulekar": {
+    "<2hi>": "चिन्मय सुरेश बहुलेकर"
+  },
+  "Mr Rakesh Kumar Yadav": {
+    "<2hi>": "राकेश कुमार यादव"
+  },
+  "Mr Nagesh Suresh Vaidya": {
+    "<2hi>": "नागेश सुरेश वैद्य"
+  },
+  "Mr Abhishek Das": {
+    "<2hi>": "अभिषेक दास"
+  },
+  "Mr Prasad Moreshwar Wadlakondawar": {
+    "<2hi>": "प्रसाद मोरेश्वर वडलकोंडावार"
+  },
+  "Mr Sandeep Agrawal": {
+    "<2hi>": "श्री संदीप अग्रवाल"
+  },
+  "Mr Samrit Kumar Maity": {
+    "<2hi>": "श्री समरित कुमार मैती"
+  },
+  "Mr Sarun O S": {
+    "<2hi>": "श्री सरून ओ एस"
+  },
+  "Mr B S V Ramesh": {
+    "<2hi>": "बी एस वी रमेश"
+  },
+  "Mr Mahesh Ashok Chaudhari": {
+    "<2hi>": "महेश अशोक चौधरी"
+  },
+  "Mr Krishan Gopal Gupta": {
+    "<2hi>": "कृष्ण गोपाल गुप्ता"
+  },
+  "Ms Eva Mishra": {
+    "<2hi>": "ईवा मिश्रा"
+  },
+  "Mr Shashank Sharma": {
+    "<2hi>": "शशांक शर्मा"
+  },
+  "Mr Pravin Ramchandra Jadhav": {
+    "<2hi>": "प्रवीण रामचंद्र जाधव"
+  },
+  "Mr Anshul Batth": {
+    "<2hi>": "अंशुल बाठ"
+  },
+  "Mr Samir Salim Shaikh": {
+    "<2hi>": "समीर सलीम शेख"
+  },
+  "Mr Om Gangadhar Jadhav": {
+    "<2hi>": "ओम गंगाधर जाधव"
+  },
+  "Mr Anilkumar Oppicharla": {
+    "<2hi>": "अनिल कुमार ओपिचार्ला"
+  },
+  "Mr Surendra Billa": {
+    "<2hi>": "सुरेंद्र बिल्ला"
+  },
+  "Mr Akash G J": {
+    "<2hi>": "आकाश जी जे"
+  },
+  "Mr Rajesh Kumar Meena": {
+    "<2hi>": "राजेश कुमार मीना"
+  },
+  "Ms Neha Singh": {
+    "<2hi>": "नेहा सिंह"
+  },
+  "Ms Avani Vivek Kulkarni": {
+    "<2hi>": "अवनी विवेक कुलकर्णी"
+  },
+  "Mr Rahul Singh Dangi": {
+    "<2hi>": "राहुल सिंह डांगी"
+  },
+  "Mr Subhas Raosaheb Ovhal": {
+    "<2hi>": "सुभाष रावसाहेब ओवल"
+  },
+  "Mr Devdas Raosaheb Ovhal": {
+    "<2hi>": "देवदास रावसाहेब ओवल"
+  },
+  "Ms Pratibha Ashok Rao": {
+    "<2hi>": "प्रतिभा अशोक राव"
+  },
+  "Ms Doris Francis": {
+    "<2hi>": "डोरिस जॉर्ज फ्रांसिस"
+  },
+  "Ms Jyoti Jaypraskash Ingle": {
+    "<2hi>": "ज्योति जयप्रकाश इंगले"
+  },
+  "Ms Divya Kumari": {
+    "<2hi>": "दिव्या कुमारी"
+  },
+  "Mr Mirza Mohd Aileeya Qasim": {
+    "<2hi>": "मिर्जा मोहम्मद ऐलेया कासिम"
+  },
+  "Mr Sheelendra Kumar Sharma": {
+    "<2hi>": "शीलेंद्र कुमार शर्मा"
+  },
+  "Mr Pratik Tanaji More": {
+    "<2hi>": "श्री प्रतीक तानाजी मोरे"
+  },
+  "Mr Sahil Sanjaykumar Roy": {
+    "<2hi>": "साहिल संजय कुमार रॉय"
+  },
+  "Ms Kanchi Rakesh Dave": {
+    "<2hi>": "कांची राकेश दवे"
+  },
+  "Mr Mohit Sharma": {
+    "<2hi>": "मोहित शर्मा"
+  },
+  "Mr Anandhu Nair": {
+    "<2hi>": "आनंदु नायर"
+  },
+  "Mr Sumeet Kuvelkar": {
+    "<2hi>": "सुमीत कुवेलकर"
+  },
+  "Ms Chirumamindla Supraja": {
+    "<2hi>": "सुश्री चिरुमामिन्दला सुप्रजा"
+  },
+  "Mr Dharavath Balaji": {
+    "<2hi>": "धारावत बालाजी"
+  },
+  "Mr Justin Joju": {
+    "<2hi>": "जस्टिन जोजू"
+  },
+  "Mr Machhindra Sadashiv Ghorpade": {
+    "<2hi>": "मछिन्द्र सदाशिव घोरपड़े"
+  },
+  "Ms Gayatri Arunrao Gomase": {
+    "<2hi>": "कु गायत्री अरुणराव गोमासे"
+  },
+  "Mr Shivam Sudam Palaskar": {
+    "<2hi>": "शिवम सुदाम पलसकर"
+  },
+  "Ms Ashwini Rajendra Wabale": {
+    "<2hi>": "अश्विनी राजेंद्र वाबळे"
+  },
+  "Ms Prachi Kakade": {
+    "<2hi>": "प्राची काकड़े"
+  },
+  "Mr Lokesh Kumar": {
+    "<2hi>": "लोकेश कुमार"
+  },
+  "Mr Nikhil Rajendra Patil": {
+    "<2hi>": "निखिल राजेंद्र पाटील"
+  },
+  "Mr Saurav Sharad Mestry": {
+    "<2hi>": "सौरभ शरद मिस्त्री"
+  },
+  "Mr Abhimanyu Singh Udawat": {
+    "<2hi>": "अभिमन्यु सिंह उदावत"
+  },
+  "Mr Tushar Shankar Kokate": {
+    "<2hi>": "तुषार शंकर कोकाटे"
+  },
+  "Mr Hitesh Patidar": {
+    "<2hi>": "हितेश पाटीदार"
+  },
+  "Mr Mohasin Mahammad Sayyad": {
+    "<2hi>": "मोहसिन महम्मद सय्यद"
+  },
+  "Mr Rushikesh Nilkanth Jadhav": {
+    "<2hi>": "ऋषिकेश निळकंठ जाधव"
+  },
+  "Ms Tanvi Agrawal": {
+    "<2hi>": "तन्वी अग्रवाल"
+  },
+  "Mr Parikshit Dilip Ardhapurkar": {
+    "<2hi>": "परीक्षित दिलीप अर्धपुरकर"
+  },
+  "Mr Sourav Kumar": {
+    "<2hi>": "सौरव कुमार"
+  },
+  "Mr Satish Gupta": {
+    "<2hi>": "सतीश गुप्ता"
+  },
+  "Mr Varun Kumar Jha": {
+    "<2hi>": "वरुण कुमार झा"
+  },
+  "Ms Harsha Ugave": {
+    "<2hi>": "हर्षा उगावे"
+  },
+  "Ms Riya Jayeshbhai Jogadia": {
+    "<2hi>": "रिया जयेशभाई जोगड़िया"
+  },
+  "Mr Abhishek Patel": {
+    "<2hi>": "अभिषेक पटेल"
+  },
+  "Mr Rushikesh Pravin Bhoskar": {
+    "<2hi>": "ऋषीकेश प्रविण भोस्कर"
+  },
+  "Ms Sowmya Shree": {
+    "<2hi>": "सुश्री सौम्या श्री"
+  },
+  "Mr Himanshu": {
+    "<2hi>": "हिमांशु"
+  },
+  "Mr Paresh K V": {
+    "<2hi>": "परेश के वि"
+  },
+  "Mr Atharv Rambhau Nagarikar": {
+    "<2hi>": "अथर्व रामभाऊ नागरीकर"
+  },
+  "Mr Sandeep Kumar Mishra": {
+    "<2hi>": "संदीप कुमार मिश्र"
+  },
+  "Mr Ratan Vasant Dhole": {
+    "<2hi>": "रतन वसंत ढोले"
+  },
+  "Ms Manshi Muskan": {
+    "<2hi>": "मानसी मुस्कान"
+  },
+  "Mr Vikas Kaushik": {
+    "<2hi>": "विकास कौशिक"
+  },
+  "Mr Rohan Rajendra Bhandari": {
+    "<2hi>": "रोहन राजेंद्र भंडारी"
+  },
+  "Mr Anubhav Mattoo": {
+    "<2hi>": "अनुभव मट्टू"
+  },
+  "Ms Pragati Balaji Kendre": {
+    "<2hi>": "प्रगती बालाजी केंद्रे"
+  },
+  "Mr Sabbi Vamshi Krishna": {
+    "<2hi>": "वामशी कृष्ण सब्बी"
+  },
+  "Ms Sonali Nileshkumar Tathed": {
+    "<2hi>": "सोनाली नीलेशकुमार ताथेड़"
+  },
+  "Mr Pravin Yashwant Pawar": {
+    "<2hi>": "प्रवीन यशवंत पवार"
+  },
+  "Mr Ankur Agnihotri": {
+    "<2hi>": "अंकुर अग्निहोत्री"
+  },
+  "Mr Shubham Mehta": {
+    "<2hi>": "शुभम मेहता"
+  },
+  "Mr Harikesh Tulshiram Shinde": {
+    "<2hi>": "हरिकेश तुळशीराम शिंदे"
+  },
+  "Mr Vardhman Tilokchand Parakh": {
+    "<2hi>": "श्री वर्धमान तिलोकचंद पारख"
+  },
+  "Ms Jayashri Sanjay Pawar": {
+    "<2hi>": "जयश्री संजय पवार"
+  },
+  "Mr Mohammed Afzal": {
+    "<2hi>": "मोहम्मद अफजल"
+  },
+  "Mr Nirmal Kumar Kandaswami": {
+    "<2hi>": "निर्मल कुमार कंदस्वामी"
+  },
+  "Mr V Evancer Vino John": {
+    "<2hi>": "वी इवांसर विनो जॉन"
+  },
+  "Ms Akriti Thakur": {
+    "<2hi>": "आकृति ठाकुर"
+  },
+  "Ms Shweta Hemant Patil": {
+    "<2hi>": "श्वेता हेमंत पाटिल"
+  },
+  "Mr Vinayak Shivaji Gambhir": {
+    "<2hi>": "श्री विनायक शिवाजी गंभीर"
+  },
+  "Mr Manish Sharad Puranik": {
+    "<2hi>": "मनिष पुराणिक"
+  },
+  "Mr Pankaj Pandharinath Bhalerao": {
+    "<2hi>": "श्री पंकज पंढरीनाथ भालेराव"
+  },
+  "Ms Sayali Rajan Dhiwar": {
+    "<2hi>": "सायली राजन धीवार"
+  },
+  "Ms Nandini Vikrant Jagtap": {
+    "<2hi>": "नंदिनी विक्रांत जगताप"
+  },
+  "Mr Abhishek Tiwari": {
+    "<2hi>": "श्री अभिषेक तिवारी"
+  },
+  "Ms Monica Caroline Francis": {
+    "<2hi>": "मोनिका कैरोलीन फ्रान्सिस"
+  },
+  "Ms Meghana Vinayak Jog": {
+    "<2hi>": "मेघना विनायक जोग"
+  },
+  "Mr Prashant S Teli": {
+    "<2hi>": "प्रशांत तेली"
+  },
+  "Mr Manoj Gopinath": {
+    "<2hi>": "मनोज गोपिनाथ"
+  },
+  "Mr Rahul Gajanan Ranade": {
+    "<2hi>": "राहुल गजानन रानडे"
+  },
+  "Mr Sameer S Godambe": {
+    "<2hi>": "समीर सदाशिव गोडांबे"
+  },
+  "Mr Prasad Bhingarkar": {
+    "<2hi>": "प्रसाद भिंगारकर"
+  },
+  "Mr Nilesh Pramod Bute": {
+    "<2hi>": "निलेश बुटे"
+  },
+  "Mr Vinayak Waman Sutar": {
+    "<2hi>": "विनायक वामन सुतार"
+  },
+  "Mr Vivek Saratkar": {
+    "<2hi>": "विवेक सराटकर"
+  },
+  "Ms Rachana Vishwas Patole": {
+    "<2hi>": "रचना विश्‍वास पाटोले"
+  },
+  "Mr Shrikant Ambike": {
+    "<2hi>": "श्रीकांतअंबिके"
+  },
+  "Mr Amol Achyut Walke": {
+    "<2hi>": "अमोल वळके"
+  },
+  "Dr Hemant Darbari": {
+    "<2hi>": "डॉ हेमंत दरबारी"
+  },
+  "Ms Megha Uddhav Khatavkar": {
+    "<2hi>": "मेघा उद्धव खटावकर"
+  },
+  "Dated Signature & Designation of the certifying officer (with seal affixed)": {
+    "<2hi>": "प्रमाणकर्ता अधिकारी के हस्ताक्षर और पदनाम (मुहर लगाकर)"
+  },
+  "Medical Examination": {
+    "<2hi>": "चिकित्सा परीक्षा"
+  },
+  "Character & Antecedents.": {
+    "<2hi>": "चरित्र और पिछला जीवन"
+  },
+  "Allegiance to the Constitution.": {
+    "<2hi>": "संविधान के प्रति निष्ठा"
+  },
+  "Oath of secrecy.": {
+    "<2hi>": "गोपनीयता की शपथ"
+  },
+  "Declaration of Home Town.*": {
+    "<2hi>": "गृह नगर की घोषणा"
+  },
+  "Verification of entries in Part I.": {
+    "<2hi>": "भाग I  में प्रविष्टियों का सत्यापन"
+  },
+  "Confirmation in Post.": {
+    "<2hi>": "पद की पुष्टि"
+  },
+  "The employee was medically examined at the time of appointment and found fit. The original medical certificate has been kept in safe custody at HR department.": {
+    "<2hi>": "नियुक्ति के समय कर्मचारी की चिकित्सकीय परीक्षण किया गया और वह फिट पाया गया। मूल चिकित्सा प्रमाण पत्र_x000d_\nमानव संसाधन विभाग में सुरक्षित निगरानी में रखा गया है ।"
+  },
+  "Her character and antecedents have been verified and the verification report kept in safe custody at HR department.": {
+    "<2hi>": "उनके चरित्र और पिछले जीवन को सत्यापित किया गया है और सत्यापन रिपोर्ट मानव संसाधन विभाग में सुरक्षित निगरानी में रखा गया है।"
+  },
+  "She has taken the oath of allegiance / affirmation to the Constitution.": {
+    "<2hi>": "उन्होंने संविधान के प्रति निष्ठा/पुष्टि की शपथ ली है_x000d_"
+  },
+  "She has read the Official Secrets Act & Central Civil Services (Conduct) Rules and has also taken the oath of secrecy.": {
+    "<2hi>": "उन्होंने ऑफिशियल सीक्रेट्स एक्ट और सेंट्रल सिविल सर्विसेज को पढ़ा है और (आचरण) नियम और गोपनीयता की शपथ भी ली है"
+  },
+  "She has furnished declaration regarding Her not having contracted bigamous marriage. The relevant declaration has been filed.": {
+    "<2hi>": "उन्होंने द्विविवाहित विवाह नहीं करने के संबंध में एक घोषणा पत्र प्रस्तुत किया है। प्रासंगिक घोषणा दायर की गई है"
+  },
+  "She has furnished declaration of home town which has been accepted and filed.": {
+    "<2hi>": "उसने गृह नगर की घोषणा प्रस्तुत की है जिसे स्वीकार कर दाखिल किया गया है।"
+  },
+  "The correctness of entries against S.Nos. 5-8 of Part I \"Biodata\" has been verified from original certificates considered as valid documentary evidence for the respective purposes. Attested copies of these certificates have been filed.": {
+    "<2hi>": "भाग I \"बायोडाटा\" के क्रमांक 5-8 के विरुद्ध प्रविष्टियों की शुद्धता को संबंधित उद्देश्यों के लिए वैध दस्तावेजी साक्ष्य के रूप में मूल प्रमाणपत्रों से डेटा सत्यापित किया गया है। इन प्रमाणपत्रों की सत्यापित प्रतियां दाखिल कर दी गई हैं।"
+  },
+  "S. No.": {
+    "<2hi>": "क्रमांक"
+  },
+  "Maritial Status": {
+    "<2hi>": "वैवाहिक स्थिति"
+  },
+  "Date of Nomination": {
+    "<2hi>": "नामांकन की तिथि"
+  },
+  "PF%": {
+    "<2hi>": "भविष्य-निधि%"
+  },
+  "Other dues %": {
+    "<2hi>": "अन्य बकाया%"
+  },
+  "DCR Gratuity & Family Pension %": {
+    "<2hi>": "डीसीआर ग्रेच्युटी और पारिवारिक पेंशन%"
+  },
+  "Leave Encashment %": {
+    "<2hi>": "छुट्टी का नकदीकरण%"
+  },
+  "Post Held": {
+    "<2hi>": "के पास यह पद है"
+  },
+  "Signature & Designation of the certifying officer": {
+    "<2hi>": "प्रमाणकर्ता अधिकारी के हस्ताक्षर और पदनाम"
+  },
+  "Post Held and Name of Foreign Employer": {
+    "<2hi>": "विदेशी नियोक्ता का नाम और पद"
+  },
+  "Leave and Pension Contribution payable by": {
+    "<2hi>": "छुट्टी और पेंशन अंशदान द्वारा देय"
+  },
+  "Amount of Leave Pension contribution actually received": {
+    "<2hi>": "अवकाश पेंशन की राशि वास्तव में योगदान"
+  },
+  "Post, Scale of Pay and Office (with station)": {
+    "<2hi>": "पद, वेतनमान और कार्यालय (स्टेशन के साथ)"
+  },
+  "Substantive (Rs.)": {
+    "<2hi>": "मूल (₹)"
+  },
+  "Till Date": {
+    "<2hi>": "अब तक"
+  },
+  "Reason": {
+    "<2hi>": "वजह"
+  },
+  "For Your Information": {
+    "<2hi>": "आपकी जानकारी के लिए"
+  },
+
+  "As Soon As Possible": {
+    "<2hi>": "यथाशीघ्र"
+  },
+
+  "Please Turn Over": {
+    "<2hi>": "कृपया पृष्ठ पलटें"
+  },
+
+  "End Of Day": {
+    "<2hi>": "दिन समाप्ति तक"
+  },
+
+  "Point Of Contact": {
+    "<2hi>": "संपर्क बिंदु"
+  },
+
+  "Government": {
+    "<2hi>": "सरकार"
+  },
+
+  "Department": {
+    "<2hi>": "विभाग"
+  },
+
+  "Reference": {
+    "<2hi>": "संदर्भ"
+  },
+
+  "Number": {
+    "<2hi>": "संख्या"
+  },
+
+  "Son of": {
+    "<2hi>": "पुत्र"
+  },
+
+  "Daughter of": {
+    "<2hi>": "पुत्री"
+  },
+
+  "Wife of": {
+    "<2hi>": "पत्नी"
+  },
+
+  "Care of": {
+    "<2hi>": "देखरेख में"
+  },
+
+  "Resident of": {
+    "<2hi>": "निवासी"
+  },
+
+  "Date of Birth": {
+    "<2hi>": "जन्म तिथि"
+  },
+
+  "Date of Joining": {
+    "<2hi>": "कार्यभार ग्रहण तिथि"
+  },
+
+  "High Court": {
+    "<2hi>": "उच्च न्यायालय"
+  },
+
+  "Supreme Court": {
+    "<2hi>": "उच्चतम न्यायालय"
+  },
+
+  "Union of India": {
+    "<2hi>": "भारत संघ"
+  },
+
+  "Government of India": {
+    "<2hi>": "भारत सरकार"
+  },
+
+  "Prime Minister's Office": {
+    "<2hi>": "प्रधानमंत्री कार्यालय"
+  },
+
+  "District Magistrate": {
+    "<2hi>": "जिला मजिस्ट्रेट"
+  },
+
+  "Additional District Magistrate": {
+    "<2hi>": "अपर जिला मजिस्ट्रेट"
+  },
+
+  "Drawing and Disbursement Officer": {
+    "<2hi>": "आहरण एवं संवितरण अधिकारी"
+  },
+
+  "Comptroller and Auditor General": {
+    "<2hi>": "भारत के नियंत्रक एवं महालेखा परीक्षक"
+  },
+
+  "Central Public Works Department": {
+    "<2hi>": "केंद्रीय लोक निर्माण विभाग"
+  },
+
+  "Press Information Bureau": {
+    "<2hi>": "पत्र सूचना ब्यूरो"
+  },
+
+  "Non-Governmental Organization": {
+    "<2hi>": "गैर सरकारी संगठन"
+  },
+
+  "Public Sector Undertaking": {
+    "<2hi>": "सार्वजनिक क्षेत्र उपक्रम"
+  },
+
+  "Memorandum of Understanding": {
+    "<2hi>": "समझौता ज्ञापन"
+  },
+
+  "Right to Information": {
+    "<2hi>": "सूचना का अधिकार"
+  },
+
+  "First Information Report": {
+    "<2hi>": "प्रथम सूचना रिपोर्ट"
+  },
+
+  "Indian Penal Code": {
+    "<2hi>": "भारतीय दंड संहिता"
+  },
+
+  "Code of Criminal Procedure": {
+    "<2hi>": "दंड प्रक्रिया संहिता"
+  },
+
+  "Code of Civil Procedure": {
+    "<2hi>": "दीवानी प्रक्रिया संहिता"
+  },
+
+  "Goods and Services Tax": {
+    "<2hi>": "वस्तु एवं सेवा कर"
+  },
+
+  "Permanent Account Number": {
+    "<2hi>": "स्थायी खाता संख्या"
+  },
+
+  "Unique Identification Authority of India": {
+    "<2hi>": "भारतीय विशिष्ट पहचान प्राधिकरण"
+  },
+
+  "Income Tax Return": {
+    "<2hi>": "आयकर रिटर्न"
+  },
+
+  "Person with Disability": {
+    "<2hi>": "दिव्यांग व्यक्ति"
+  },
+
+  "No Objection Certificate": {
+    "<2hi>": "अनापत्ति प्रमाण पत्र"
+  }
+}

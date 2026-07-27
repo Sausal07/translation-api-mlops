@@ -1,0 +1,23 @@
+* Input sentence prefix for target language:
+
+<2as>	Assamese
+<2bn>	Bengali
+<2br>	Bodo
+<2gu>	Gujarati
+<2hi>	Hindi
+<2kn>	Kannada
+<2ks>	Kashmiri
+<2kk>	Konkani
+<2ma>	Maithili
+<2ml>	Malayalam
+<2mr>	Marathi
+<2np>	Nepali
+<2or>	Oriya
+<2pa>	Punjabi
+<2sn>	Sanskrit
+<2sd>	Sindhi
+<2ta>	Tamil
+<2te>	Telugu
+
+
+<2as> my name is saurabh

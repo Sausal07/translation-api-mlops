@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables and secrets
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Large ML model files
+*.bin
+*.pt
+*.pth
+*.safetensors
+
+# Local model directory
+models/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
