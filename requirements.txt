@@ -1,0 +1,4 @@
+ctranslate2==4.8.1
+fastapi==0.141.1
+nltk==3.10.0
+pydantic==2.13.4

@@ -125,6 +125,8 @@ h5py==2.10.0
 hanlp-downloader==0.0.25
 HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
 holoviews @ file:///opt/conda/conda-bld/holoviews_1645454331194/work
+httpcore==0.17.3
+httpx==0.24.1
 huggingface-hub==0.9.1
 hupper==1.10.3
 hvplot @ file:///tmp/build/80754af9/hvplot_1627305124151/work

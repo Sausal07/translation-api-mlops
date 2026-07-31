@@ -15,7 +15,7 @@ Last updated on 6th December 2021
 
 import re
 
-import language_info
+from . import language_info
 
 
 ## for language which have danda as delimiter (Excluding Period)

@@ -1,14 +1,15 @@
 # from translate import initModel as model_bi_directional_translate   
-from translate_multi import get_translate as bi_directional_translate
-from translate_multi import expand_abbreviations
+from .translate_multi import get_translate as bi_directional_translate
+from .translate_multi import expand_abbreviations
 import os
 import json
 import re
 import logging
+from pathlib import Path
 import ctranslate2
-from subWordNMT import initSubWordModel
-from Transliteration_RuleBased import GenericTransliteration
-from transliteration_load_ct_multi import returnTransliterationLine
+from .subWordNMT import initSubWordModel
+from .Transliteration_RuleBased import GenericTransliteration
+from .transliteration_load_ct_multi import returnTransliterationLine
 
 objEngmulti_translation = None
 objSubwordEngmulti_translation =None
@@ -31,6 +32,9 @@ objhin_EngLegal_translation = None
 objEng_IL_high_resource_translation = None
 objSubwordEngmulti_high_resource_translation =None
 
+BASE_DIR = Path(__file__).resolve().parent
+MODEL_DIR = BASE_DIR / "Translation_Models"
+BPE_DIR = BASE_DIR / "BPE_Models"
 
 
 
@@ -72,11 +76,11 @@ def initModeltranslation():
         # objEng_IL_domain_translation = ctranslate2.Translator("./Translation_Models/en_il_gov_domain", device="cpu")
         # objIL_Eng_domain_translation = ctranslate2.Translator("./Translation_Models/il_en_gov_domain", device="cpu")
 
-        objEng_IL_high_resource_translation = ctranslate2.Translator("./Translation_Models/en-il-high-resource", device="cpu")
+        objEng_IL_high_resource_translation = ctranslate2.Translator(str(MODEL_DIR / "en-il-high-resource"), device="cpu")
         # objEng_IL_mid_resource_translation = ctranslate2.Translator("./Translation_Models/en-il-mid-resource", device="cpu")
         # objEng_IL_dravidian_translation = ctranslate2.Translator("./Translation_Models/en-il-dravidian", device="cpu")
         # objEng_IL_low_resource_translation = ctranslate2.Translator("./Translation_Models/en-il-low-resource", device="cpu")
-        objIL_Eng_high_resource_translation = ctranslate2.Translator("./Translation_Models/il-en-high-resource", device="cpu")
+        objIL_Eng_high_resource_translation = ctranslate2.Translator(str(MODEL_DIR / "il-en-high-resource"), device="cpu")
         # objIL_Eng_mid_resource_translation = ctranslate2.Translator("./Translation_Models/il-en-mid-resource", device="cpu")
         # objIL_Eng_darvidian_translation = ctranslate2.Translator("./Translation_Models/il-en-dravidian", device="cpu")
         # objIL_Eng_low_resource_translation = ctranslate2.Translator("./Translation_Models/il-en-low-resource", device="cpu")
@@ -113,34 +117,34 @@ def initModeltranslation():
         # objSubwordEngBodo_translation = initSubWordModel('./BPE_Models/codes_file_br')
         # objSubwordEngManipuri_translation = initSubWordModel('./BPE_Models/codes_file_mn')
 
-        objSubwordEngmulti_high_resource_translation = initSubWordModel('./BPE_Models/codes_file_en_il_high_resource')
+        objSubwordEngmulti_high_resource_translation = initSubWordModel(str(BPE_DIR / "codes_file_en_il_high_resource"))
         # objSubwordEngmulti_mid_resource_translation = initSubWordModel('./BPE_Models/codes_file_en_il_mid_resource')
         # objSubwordEngmulti_dravidian_translation = initSubWordModel('./BPE_Models/codes_file_en_il_Dravidian')
         # objSubwordEngmulti_low_resource_translation = initSubWordModel('./BPE_Models/codes_file_en_il_low_resource')
-        objSubwordmultiEng_high_resource_translation = initSubWordModel('./BPE_Models/codes_file_il_en_high_resource')
+        objSubwordmultiEng_high_resource_translation = initSubWordModel(str(BPE_DIR / "codes_file_il_en_high_resource"))
         # objSubwordmultiEng_mid_resource_translation = initSubWordModel('./BPE_Models/codes_file_il_en_mid_resource')
         # objSubwordmultiEng_dravidian_translation = initSubWordModel('./BPE_Models/dravidian_reverse_bpe')
         # objSubwordmultiEng_low_resource_translation = initSubWordModel('./BPE_Models/codes_file_il_en_low_resource')
 
 
         # for marthi modi transliteration when you do english to modi translation
-        global punctList
-        with open("punct.txt",'r',encoding='utf-8') as fPunct:
-                punctList = fPunct.read().replace('\r\n','\n').split('\n')
-                punctList.append(' ')
-                # print(punctList) 
+        # global punctList
+        # with open("punct.txt",'r',encoding='utf-8') as fPunct:
+        #         punctList = fPunct.read().replace('\r\n','\n').split('\n')
+        #         punctList.append(' ')
+        #         # print(punctList) 
 
-        global objMarModiRuleTrans
-        objMarModiRuleTrans = GenericTransliteration()
-        objMarModiRuleTrans.loadDictionaries("./genericTrans/marathi2modi.rul","punct.txt") 
+        # global objMarModiRuleTrans
+        # objMarModiRuleTrans = GenericTransliteration()
+        # objMarModiRuleTrans.loadDictionaries("./genericTrans/marathi2modi.rul","punct.txt") 
 
 
         global GLOSSARY_LOOKUP
         global ABBREVIATIONS
         global GLOSSARY
 
-        GLOSSARY_FILE = "./glossary.json"
-        ABBREVIATION_FILE = "./abbrevations.txt"
+        GLOSSARY_FILE = "./app/glossary.json"
+        ABBREVIATION_FILE = "./app/abbrevations.txt"
 
         def normalize_sentence(sentence):
             sentence = sentence.lower().strip()
@@ -219,18 +223,18 @@ def translation_model_multi(ip_text,srcLang,tgtLang,delimiter,nOptions):
                 # print('objSubwordEngmulti_translation:',objSubwordEngmulti_translation)
                 # op =  bi_directional_translate(ip_text.strip(),srcLang,tgtLang,objEngmulti_translation,objSubwordEngmulti_translation,delimiter,nOptions)
                 # print('op of eng_mar translation:',op)
-                if tgtLang == 'mar-modi':
-                    # print('inside eng-modi translation')
-                    # op =  bi_directional_translate(ip_text.strip(),srcLang,'mar-deva',objEngmulti_translation,objSubwordEngmulti_translation,delimiter,nOptions)
-                    op =  bi_directional_translate(ip_text.strip(),srcLang,'mar-deva',objEng_IL_high_resource_translation,objSubwordEngmulti_high_resource_translation,delimiter,nOptions)
-                    # print('op of eng_mar translation:',op)
-                    if op!='':
-                        # print('op of eng_mar translation:',op)
-                        op = objMarModiRuleTrans.returnTransliterationLine(op.strip())
+                # if tgtLang == 'mar-modi':
+                #     # print('inside eng-modi translation')
+                #     # op =  bi_directional_translate(ip_text.strip(),srcLang,'mar-deva',objEngmulti_translation,objSubwordEngmulti_translation,delimiter,nOptions)
+                #     op =  bi_directional_translate(ip_text.strip(),srcLang,'mar-deva',objEng_IL_high_resource_translation,objSubwordEngmulti_high_resource_translation,delimiter,nOptions)
+                #     # print('op of eng_mar translation:',op)
+                #     if op!='':
+                #         # print('op of eng_mar translation:',op)
+                #         op = objMarModiRuleTrans.returnTransliterationLine(op.strip())
                        
-                else:
+                # else:
 
-                    op =  bi_directional_translate(ip_text.strip(),srcLang,tgtLang,objEng_IL_high_resource_translation,objSubwordEngmulti_high_resource_translation,delimiter,nOptions)
+                op =  bi_directional_translate(ip_text.strip(),srcLang,tgtLang,objEng_IL_high_resource_translation,objSubwordEngmulti_high_resource_translation,delimiter,nOptions)
             
 
 

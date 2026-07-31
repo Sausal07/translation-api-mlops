@@ -1,4 +1,4 @@
-from apply_bpe import BPE 
+from .apply_bpe import BPE 
 import codecs
 import re
 obj_bpe=None

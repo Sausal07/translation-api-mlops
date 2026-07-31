@@ -1,10 +1,10 @@
 # from translate import initModel as model_bi_directional_translate   
-from transliteration_ct_multi import get_translate as bi_directional_translate
+from .transliteration_ct_multi import get_translate as bi_directional_translate
 import os
 import logging
 import ctranslate2
-from subWordNMT import initSubWordModel
-from searchInTransliterationDic import Trie
+from .subWordNMT import initSubWordModel
+from .searchInTransliterationDic import Trie
 import string
 
 

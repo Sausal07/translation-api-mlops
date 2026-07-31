@@ -13,7 +13,7 @@ from itertools import repeat
 # from nltk import sent_tokenize
 # from nmtCleanerNew import returnCleanDataNew
 
-from subWordNMT import initSubWordModel, convertSubWord, decodeSubword
+from .subWordNMT import initSubWordModel, convertSubWord, decodeSubword
 # from sentence_tokenize import sentence_split
 
 import ctranslate2

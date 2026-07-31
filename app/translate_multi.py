@@ -11,11 +11,11 @@ from itertools import repeat
 # import onmt.opts as opts
 # from onmt.utils.parse import ArgumentParser
 from nltk import sent_tokenize
-from nmtCleanerNew_multi import returnCleanDataNew
-from cleaner_all_lang30112022 import returnCleanDataILIL
+from .nmtCleanerNew_multi import returnCleanDataNew
+from .cleaner_all_lang30112022 import returnCleanDataILIL
 
-from subWordNMT import initSubWordModel, convertSubWord, decodeSubword
-from sentence_tokenize import sentence_split
+from .subWordNMT import initSubWordModel, convertSubWord, decodeSubword
+from .sentence_tokenize import sentence_split
 
 from difflib import get_close_matches
 import ctranslate2

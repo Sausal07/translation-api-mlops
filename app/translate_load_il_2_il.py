@@ -1,15 +1,18 @@
 # from translate import initModel as model_bi_directional_translate   
-from translate_multi import get_translate as bi_directional_translate
+from .translate_multi import get_translate as bi_directional_translate
 import os
 import logging
 import ctranslate2
-from subWordNMT import initSubWordModel
+from .subWordNMT import initSubWordModel
+from pathlib import Path
 
 
 objILIL_translation = None
 objSubwordILIL_translation =None
 
-
+BASE_DIR = Path(__file__).resolve().parent
+MODEL_DIR = BASE_DIR / "Translation_Models"
+BPE_DIR = BASE_DIR / "BPE_Models"
 # fengmultilog = None
 
 
@@ -20,13 +23,13 @@ def initModeltranslation():
 
         global objILIL_translation
 
-        objILIL_translation = ctranslate2.Translator("./Translation_Models/il_2_il_model", device="cpu")#,intra_threads=32)  # or "cuda" for GPU
+        objILIL_translation = ctranslate2.Translator(str(MODEL_DIR / "il_2_il_model"), device="cpu")#,intra_threads=32)  # or "cuda" for GPU
        
         
         global objSubwordILIL_translation
 
         #codes files  Bengali, Tamil, Malayalam, Kannada, Gujaratti, Punjabi, Telugu
-        objSubwordILIL_translation = initSubWordModel('./BPE_Models/codes_file_il_2_il')      
+        objSubwordILIL_translation = initSubWordModel(str(BPE_DIR / "codes_file_il_2_il"))      
                 
 
 

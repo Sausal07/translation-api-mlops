@@ -5,8 +5,8 @@ from typing import Optional
 import logging
 
 # from transliteration_load_ct_multi import transliteration_model_ct_multi,pass_variable_ct,initModeltransliteration
-from translate_load_multi import translation_model_multi,pass_variable,initModeltranslation
-from translate_load_il_2_il import translation_model_ILIL
+from .translate_load_multi import translation_model_multi,pass_variable,initModeltranslation
+from .translate_load_il_2_il import translation_model_ILIL
 
 app = FastAPI(
     title="Translation API",
