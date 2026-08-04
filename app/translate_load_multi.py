@@ -244,6 +244,9 @@ def translation_model_multi(ip_text,srcLang,tgtLang,delimiter,nOptions):
                 op =  bi_directional_translate(ip_text.strip(),srcLang,tgtLang,objEng_IL_high_resource_translation,objSubwordEngmulti_high_resource_translation,delimiter,nOptions)
 
 
+            else:
+                op = "Currently this web service is not supporting"
+                # print('op')
 
 
 
@@ -267,8 +270,9 @@ def translation_model_multi(ip_text,srcLang,tgtLang,delimiter,nOptions):
 
          
 
-        else:
-            op = "Currently this web service is not supporting"
+            else:
+                op = "Currently this web service is not supporting"
+                # print('op')
 
 
         # print('op1:',op)

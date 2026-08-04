@@ -101,17 +101,17 @@ def version():
 
 
 @app.post("/getTranslation")
-async def generic_translation(request: Request):
+async def generic_translation(request: Request, input_data: translationRequest,):
     try:
-        body = await request.json()
-        print("Incoming request body:", body)
+        # body = await request.json()
+        # print("Incoming request body:", body)
         
-        # # Remap 'ip_text' to 'input_text' if needed
-        # if 'ip_text' in body:
-        #     body['input_text'] = body.pop('ip_text')
+        # # # Remap 'ip_text' to 'input_text' if needed
+        # # if 'ip_text' in body:
+        # #     body['input_text'] = body.pop('ip_text')
         
-        # Validate input
-        input_data = translationRequest(**body)
+        # # Validate input
+        # input_data = translationRequest(**body)
         ip_text = input_data.ip_text
         srcLang = input_data.srcLang.lower()
         tgtLang = input_data.tgtLang.lower()
@@ -126,7 +126,7 @@ async def generic_translation(request: Request):
             ip = request.client.host
 
         print("=" * 80)
-        print(ip)
+        # print(ip)
         pass_variable(ip)
 
         # # Process
@@ -143,9 +143,9 @@ async def generic_translation(request: Request):
             # print('op view:',op)
         else:
             op = translation_model_ILIL(ip_text.strip(),srcLang,tgtLang,delimiter,nSuggestions)
-      
+        print(op)
         if op =='Currently this web service is not supporting':
-            return JsonResponse({"error": "Invalid Input language pairs"}, status=401)
+            return JSONResponse({"error": "Invalid Input language pairs"}, status_code=401)
 
         else:
             # response={"Output": op}
@@ -158,3 +158,4 @@ async def generic_translation(request: Request):
 
 
 #uvicorn app:app --host 0.0.0.0 --port 8000
+# uvicorn app.main:app --host 0.0.0.0 --port 8000
