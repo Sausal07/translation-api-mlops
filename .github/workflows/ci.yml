@@ -35,6 +35,20 @@ jobs:
         run: |
           pytest --cov=app --cov-report=term-missing
 
+      - name: Log in to GHCR
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Build Docker image
         run: |
-          docker build -t translation-api:${{ github.sha }} .
+          docker build \
+            -t ghcr.io/Sausal07/translation-api:${{ github.sha }} \
+            .
+
+      - name: Push Docker image
+        run: |
+          docker push \
+            ghcr.io/Sausal07/translation-api:${{ github.sha }}
