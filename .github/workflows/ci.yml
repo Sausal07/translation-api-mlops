@@ -29,8 +29,12 @@ jobs:
           pip install -r requirements-python310.txt
           pip install pytest pytest-cov
 
-      - name: Run tests
+      - name: Run tests with coverage
         env:
           PYTHONPATH: .
         run: |
-          pytest
+          pytest --cov=app --cov-report=term-missing
+
+      - name: Build Docker image
+        run: |
+          docker build -t translation-api:${{ github.sha }} .
