@@ -8,8 +8,12 @@ on:
     branches:
       - main
 
+permissions:
+  contents: read
+  packages: write
+
 jobs:
-  test:
+  test-and-build:
 
     runs-on: ubuntu-latest
 
