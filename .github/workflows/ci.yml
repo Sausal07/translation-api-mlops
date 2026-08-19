@@ -45,10 +45,10 @@ jobs:
       - name: Build Docker image
         run: |
           docker build \
-            -t ghcr.io/Sausal07/translation-api:${{ github.sha }} \
+            -t ghcr.io/sausal07/translation-api:${{ github.sha }} \
             .
 
       - name: Push Docker image
         run: |
           docker push \
-            ghcr.io/Sausal07/translation-api:${{ github.sha }}
+            ghcr.io/sausal07/translation-api:${{ github.sha }}
